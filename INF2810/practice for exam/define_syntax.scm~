@@ -1,0 +1,4 @@
+(define-syntax incr
+  (syntax-rules ()
+    ((incr a)
+     (set! a (+ 1 a)))))

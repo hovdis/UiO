@@ -1,0 +1,13 @@
+'''
+| = disjunksjon
+\w er alfanumeriske tegn
++ er en eller fler
+* er 0 eller fler
+? 0 eller 1
+. er hva som helst
+.* hva som helst evig (0-> uendelig)
+\W er ikke alfanumeriske tegn
+\s er tomrom (tab, space etc.)
+\S er ikke tomrom
+
+'''

@@ -1,0 +1,26 @@
+# Pasienter (id, navn, fodselsnummer, adresse, postnr)
+0, Jens Hans Olsen, 11111143521, Veigata 9, 4523
+0, Petrolina Swiq, 24120099343, Pillestedet 49, 0789
+0, Sven Svendsen, 10111224244, Storgata 67, 5341
+0, Juni Olsen, 21049563451, Blåbærstien 423b, 3532
+0, Rune Hovde, 01059544515, Einerbakken 24, 2827
+
+# Legemidler (ID, navn, type, pris, virkestoff [, styrke])
+0, Predizol, a, 450.00, 75.0, 8
+0, Paralgin Forte, b, 65.00, 400.0, 5
+0, Placebo Pianissimo, c, 10.00, 0.0
+0, Hero, a, 100.00, 1000.0, 2000
+
+# Leger (navn, avtalenr / 0 hvis ingen avtale)
+Dr. Dre, 0
+Dr. Hus, 63634
+Dr. Oz, 342
+Dr. Phil, 0
+Øistein, 10
+
+# Resepter (id, hvit/blaa, pasientID, legenavn, legemiddelID, reit)
+0, blaa, 2, Dr. Oz, 0, 3
+0, hvit, 3, Dr. Hus, 0, 10000
+0, blaa, 0, Øistein, 0, 10
+
+# Slutt

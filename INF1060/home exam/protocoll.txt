@@ -1,0 +1,40 @@
+How to compile and run the program
+To compile both server and client: make
+To make server:                    make server
+To make client:                    make client
+
+To compile server and client in debug-mode: make debug
+
+to run the server: ./server <.job-file> <port>
+to run the client: ./client <127.0.0.1> <port>
+
+to clean, use: make clean
+
+
+My protocols are as follows:
+This is the four least significant bits for the four bytes i send from client to server
+
+0001 - Send one job
+0010 - The client is terminating normally
+0100 - The client is terminating with an error
+1000 - Send x jobs
+1001 - Send all jobs
+
+if The message is 1000 (8), the number og jobs requesting is defined as the more significant
+bits in the same message.
+E.g.
+1011000 -> Asks for 5 jobs.
+
+
+Sources:
+  1. The interrupt handler is inspired by lecture week 11 (by Hans Petter Taugbøl Kragset)
+      https://screencast.uninett.no/relay/ansatt/hpkragseuio.no/2017/30.10/5398600/INF1060_P11_h17_-_20171030_160250_39.html
+  2. The client-server connection and communication is inspired by the example programs by Hans Petter Taugbøl Kragset
+      https://github.uio.no/INF1060/eksempelprogrammer/tree/master/client-server-example
+  3. Setsockopt is influenced by stack overflow (added by Chnossos)
+      https://stackoverflow.com/questions/24194961/how-do-i-use-setsockoptso-reuseaddr
+  4. A lot of man-pages that is recommended on the exam assignment
+  5. The pipe-programming was inspired by the example program by Hans Petter Taugbøl Kragset
+      https://github.uio.no/INF1060/eksempelprogrammer/tree/master/pipes
+  6. How to make two children with fork is inspired by stack overflow (added by tuxuday)
+      https://stackoverflow.com/questions/10909011/how-to-use-fork-to-create-only-2-child-processes

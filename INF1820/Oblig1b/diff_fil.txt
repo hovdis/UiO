@@ -1,0 +1,19168 @@
+4c4,5
+< avstår,
+---
+> avstår
+> ,
+6c7,8
+< bevisst,
+---
+> bevisst
+> ,
+9c11,12
+< «sette
+---
+> «
+> sette
+11c14,15
+< på»
+---
+> på
+> »
+30c34,35
+< lovovertrederen.
+---
+> lovovertrederen
+> .
+47c52,53
+< ord.
+---
+> ord
+> .
+53c59,60
+< meddommere,
+---
+> meddommere
+> ,
+55c62,63
+< Thomassen,
+---
+> Thomassen
+> ,
+63c71,72
+< uforståelig,
+---
+> uforståelig
+> ,
+69c78,79
+< med:
+---
+> med
+> :
+78c88,89
+< dommen.
+---
+> dommen
+> .
+95c106,107
+< Oslo,
+---
+> Oslo
+> ,
+99c111,112
+< meddommergjerning,
+---
+> meddommergjerning
+> ,
+105c118,119
+< spalter,
+---
+> spalter
+> ,
+122c136,137
+< ansiktet.
+---
+> ansiktet
+> .
+130c145,146
+< gjerning.
+---
+> gjerning
+> .
+138,139c154,157
+< han,
+< meddommeren,
+---
+> han
+> ,
+> meddommeren
+> ,
+143c161,162
+< prosessen.
+---
+> prosessen
+> .
+147,148c166,169
+< ord:
+< «Han
+---
+> ord
+> :
+> «
+> Han
+152c173,174
+< rovdyr.
+---
+> rovdyr
+> .
+158c180,182
+< på.»
+---
+> på
+> .
+> »
+169c193,194
+< kriminaljournalistikk.
+---
+> kriminaljournalistikk
+> .
+188c213,214
+< vurderinger;
+---
+> vurderinger
+> ;
+190c216,217
+< samtidig,
+---
+> samtidig
+> ,
+196c223,224
+< mulig,
+---
+> mulig
+> ,
+199c227,228
+< få,
+---
+> få
+> ,
+204c233,234
+< få,
+---
+> få
+> ,
+219c249,250
+< opplevet.
+---
+> opplevet
+> .
+222c253,254
+< spør,
+---
+> spør
+> ,
+227c259,260
+< svar.
+---
+> svar
+> .
+230c263,264
+< ord.
+---
+> ord
+> .
+241c275,276
+< selvvalgt,
+---
+> selvvalgt
+> ,
+249c284,285
+< oppfatninger.
+---
+> oppfatninger
+> .
+252c288,289
+< naturlig,
+---
+> naturlig
+> ,
+260c297,298
+< eksempel,
+---
+> eksempel
+> ,
+270c308,309
+< ønsker.
+---
+> ønsker
+> .
+272c311,312
+< kommer,
+---
+> kommer
+> ,
+275c315,316
+< medier,
+---
+> medier
+> ,
+277c318,319
+< Aftenposten,
+---
+> Aftenposten
+> ,
+294c336,337
+< avis.
+---
+> avis
+> .
+297c340,341
+< leverer,
+---
+> leverer
+> ,
+299c343,344
+< her.
+---
+> her
+> .
+310c355,356
+< tid:
+---
+> tid
+> :
+328c374,378
+< offer(!).
+---
+> offer
+> (
+> !
+> )
+> .
+341,342c391,395
+< tiltalte:
+< «...han
+---
+> tiltalte
+> :
+> «
+> ...
+> han
+346c399,401
+< dyr».
+---
+> dyr
+> »
+> .
+350c405,406
+< dyr?
+---
+> dyr
+> ?
+356c412,413
+< menneske?
+---
+> menneske
+> ?
+365c422,423
+< samvittighetskval,
+---
+> samvittighetskval
+> ,
+369c427,428
+< enklere,
+---
+> enklere
+> ,
+372c431,432
+< forståelig.
+---
+> forståelig
+> .
+384c444,445
+< samvittighetsspark;
+---
+> samvittighetsspark
+> ;
+386c447,448
+< verre.
+---
+> verre
+> .
+390c452,453
+< forsettlig.
+---
+> forsettlig
+> .
+396c459,460
+< straff,
+---
+> straff
+> ,
+405c469,470
+< alle.
+---
+> alle
+> .
+414c479,480
+< rettsprinsipper,
+---
+> rettsprinsipper
+> ,
+420c486,487
+< straffer,
+---
+> straffer
+> ,
+430c497,498
+< tjeneste,
+---
+> tjeneste
+> ,
+433,434c501,505
+< som:
+< «...ønsket
+---
+> som
+> :
+> «
+> ...
+> ønsket
+438c509,511
+< ofrene»,
+---
+> ofrene
+> »
+> ,
+445c518,521
+< «leste...om
+---
+> «
+> leste
+> ...
+> om
+448c524,526
+< avisene»,
+---
+> avisene
+> »
+> ,
+456,457c534,537
+< «i
+< retten»
+---
+> «
+> i
+> retten
+> »
+459c539,540
+< Aftenposten,
+---
+> Aftenposten
+> ,
+468c549,550
+< lavt.
+---
+> lavt
+> .
+474c556,557
+< smitteeffekt.
+---
+> smitteeffekt
+> .
+481c564,565
+< smittet;
+---
+> smittet
+> ;
+483c567,568
+< spør:
+---
+> spør
+> :
+490c575,576
+< sak?
+---
+> sak
+> ?
+495c581,582
+< troverdig?
+---
+> troverdig
+> ?
+497c584,585
+< spesifisert:
+---
+> spesifisert
+> :
+530c618,619
+< berette?
+---
+> berette
+> ?
+550c639,640
+< tiår?
+---
+> tiår
+> ?
+554c644,645
+< debatt.
+---
+> debatt
+> .
+569c660,661
+< i,
+---
+> i
+> ,
+571,572c663,666
+< skole,
+< arbeidssted,
+---
+> skole
+> ,
+> arbeidssted
+> ,
+574c668,669
+< nabolag,
+---
+> nabolag
+> ,
+578c673,674
+< offentlig,
+---
+> offentlig
+> ,
+587c683,684
+< til.
+---
+> til
+> .
+598c695,696
+< retten,
+---
+> retten
+> ,
+607c705,706
+< rettsforhandlingene,
+---
+> rettsforhandlingene
+> ,
+616c715,716
+< sant.
+---
+> sant
+> .
+626c726,727
+< psyke.
+---
+> psyke
+> .
+637c738,739
+< avslutning.
+---
+> avslutning
+> .
+644c746,747
+< meddommerordningen;
+---
+> meddommerordningen
+> ;
+649c752,753
+< jurymedlemmer.
+---
+> jurymedlemmer
+> .
+653c757,758
+< ligge,
+---
+> ligge
+> ,
+662c767,768
+< stilles.
+---
+> stilles
+> .
+669c775,776
+< agenda.
+---
+> agenda
+> .
+681c788,789
+< journalistikk.
+---
+> journalistikk
+> .
+685c793,794
+< journalistikk.
+---
+> journalistikk
+> .
+695c804,805
+< urett;
+---
+> urett
+> ;
+705c815,816
+< sår,
+---
+> sår
+> ,
+713c824,825
+< samfunnsforakt.
+---
+> samfunnsforakt
+> .
+727c839,840
+< om.
+---
+> om
+> .
+746c859,860
+< gjerningsmannen.
+---
+> gjerningsmannen
+> .
+752c866,867
+< direktør,
+---
+> direktør
+> ,
+754,755c869,872
+< Langbach:
+< «Jeg
+---
+> Langbach
+> :
+> «
+> Jeg
+772c889,890
+< sak.
+---
+> sak
+> .
+794c912,913
+< rettssaken.
+---
+> rettssaken
+> .
+804c923,925
+< har.»
+---
+> har
+> .
+> »
+807c928,929
+< dette?
+---
+> dette
+> ?
+834c956,957
+< straffutmålingsbetraktninger?
+---
+> straffutmålingsbetraktninger
+> ?
+842c965,966
+< meddommeren?
+---
+> meddommeren
+> ?
+861,862c985,988
+< funksjoner?
+< Viktigst:
+---
+> funksjoner
+> ?
+> Viktigst
+> :
+873c999,1000
+< aktuell,
+---
+> aktuell
+> ,
+876c1003,1004
+< straffesak.
+---
+> straffesak
+> .
+895c1023,1024
+< benyttes.
+---
+> benyttes
+> .
+898c1027,1028
+< han,
+---
+> han
+> ,
+902c1032,1033
+< stilling,
+---
+> stilling
+> ,
+910c1041,1042
+< vite.
+---
+> vite
+> .
+913c1045,1046
+< skyld:
+---
+> skyld
+> :
+917c1050,1051
+< tidligere,
+---
+> tidligere
+> ,
+922c1056,1057
+< hovedforhandlingen,
+---
+> hovedforhandlingen
+> ,
+926c1061,1062
+< tiltalte.
+---
+> tiltalte
+> .
+936c1072,1073
+< bekjennelse:
+---
+> bekjennelse
+> :
+950c1087,1088
+< ham,
+---
+> ham
+> ,
+961c1099,1100
+< kontakt.
+---
+> kontakt
+> .
+968c1107,1108
+< respekt,
+---
+> respekt
+> ,
+970c1110,1112
+< menneske.Tvisynt
+---
+> menneske
+> .
+> Tvisynt
+973,974c1115,1118
+< esker.
+< Forsvarsskrift.
+---
+> esker
+> .
+> Forsvarsskrift
+> .
+976c1120,1121
+< Borten-biografi.
+---
+> Borten-biografi
+> .
+998c1143,1144
+< Borten.
+---
+> Borten
+> .
+1010,1011c1156,1159
+< lokalpolitiker,
+< stortingsrepresentant,
+---
+> lokalpolitiker
+> ,
+> stortingsrepresentant
+> ,
+1039c1187,1188
+< staur.
+---
+> staur
+> .
+1052c1201,1202
+< den.
+---
+> den
+> .
+1078c1228,1229
+< regjeringssjefen.
+---
+> regjeringssjefen
+> .
+1084c1235,1236
+< år.
+---
+> år
+> .
+1097c1249,1250
+< 1969,
+---
+> 1969
+> ,
+1107c1260,1261
+< forklaringen,
+---
+> forklaringen
+> ,
+1111c1265,1266
+< hele.
+---
+> hele
+> .
+1121c1276,1277
+< regjeringspartiene,
+---
+> regjeringspartiene
+> ,
+1126c1282,1283
+< EF-saken,
+---
+> EF-saken
+> ,
+1140c1297,1298
+< laga.
+---
+> laga
+> .
+1163c1321,1322
+< EEC,
+---
+> EEC
+> ,
+1177c1336,1337
+< uansett.
+---
+> uansett
+> .
+1204c1364,1365
+< av.
+---
+> av
+> .
+1217c1378,1379
+< Ap-styre,
+---
+> Ap-styre
+> ,
+1235c1397,1398
+< sammen.
+---
+> sammen
+> .
+1245c1408,1409
+< oppgave.
+---
+> oppgave
+> .
+1252c1416,1417
+< problem,
+---
+> problem
+> ,
+1258c1423,1424
+< forordet,
+---
+> forordet
+> ,
+1263c1429,1430
+< Borten.
+---
+> Borten
+> .
+1271c1438,1439
+< utfordringer.
+---
+> utfordringer
+> .
+1281c1449,1450
+< etterkrigstiårene,
+---
+> etterkrigstiårene
+> ,
+1284c1453,1454
+< Gerhardsen,
+---
+> Gerhardsen
+> ,
+1286c1456,1457
+< Lyng,
+---
+> Lyng
+> ,
+1291c1462,1463
+< Willoch,
+---
+> Willoch
+> ,
+1302c1474,1475
+< granskning.
+---
+> granskning
+> .
+1309c1482,1483
+< Borten.
+---
+> Borten
+> .
+1329c1503,1505
+< 70-80
+---
+> 70
+> -
+> 80
+1344c1520,1521
+< Flå.
+---
+> Flå
+> .
+1358c1535,1536
+< politiker,
+---
+> politiker
+> ,
+1363c1541,1542
+< kårkallsperioden,
+---
+> kårkallsperioden
+> ,
+1368c1547,1548
+< slik.
+---
+> slik
+> .
+1376c1556,1557
+< mann.
+---
+> mann
+> .
+1387c1568,1569
+< personlighet.
+---
+> personlighet
+> .
+1394c1576,1577
+< lytte,
+---
+> lytte
+> ,
+1412c1595,1596
+< fremstilling.
+---
+> fremstilling
+> .
+1418c1602,1603
+< nysgjerrighet,
+---
+> nysgjerrighet
+> ,
+1436c1621,1622
+< flest.
+---
+> flest
+> .
+1446c1632,1633
+< kildematerialet.
+---
+> kildematerialet
+> .
+1460c1647,1648
+< bakke,
+---
+> bakke
+> ,
+1486c1674,1675
+< avstand.
+---
+> avstand
+> .
+1510c1699,1700
+< venstresiden.
+---
+> venstresiden
+> .
+1532c1722,1723
+< statsministertid.
+---
+> statsministertid
+> .
+1549c1740,1741
+< ledere.
+---
+> ledere
+> .
+1561c1753,1754
+< Folketrygden,
+---
+> Folketrygden
+> ,
+1578c1771,1772
+< ståsted.
+---
+> ståsted
+> .
+1592c1786,1787
+< Borten.
+---
+> Borten
+> .
+1608c1803,1804
+< samfunnsvirke.
+---
+> samfunnsvirke
+> .
+1625c1821,1822
+< liv.
+---
+> liv
+> .
+1656c1853,1854
+< for.
+---
+> for
+> .
+1681c1879,1880
+< hadde.
+---
+> hadde
+> .
+1707c1906,1907
+< medlemsland.
+---
+> medlemsland
+> .
+1714c1914,1915
+< NATO-medlemskapet.
+---
+> NATO-medlemskapet
+> .
+1728c1929,1930
+< "Albania
+---
+> "
+> Albania
+1730,1731c1932,1936
+< NATO".
+< Foto:
+---
+> NATO
+> "
+> .
+> Foto
+> :
+1744c1949,1950
+< onsdag.
+---
+> onsdag
+> .
+1764c1970,1971
+< Afghanistan,
+---
+> Afghanistan
+> ,
+1771c1978,1979
+< verden,
+---
+> verden
+> ,
+1778c1986,1987
+< seremonien.
+---
+> seremonien
+> .
+1804c2013,2014
+< krever,
+---
+> krever
+> ,
+1806c2016,2017
+< han.
+---
+> han
+> .
+1818c2029,2030
+< Afghanistan.
+---
+> Afghanistan
+> .
+1835c2047,2048
+< medlemslandene,
+---
+> medlemslandene
+> ,
+1838c2051,2052
+< imot.
+---
+> imot
+> .
+1844c2058,2059
+< nyheter.
+---
+> nyheter
+> .
+1859c2074,2075
+< standarder,
+---
+> standarder
+> ,
+1863c2079,2080
+< Appathurai.
+---
+> Appathurai
+> .
+1890c2107,2108
+< sikkerhet.
+---
+> sikkerhet
+> .
+1899c2117,2118
+< sikkerhet,
+---
+> sikkerhet
+> ,
+1908c2127,2128
+< alliansemedlem,
+---
+> alliansemedlem
+> ,
+1910c2130,2131
+< Appathurai.
+---
+> Appathurai
+> .
+1921c2142,2143
+< plass,
+---
+> plass
+> ,
+1925c2147,2148
+< alfabetet,
+---
+> alfabetet
+> ,
+1947c2170,2171
+< Baden-Baden.
+---
+> Baden-Baden
+> .
+1958c2182,2183
+< side,
+---
+> side
+> ,
+1960c2185,2186
+< USA,
+---
+> USA
+> ,
+1964c2190,2191
+< Obama,
+---
+> Obama
+> ,
+1969c2196,2197
+< venstre.
+---
+> venstre
+> .
+1980c2208,2209
+< møtebordet,
+---
+> møtebordet
+> ,
+1984c2213,2214
+< Tsjekkia.
+---
+> Tsjekkia
+> .
+2004c2234,2235
+< lørdag.
+---
+> lørdag
+> .
+2022c2253,2254
+< Brussel.
+---
+> Brussel
+> .
+2027,2030c2259,2266
+< Uansvarlig.
+< Regjeringspartnerne.
+< Revehi.
+< Regjeringsspill.
+---
+> Uansvarlig
+> .
+> Regjeringspartnerne
+> .
+> Revehi
+> .
+> Regjeringsspill
+> .
+2049c2285,2286
+< flertallet.
+---
+> flertallet
+> .
+2053c2290,2291
+< ikke.
+---
+> ikke
+> .
+2067c2305,2306
+< «Den
+---
+> «
+> Den
+2069c2308,2309
+< dame»
+---
+> dame
+> »
+2083c2323,2324
+< nevnes,
+---
+> nevnes
+> ,
+2085c2326,2327
+< Siv,
+---
+> Siv
+> ,
+2088c2330,2331
+< navngitt.
+---
+> navngitt
+> .
+2113c2356,2357
+< nærheten.
+---
+> nærheten
+> .
+2137c2381,2382
+< Arbeiderpartiet,
+---
+> Arbeiderpartiet
+> ,
+2147c2392,2393
+< uker.
+---
+> uker
+> .
+2159,2160c2405,2408
+< Fremskrittspartiet,
+< Høyre,
+---
+> Fremskrittspartiet
+> ,
+> Høyre
+> ,
+2167c2415,2416
+< flertall,
+---
+> flertall
+> ,
+2176c2425,2426
+< «hvorfor
+---
+> «
+> hvorfor
+2190c2440,2443
+< A?».
+---
+> A
+> ?
+> »
+> .
+2208c2461,2462
+< er.
+---
+> er
+> .
+2243c2497,2498
+< valget.
+---
+> valget
+> .
+2272c2527,2528
+< tapt,
+---
+> tapt
+> ,
+2284c2540,2541
+< regjeringskontorene.
+---
+> regjeringskontorene
+> .
+2296c2553,2554
+< åpenbare.
+---
+> åpenbare
+> .
+2310c2568,2569
+< valgseier.
+---
+> valgseier
+> .
+2341c2600,2601
+< fordeles.
+---
+> fordeles
+> .
+2354c2614,2615
+< unevnelig.
+---
+> unevnelig
+> .
+2388c2649,2650
+< flertallsregjeringen.
+---
+> flertallsregjeringen
+> .
+2399c2661,2662
+< fremstår,
+---
+> fremstår
+> ,
+2410c2673,2674
+< imellom.
+---
+> imellom
+> .
+2421c2685,2686
+< saker,
+---
+> saker
+> ,
+2425c2690,2691
+< glemme.
+---
+> glemme
+> .
+2463c2729,2730
+< over.
+---
+> over
+> .
+2476c2743,2744
+< ettåringer,
+---
+> ettåringer
+> ,
+2484c2752,2753
+< talsmann,
+---
+> talsmann
+> ,
+2487c2756,2757
+< Lundteigen,
+---
+> Lundteigen
+> ,
+2508c2778,2779
+< årene.
+---
+> årene
+> .
+2519c2790,2791
+< meningsmålingene,
+---
+> meningsmålingene
+> ,
+2536c2808,2809
+< valgkampinnspurten.
+---
+> valgkampinnspurten
+> .
+2550c2823,2824
+< selv,
+---
+> selv
+> ,
+2562c2836,2837
+< velgerne,
+---
+> velgerne
+> ,
+2573c2848,2849
+< Sp-ere.
+---
+> Sp-ere
+> .
+2584c2860,2861
+< regjeringsspørsmålet.
+---
+> regjeringsspørsmålet
+> .
+2598c2875,2876
+< samtidig.
+---
+> samtidig
+> .
+2605c2883,2884
+< bakside.
+---
+> bakside
+> .
+2607c2886,2887
+< som,
+---
+> som
+> ,
+2613c2893,2894
+< alternativ,
+---
+> alternativ
+> ,
+2624c2905,2906
+< landet,
+---
+> landet
+> ,
+2630c2912,2914
+< og/eller
+---
+> og
+> /
+> eller
+2635c2919,2920
+< regjeringskontorene,
+---
+> regjeringskontorene
+> ,
+2660c2945,2946
+< fremtiden.
+---
+> fremtiden
+> .
+2678c2964,2965
+< flertall.
+---
+> flertall
+> .
+2700c2987,2988
+< med.
+---
+> med
+> .
+2729c3017,3018
+< Frp.
+---
+> Frp
+> .
+2751c3040,3041
+< regjeringen.
+---
+> regjeringen
+> .
+2758c3048,3049
+< valgkampinnspurten,
+---
+> valgkampinnspurten
+> ,
+2769,2770c3060,3063
+< alternativ.
+< Første,
+---
+> alternativ
+> .
+> Første
+> ,
+2774c3067,3068
+< eneste,
+---
+> eneste
+> ,
+2778c3072,3073
+< Høyre,
+---
+> Høyre
+> ,
+2787c3082,3083
+< alene.
+---
+> alene
+> .
+2802c3098,3099
+< flertallet.
+---
+> flertallet
+> .
+2809c3106,3107
+< ikke,
+---
+> ikke
+> ,
+2812c3110,3111
+< 1997,
+---
+> 1997
+> ,
+2836c3135,3136
+< Stortinget.
+---
+> Stortinget
+> .
+2850c3150,3151
+< den.
+---
+> den
+> .
+2872c3173,3174
+< unnskyld?
+---
+> unnskyld
+> ?
+2892c3194,3195
+< arbeidsleir.
+---
+> arbeidsleir
+> .
+2926c3229,3230
+< øyet:
+---
+> øyet
+> :
+2938c3242,3243
+< Ling,
+---
+> Ling
+> ,
+2947c3252,3253
+< år,
+---
+> år
+> ,
+2958c3264,3265
+< arbeidsleir.
+---
+> arbeidsleir
+> .
+2972c3279,3280
+< privatfly,
+---
+> privatfly
+> ,
+2977c3285,3286
+< USA.
+---
+> USA
+> .
+2988c3297,3298
+< landet,
+---
+> landet
+> ,
+2998c3308,3309
+< lederen,
+---
+> lederen
+> ,
+3000c3311,3312
+< Jong-il.
+---
+> Jong-il
+> .
+3010c3322,3323
+< kvarter,
+---
+> kvarter
+> ,
+3029c3342,3343
+< lederne.
+---
+> lederne
+> .
+3038c3352,3353
+< fotografene,
+---
+> fotografene
+> ,
+3041c3356,3357
+< oppstilt,
+---
+> oppstilt
+> ,
+3043c3359,3360
+< vis:
+---
+> vis
+> :
+3057c3374,3375
+< kjent,
+---
+> kjent
+> ,
+3075c3393,3394
+< landene,
+---
+> landene
+> ,
+3082c3401,3402
+< forhold.
+---
+> forhold
+> .
+3096c3416,3417
+< Obama,
+---
+> Obama
+> ,
+3102c3423,3424
+< dette.
+---
+> dette
+> .
+3123c3445,3446
+< diskutert.
+---
+> diskutert
+> .
+3136c3459,3460
+< presidentskap,
+---
+> presidentskap
+> ,
+3139c3463,3464
+< 2000,
+---
+> 2000
+> ,
+3150c3475,3476
+< Midtøsten.
+---
+> Midtøsten
+> .
+3164c3490,3491
+< landet,
+---
+> landet
+> ,
+3194c3521,3522
+< landet.
+---
+> landet
+> .
+3221c3549,3550
+< gårde.
+---
+> gårde
+> .
+3231c3560,3561
+< karakter,
+---
+> karakter
+> ,
+3237c3567,3568
+< menneskerettighetene.
+---
+> menneskerettighetene
+> .
+3249c3580,3581
+< atomprogram.
+---
+> atomprogram
+> .
+3256c3588,3590
+< (36)
+---
+> (
+> 36
+> )
+3260c3594,3596
+< (32)
+---
+> (
+> 32
+> )
+3271c3607,3608
+< år,
+---
+> år
+> ,
+3280c3617,3618
+< menneskehandel.
+---
+> menneskehandel
+> .
+3285c3623,3624
+< juni,
+---
+> juni
+> ,
+3295c3634,3635
+< Nord-Korea.
+---
+> Nord-Korea
+> .
+3302c3642,3643
+< myndighetspersoner,
+---
+> myndighetspersoner
+> ,
+3307c3648,3649
+< Clinton,
+---
+> Clinton
+> ,
+3311c3653,3654
+< saken,
+---
+> saken
+> ,
+3328c3671,3672
+< år.
+---
+> år
+> .
+3346c3690,3691
+< D.C.
+---
+> D.C
+> .
+3361c3706,3707
+< sine.
+---
+> sine
+> .
+3382c3728,3729
+< landet.
+---
+> landet
+> .
+3392c3739,3740
+< myndigheter,
+---
+> myndigheter
+> ,
+3412c3760,3761
+< forhandle.
+---
+> forhandle
+> .
+3420c3769,3770
+< TV,
+---
+> TV
+> ,
+3427c3777,3778
+< for.
+---
+> for
+> .
+3435c3786,3787
+< dro,
+---
+> dro
+> ,
+3441c3793,3794
+< hus.
+---
+> hus
+> .
+3458c3811,3812
+< oppførsel.
+---
+> oppførsel
+> .
+3478c3832,3833
+< Nord-Korea,
+---
+> Nord-Korea
+> ,
+3486c3841,3842
+< landet,
+---
+> landet
+> ,
+3490c3846,3847
+< nyhetsbyrå.
+---
+> nyhetsbyrå
+> .
+3497c3854,3855
+< sterkeste.
+---
+> sterkeste
+> .
+3506c3864,3865
+< skolejente,
+---
+> skolejente
+> ,
+3513c3872,3873
+< shopping.
+---
+> shopping
+> .
+3535c3895,3896
+< kone,
+---
+> kone
+> ,
+3538c3899,3900
+< Clinton.
+---
+> Clinton
+> .
+3546c3908,3909
+< begynte,
+---
+> begynte
+> ,
+3559c3922,3923
+< tenåring.
+---
+> tenåring
+> .
+3570c3934,3935
+< karakteristikk,
+---
+> karakteristikk
+> ,
+3575,3576c3940,3943
+< «rar
+< dame»
+---
+> «
+> rar
+> dame
+> »
+3583c3950,3951
+< diplomatisk.
+---
+> diplomatisk
+> .
+3593c3961,3962
+< skolejente,
+---
+> skolejente
+> ,
+3600c3969,3970
+< shopping,
+---
+> shopping
+> ,
+3605c3975,3976
+< departementet.
+---
+> departementet
+> .
+3608c3979,3980
+< tross,
+---
+> tross
+> ,
+3615c3987,3988
+< landet,
+---
+> landet
+> ,
+3622c3995,3996
+< fri.
+---
+> fri
+> .
+3635c4009,4010
+< samtaler,
+---
+> samtaler
+> ,
+3649c4024,4025
+< raketter.
+---
+> raketter
+> .
+3662c4038,4039
+< Afrika.
+---
+> Afrika
+> .
+3681c4058,4059
+< journalistene.
+---
+> journalistene
+> .
+3696c4074,4075
+< USA,
+---
+> USA
+> ,
+3702c4081,4082
+< Nairobi,
+---
+> Nairobi
+> ,
+3705c4085,4086
+< Kenya.
+---
+> Kenya
+> .
+3714,3715c4095,4098
+< ektemann,
+< ekspresidenten,
+---
+> ektemann
+> ,
+> ekspresidenten
+> ,
+3727c4110,4111
+< journalistene,
+---
+> journalistene
+> ,
+3732c4116,4117
+< Angeles,
+---
+> Angeles
+> ,
+3746c4131,4132
+< gang.
+---
+> gang
+> .
+3763c4149,4150
+< hjem.
+---
+> hjem
+> .
+3768c4155,4156
+< pris.
+---
+> pris
+> .
+3773,3774c4161,4164
+< velgerne.
+< Høyre.
+---
+> velgerne
+> .
+> Høyre
+> .
+3785c4175,4176
+< Frp.
+---
+> Frp
+> .
+3787c4178,4179
+< det,
+---
+> det
+> ,
+3794c4186,4187
+< historie.
+---
+> historie
+> .
+3804c4197,4198
+< Høyre.
+---
+> Høyre
+> .
+3820c4214,4215
+< historie.
+---
+> historie
+> .
+3829c4224,4225
+< valgfrihet,
+---
+> valgfrihet
+> ,
+3845c4241,4242
+< hverdag,
+---
+> hverdag
+> ,
+3848c4245,4246
+< samfunnsledende.
+---
+> samfunnsledende
+> .
+3859c4257,4258
+< 1980-tallet,
+---
+> 1980-tallet
+> ,
+3863c4262,4263
+< opphevet,
+---
+> opphevet
+> ,
+3890c4290,4291
+< bolig.
+---
+> bolig
+> .
+3900c4301,4302
+< Høyre.
+---
+> Høyre
+> .
+3918c4320,4321
+< 1884.
+---
+> 1884
+> .
+3925c4328,4329
+< selv.
+---
+> selv
+> .
+3950c4354,4355
+< politikk.
+---
+> politikk
+> .
+3960,3961c4365,4368
+< konkurrenten,
+< Fremskrittspartiet,
+---
+> konkurrenten
+> ,
+> Fremskrittspartiet
+> ,
+3992c4399,4400
+< år.
+---
+> år
+> .
+4005c4413,4414
+< Høyre.
+---
+> Høyre
+> .
+4009c4418,4419
+< skremmende.
+---
+> skremmende
+> .
+4054c4464,4465
+< Venstre.
+---
+> Venstre
+> .
+4066c4477,4478
+< meningsmålingene,
+---
+> meningsmålingene
+> ,
+4073c4485,4486
+< valg.
+---
+> valg
+> .
+4097c4510,4511
+< rekker.
+---
+> rekker
+> .
+4105c4519,4520
+< betale,
+---
+> betale
+> ,
+4128c4543,4544
+< regjering.
+---
+> regjering
+> .
+4145c4561,4564
+< høyre/sentrumskoalisjon.
+---
+> høyre
+> /
+> sentrumskoalisjon
+> .
+4180c4599,4600
+< september.
+---
+> september
+> .
+4203c4623,4624
+< alle,
+---
+> alle
+> ,
+4207c4628,4629
+< mulig.
+---
+> mulig
+> .
+4228c4650,4651
+< regjeringsgrunnlag.
+---
+> regjeringsgrunnlag
+> .
+4284c4707,4708
+< regjeringsmakten.
+---
+> regjeringsmakten
+> .
+4306c4730,4731
+< sentrumspartiene.
+---
+> sentrumspartiene
+> .
+4318c4743,4744
+< Lyng,
+---
+> Lyng
+> ,
+4322c4748,4749
+< Høyre,
+---
+> Høyre
+> ,
+4324c4751,4752
+< KrF,
+---
+> KrF
+> ,
+4344c4772,4773
+< 1981.
+---
+> 1981
+> .
+4363c4792,4793
+< regjeringsalternativ,
+---
+> regjeringsalternativ
+> ,
+4377c4807,4808
+< har,
+---
+> har
+> ,
+4384c4815,4816
+< Frp,
+---
+> Frp
+> ,
+4395c4827,4828
+< dag.
+---
+> dag
+> .
+4403c4836,4837
+< Høyre-ledelsen,
+---
+> Høyre-ledelsen
+> ,
+4424c4858,4859
+< Jensen.
+---
+> Jensen
+> .
+4435c4870,4871
+< ut.
+---
+> ut
+> .
+4448c4884,4885
+< regjering,
+---
+> regjering
+> ,
+4451c4888,4889
+< før,
+---
+> før
+> ,
+4457c4895,4896
+< Stavanger.
+---
+> Stavanger
+> .
+4470c4909,4910
+< Frp,
+---
+> Frp
+> ,
+4482c4922,4923
+< forekomme.
+---
+> forekomme
+> .
+4491c4932,4933
+< prosent.
+---
+> prosent
+> .
+4506c4948,4949
+< Frp,
+---
+> Frp
+> ,
+4514c4957,4958
+< skje,
+---
+> skje
+> ,
+4523c4967,4968
+< forekomme.
+---
+> forekomme
+> .
+4534c4979,4980
+< regjeringsalternativer,
+---
+> regjeringsalternativer
+> ,
+4552c4998,4999
+< år,
+---
+> år
+> ,
+4559c5006,5007
+< bevissthet.
+---
+> bevissthet
+> .
+4567c5015,5016
+< Frp,
+---
+> Frp
+> ,
+4578c5027,5028
+< høyt.
+---
+> høyt
+> .
+4582c5032,5033
+< Luftslott.
+---
+> Luftslott
+> .
+4585c5036,5037
+< Handlingsrom.
+---
+> Handlingsrom
+> .
+4600c5052,5053
+< regjeringsspørsmålet.
+---
+> regjeringsspørsmålet
+> .
+4606c5059,5060
+< politiker.
+---
+> politiker
+> .
+4611c5065,5066
+< sagt,
+---
+> sagt
+> ,
+4619c5074,5075
+< vår,
+---
+> vår
+> ,
+4632c5088,5089
+< Venstre,
+---
+> Venstre
+> ,
+4643c5100,5101
+< valgkampen.
+---
+> valgkampen
+> .
+4656c5114,5115
+< strategi.
+---
+> strategi
+> .
+4659c5118,5119
+< valgkampen,
+---
+> valgkampen
+> ,
+4670c5130,5131
+< opposisjonspartiene,
+---
+> opposisjonspartiene
+> ,
+4677c5138,5139
+< Bondevik-koalisjonen,
+---
+> Bondevik-koalisjonen
+> ,
+4684c5146,5147
+< statsminister,
+---
+> statsminister
+> ,
+4694c5157,5158
+< side.
+---
+> side
+> .
+4708c5172,5173
+< side.
+---
+> side
+> .
+4730c5195,5196
+< tiden.
+---
+> tiden
+> .
+4745c5211,5212
+< Høyre.
+---
+> Høyre
+> .
+4760c5227,5228
+< flertall.
+---
+> flertall
+> .
+4768,4769c5236,5239
+< rekkevidde.
+< Høyre,
+---
+> rekkevidde
+> .
+> Høyre
+> ,
+4778c5248,5249
+< mindretallsregjering,
+---
+> mindretallsregjering
+> ,
+4790c5261,5262
+< Frp.
+---
+> Frp
+> .
+4797c5269,5270
+< leve,
+---
+> leve
+> ,
+4802c5275,5276
+< sak.
+---
+> sak
+> .
+4816c5290,5291
+< partiene,
+---
+> partiene
+> ,
+4820,4821c5295,5298
+< Høyre,
+< betraktelig.
+---
+> Høyre
+> ,
+> betraktelig
+> .
+4834c5311,5312
+< fordel.
+---
+> fordel
+> .
+4841c5319,5320
+< «gjenføde
+---
+> «
+> gjenføde
+4845c5324,5326
+< regjering»,
+---
+> regjering
+> »
+> ,
+4852c5333,5334
+< går,
+---
+> går
+> ,
+4861c5343,5344
+< kjernevelgere.
+---
+> kjernevelgere
+> .
+4875c5358,5359
+< avløsning,
+---
+> avløsning
+> ,
+4886c5370,5371
+< Frp.
+---
+> Frp
+> .
+4891c5376,5377
+< Høyre,
+---
+> Høyre
+> ,
+4894c5380,5381
+< Frp,
+---
+> Frp
+> ,
+4910c5397,5398
+< borgerlig.
+---
+> borgerlig
+> .
+4921c5409,5410
+< valgkampuken,
+---
+> valgkampuken
+> ,
+4928c5417,5418
+< egne.
+---
+> egne
+> .
+4936c5426,5427
+< trepartiregjering,
+---
+> trepartiregjering
+> ,
+4954c5445,5446
+< Høyre-regjering,
+---
+> Høyre-regjering
+> ,
+4965c5457,5458
+< landsmøtet.
+---
+> landsmøtet
+> .
+4984c5477,5478
+< regjeringsalternativene.
+---
+> regjeringsalternativene
+> .
+4998c5492,5493
+< i.
+---
+> i
+> .
+5008c5503,5504
+< føre.
+---
+> føre
+> .
+5024c5520,5521
+< Frp.
+---
+> Frp
+> .
+5029,5030c5526,5529
+< Høyre.
+< Halvorsen.
+---
+> Høyre
+> .
+> Halvorsen
+> .
+5033,5034c5532,5535
+< virkelighet.
+< Sponheim.
+---
+> virkelighet
+> .
+> Sponheim
+> .
+5045c5546,5547
+< valgkampinnspurten.
+---
+> valgkampinnspurten
+> .
+5061c5563,5564
+< valg.
+---
+> valg
+> .
+5069c5572,5573
+< nødvendig,
+---
+> nødvendig
+> ,
+5075c5579,5580
+< dobbeltspill.
+---
+> dobbeltspill
+> .
+5111c5616,5617
+< Bondevik-alliansen.
+---
+> Bondevik-alliansen
+> .
+5125c5631,5632
+< sitt.
+---
+> sitt
+> .
+5151c5658,5659
+< skyld.
+---
+> skyld
+> .
+5160,5161c5668,5670
+< vandrehall,
+< benyttet
+---
+> vandrehall
+> ,
+> benyttet
+5177c5686,5687
+< Høyre.
+---
+> Høyre
+> .
+5186c5696,5697
+< kveld,
+---
+> kveld
+> ,
+5190c5701,5702
+< saklig.
+---
+> saklig
+> .
+5201c5713,5714
+< godt.
+---
+> godt
+> .
+5206c5719,5720
+< kontra.
+---
+> kontra
+> .
+5222c5736,5737
+< konkurrentene.
+---
+> konkurrentene
+> .
+5243c5758,5759
+< 2009.
+---
+> 2009
+> .
+5261c5777,5778
+< valget.
+---
+> valget
+> .
+5269c5786,5787
+< Arbeiderpartiet,
+---
+> Arbeiderpartiet
+> ,
+5274c5792,5793
+< flertallet.
+---
+> flertallet
+> .
+5280c5799,5800
+< mindretall,
+---
+> mindretall
+> ,
+5293c5813,5814
+< Stortinget.
+---
+> Stortinget
+> .
+5299c5820,5821
+< innenfra.
+---
+> innenfra
+> .
+5312c5834,5835
+< valget,
+---
+> valget
+> ,
+5323c5846,5847
+< innebære.
+---
+> innebære
+> .
+5334c5858,5859
+< toppolitiker.
+---
+> toppolitiker
+> .
+5340c5865,5866
+< selv.
+---
+> selv
+> .
+5351c5877,5878
+< politikere.
+---
+> politikere
+> .
+5361c5888,5889
+< hodet.
+---
+> hodet
+> .
+5391c5919,5920
+< makten.
+---
+> makten
+> .
+5397c5926,5927
+< enklere.
+---
+> enklere
+> .
+5406c5936,5937
+< valg,
+---
+> valg
+> ,
+5420c5951,5952
+< velgerne.
+---
+> velgerne
+> .
+5425c5957,5958
+< presset.
+---
+> presset
+> .
+5454c5987,5988
+< innvandringspolitikk.
+---
+> innvandringspolitikk
+> .
+5457c5991,5992
+< saksfeltet,
+---
+> saksfeltet
+> ,
+5461c5996,5997
+< hjemmebane,
+---
+> hjemmebane
+> ,
+5494c6030,6031
+< retorikk.
+---
+> retorikk
+> .
+5504c6041,6042
+< sperregrensen,
+---
+> sperregrensen
+> ,
+5528c6066,6067
+< Stortinget.
+---
+> Stortinget
+> .
+5536c6075,6076
+< Venstre,
+---
+> Venstre
+> ,
+5545c6085,6086
+< Høyre,
+---
+> Høyre
+> ,
+5562c6103,6104
+< sittende,
+---
+> sittende
+> ,
+5579c6121,6122
+< rødgrønne.
+---
+> rødgrønne
+> .
+5598c6141,6142
+< mest.
+---
+> mest
+> .
+5602,5604c6146,6151
+< Helse.
+< Vandrehall.
+< Vikarstyre.
+---
+> Helse
+> .
+> Vandrehall
+> .
+> Vikarstyre
+> .
+5614c6161,6162
+< rødgrønne.
+---
+> rødgrønne
+> .
+5622c6170,6171
+< plass.
+---
+> plass
+> .
+5628c6177,6178
+< resultatene.
+---
+> resultatene
+> .
+5638c6188,6191
+< (f.v.),
+---
+> (
+> f.v.
+> )
+> ,
+5654c6207,6208
+< går.
+---
+> går
+> .
+5667c6221,6222
+< regjering.
+---
+> regjering
+> .
+5699c6254,6255
+< arbeid.
+---
+> arbeid
+> .
+5704c6260,6261
+< bedre.
+---
+> bedre
+> .
+5709c6266,6267
+< omsorgsministeren,
+---
+> omsorgsministeren
+> ,
+5712c6270,6271
+< Strøm-Erichsen,
+---
+> Strøm-Erichsen
+> ,
+5714c6273,6274
+< bortreist,
+---
+> bortreist
+> ,
+5729c6289,6290
+< spørretimen.
+---
+> spørretimen
+> .
+5737c6298,6299
+< måneder.
+---
+> måneder
+> .
+5747c6309,6310
+< Aasrud.
+---
+> Aasrud
+> .
+5773c6336,6337
+< vis.
+---
+> vis
+> .
+5781c6345,6346
+< 60-årsdag,
+---
+> 60-årsdag
+> ,
+5784c6349,6350
+< bagatell.
+---
+> bagatell
+> .
+5789c6355,6356
+< forsvarsminister,
+---
+> forsvarsminister
+> ,
+5799c6366,6367
+< Afghanistan,
+---
+> Afghanistan
+> ,
+5820c6388,6389
+< departement.
+---
+> departement
+> .
+5823c6392,6393
+< kommunepolitiker,
+---
+> kommunepolitiker
+> ,
+5830c6400,6401
+< Bergen,
+---
+> Bergen
+> ,
+5846c6417,6418
+< forgjengeren,
+---
+> forgjengeren
+> ,
+5849c6421,6422
+< Hanssen,
+---
+> Hanssen
+> ,
+5852c6425,6426
+< gang.
+---
+> gang
+> .
+5866c6440,6441
+< handlekraft.
+---
+> handlekraft
+> .
+5886c6461,6462
+< stridsspørsmål.
+---
+> stridsspørsmål
+> .
+5905c6481,6482
+< Norge.
+---
+> Norge
+> .
+5931c6508,6509
+< pasienter,
+---
+> pasienter
+> ,
+5945c6523,6524
+< behandlingsapparat.
+---
+> behandlingsapparat
+> .
+5949c6528,6529
+< mangfoldige.
+---
+> mangfoldige
+> .
+5954c6534,6535
+< være.
+---
+> være
+> .
+5963c6544,6545
+< forståelig,
+---
+> forståelig
+> ,
+5967c6549,6550
+< måte.
+---
+> måte
+> .
+5973c6556,6557
+< talsmann,
+---
+> talsmann
+> ,
+5975c6559,6560
+< Høie,
+---
+> Høie
+> ,
+5989c6574,6575
+< spiseforstyrrelser,
+---
+> spiseforstyrrelser
+> ,
+5994c6580,6581
+< Fredrikstad.
+---
+> Fredrikstad
+> .
+6011c6598,6599
+< dem.
+---
+> dem
+> .
+6021c6609,6610
+< tilbud.
+---
+> tilbud
+> .
+6042c6631,6632
+< beslutninger.
+---
+> beslutninger
+> .
+6060c6650,6651
+< søkelys,
+---
+> søkelys
+> ,
+6064c6655,6656
+< nøye.
+---
+> nøye
+> .
+6089c6681,6682
+< vitne,
+---
+> vitne
+> ,
+6091c6684,6685
+< andre,
+---
+> andre
+> ,
+6097c6691,6692
+< behov,
+---
+> behov
+> ,
+6100c6695,6696
+< muligheten.
+---
+> muligheten
+> .
+6111c6707,6708
+< regjering,
+---
+> regjering
+> ,
+6123c6720,6721
+< saksbehandlerfunksjon.
+---
+> saksbehandlerfunksjon
+> .
+6148c6746,6747
+< arbeidslivet,
+---
+> arbeidslivet
+> ,
+6157c6756,6757
+< til.
+---
+> til
+> .
+6166c6766,6767
+< høy.
+---
+> høy
+> .
+6171c6772,6773
+< gjennomført,
+---
+> gjennomført
+> ,
+6188c6790,6793
+< (IA-avtalen).
+---
+> (
+> IA-avtalen
+> )
+> .
+6197c6802,6803
+< autoritet.
+---
+> autoritet
+> .
+6208c6814,6815
+< likegyldighet,
+---
+> likegyldighet
+> ,
+6218c6825,6826
+< uteblir.
+---
+> uteblir
+> .
+6232c6840,6841
+< Arbeidsdepartementet.
+---
+> Arbeidsdepartementet
+> .
+6248c6857,6858
+< hånd.
+---
+> hånd
+> .
+6270c6880,6881
+< måneder.
+---
+> måneder
+> .
+6276c6887,6888
+< er,
+---
+> er
+> ,
+6288c6900,6901
+< København-møtet.
+---
+> København-møtet
+> .
+6300c6913,6914
+< arbeidsminister.
+---
+> arbeidsminister
+> .
+6307c6921,6922
+< Bjurstrøm,
+---
+> Bjurstrøm
+> ,
+6313c6928,6929
+< tiltrer.
+---
+> tiltrer
+> .
+6344c6960,6961
+< måneder.
+---
+> måneder
+> .
+6355c6972,6973
+< Bjurstrøm.
+---
+> Bjurstrøm
+> .
+6362c6980,6982
+< fortjener.Pinefull
+---
+> fortjener
+> .
+> Pinefull
+6367c6987,6988
+< pub?
+---
+> pub
+> ?
+6372c6993,6994
+< øl.
+---
+> øl
+> .
+6378c7000,7001
+< lepper.
+---
+> lepper
+> .
+6386c7009,7010
+< morgen.
+---
+> morgen
+> .
+6391c7015,7016
+< publivet.
+---
+> publivet
+> .
+6398c7023,7024
+< pub.
+---
+> pub
+> .
+6404c7030,7031
+< er,
+---
+> er
+> ,
+6411c7038,7039
+< Dublin.
+---
+> Dublin
+> .
+6416c7044,7045
+< lukten,
+---
+> lukten
+> ,
+6421c7050,7051
+< vei.
+---
+> vei
+> .
+6428c7058,7059
+< døren.
+---
+> døren
+> .
+6432c7063,7064
+< stew,
+---
+> stew
+> ,
+6434c7066,7067
+< brød,
+---
+> brød
+> ,
+6439c7072,7073
+< øl,
+---
+> øl
+> ,
+6445c7079,7080
+< bardisken.
+---
+> bardisken
+> .
+6450c7085,7086
+< langsomt.
+---
+> langsomt
+> .
+6452c7088,7089
+< røyk.
+---
+> røyk
+> .
+6454c7091,7092
+< røyk.
+---
+> røyk
+> .
+6464c7102,7103
+< bordene.
+---
+> bordene
+> .
+6474c7113,7114
+< utkårede.
+---
+> utkårede
+> .
+6487c7127,7128
+< europacupen.
+---
+> europacupen
+> .
+6494c7135,7136
+< Guinness.
+---
+> Guinness
+> .
+6508c7150,7151
+< Mulligan's.
+---
+> Mulligan's
+> .
+6516c7159,7160
+< stedet?
+---
+> stedet
+> ?
+6523c7167,7168
+< Mulligan's.
+---
+> Mulligan's
+> .
+6527c7172,7173
+< oss,
+---
+> oss
+> ,
+6536c7182,7183
+< gang.
+---
+> gang
+> .
+6547c7194,7195
+< ærend.
+---
+> ærend
+> .
+6549c7197,7198
+< Aha,
+---
+> Aha
+> ,
+6551,6554c7200,7207
+< journalist.
+< Røykeforbudet?
+< Huff,
+< ja.
+---
+> journalist
+> .
+> Røykeforbudet
+> ?
+> Huff
+> ,
+> ja
+> .
+6565c7218,7219
+< det.
+---
+> det
+> .
+6579c7233,7234
+< gleder?
+---
+> gleder
+> ?
+6587c7242,7243
+< pub,
+---
+> pub
+> ,
+6589c7245,7246
+< han.
+---
+> han
+> .
+6602c7259,7260
+< her.
+---
+> her
+> .
+6609c7267,7268
+< farlig.
+---
+> farlig
+> .
+6615c7274,7275
+< loven,
+---
+> loven
+> ,
+6628c7288,7289
+< skadene.
+---
+> skadene
+> .
+6644c7305,7306
+< røyking.
+---
+> røyking
+> .
+6651c7313,7314
+< loven,
+---
+> loven
+> ,
+6665c7328,7329
+< røyking.
+---
+> røyking
+> .
+6678c7342,7343
+< lovgivning.
+---
+> lovgivning
+> .
+6688c7353,7354
+< oss,
+---
+> oss
+> ,
+6694c7360,7361
+< røyk.
+---
+> røyk
+> .
+6704c7371,7372
+< ham,
+---
+> ham
+> ,
+6710c7378,7379
+< randen.
+---
+> randen
+> .
+6715c7384,7385
+< TV-skjermen,
+---
+> TV-skjermen
+> ,
+6722c7392,7393
+< dødsstøtet.
+---
+> dødsstøtet
+> .
+6729c7400,7401
+< igjen.
+---
+> igjen
+> .
+6736c7408,7409
+< pub.
+---
+> pub
+> .
+6749c7422,7423
+< Bar.
+---
+> Bar
+> .
+6756c7430,7431
+< Guinness.
+---
+> Guinness
+> .
+6765c7440,7441
+< puben.
+---
+> puben
+> .
+6773c7449,7450
+< fjorten,
+---
+> fjorten
+> ,
+6777c7454,7455
+< skamfullt.
+---
+> skamfullt
+> .
+6793c7471,7472
+< røykeloven?
+---
+> røykeloven
+> ?
+6795c7474,7475
+< Å,
+---
+> Å
+> ,
+6797c7477,7478
+< da.
+---
+> da
+> .
+6802c7483,7484
+< slutte.
+---
+> slutte
+> .
+6805c7487,7488
+< uke,
+---
+> uke
+> ,
+6808c7491,7492
+< lattermildt.
+---
+> lattermildt
+> .
+6819c7503,7504
+< puben.
+---
+> puben
+> .
+6831c7516,7517
+< loven.
+---
+> loven
+> .
+6849c7535,7536
+< forandring,
+---
+> forandring
+> ,
+6852c7539,7540
+< Colette.
+---
+> Colette
+> .
+6855c7543,7544
+< enig.
+---
+> enig
+> .
+6857c7546,7547
+< Nei,
+---
+> Nei
+> ,
+6864c7554,7555
+< forbudet.
+---
+> forbudet
+> .
+6874c7565,7566
+< Irland.
+---
+> Irland
+> .
+6881c7573,7574
+< igjen,
+---
+> igjen
+> ,
+6886c7579,7580
+< Liffey.
+---
+> Liffey
+> .
+6900c7594,7595
+< pubene.
+---
+> pubene
+> .
+6905c7600,7601
+< peisen,
+---
+> peisen
+> ,
+6910c7606,7607
+< inn.
+---
+> inn
+> .
+6914c7611,7612
+< tåpelig,
+---
+> tåpelig
+> ,
+6919c7617,7618
+< Larnington's.
+---
+> Larnington's
+> .
+6931c7630,7631
+< her?
+---
+> her
+> ?
+6933c7633,7634
+< Ja,
+---
+> Ja
+> ,
+6941c7642,7643
+< selv,
+---
+> selv
+> ,
+6946c7648,7649
+< rolle.
+---
+> rolle
+> .
+6955c7658,7659
+< gatene,
+---
+> gatene
+> ,
+6961c7665,7666
+< røyke.
+---
+> røyke
+> .
+6968c7673,7674
+< sure.
+---
+> sure
+> .
+6980c7686,7687
+< nå.
+---
+> nå
+> .
+6990c7697,7698
+< røykeloven.
+---
+> røykeloven
+> .
+6999c7707,7708
+< sin,
+---
+> sin
+> ,
+7006c7715,7716
+< morgen.
+---
+> morgen
+> .
+7013c7723,7724
+< røyke.
+---
+> røyke
+> .
+7015c7726,7727
+< jeg.
+---
+> jeg
+> .
+7020c7732,7733
+< forbudet.
+---
+> forbudet
+> .
+7034c7747,7748
+< røyke.
+---
+> røyke
+> .
+7047c7761,7762
+< fristet.
+---
+> fristet
+> .
+7054c7769,7770
+< enig.
+---
+> enig
+> .
+7059c7775,7776
+< min.
+---
+> min
+> .
+7064c7781,7782
+< gjennomføres?
+---
+> gjennomføres
+> ?
+7078,7079c7796,7799
+< politiet?
+< Nei,
+---
+> politiet
+> ?
+> Nei
+> ,
+7093c7813,7814
+< måneder.
+---
+> måneder
+> .
+7103c7824,7825
+< etter.
+---
+> etter
+> .
+7122c7844,7845
+< lenger,
+---
+> lenger
+> ,
+7124c7847,7848
+< Linda.
+---
+> Linda
+> .
+7138c7862,7863
+< puben.
+---
+> puben
+> .
+7147c7872,7873
+< røyke.
+---
+> røyke
+> .
+7150c7876,7877
+< høyest,
+---
+> høyest
+> ,
+7160c7887,7888
+< forbudet.
+---
+> forbudet
+> .
+7163c7891,7892
+< natt.
+---
+> natt
+> .
+7168c7897,7898
+< høy,
+---
+> høy
+> ,
+7170c7900,7901
+< folkemusikk,
+---
+> folkemusikk
+> ,
+7173c7904,7905
+< trampeklapp.
+---
+> trampeklapp
+> .
+7183c7915,7916
+< natten,
+---
+> natten
+> ,
+7190c7923,7924
+< stedet.
+---
+> stedet
+> .
+7198c7932,7933
+< scenen,
+---
+> scenen
+> ,
+7203c7938,7939
+< røyk.
+---
+> røyk
+> .
+7209c7945,7946
+< mann.
+---
+> mann
+> .
+7211c7948,7949
+< Verdensarv.
+---
+> Verdensarv
+> .
+7222c7960,7961
+< museer.
+---
+> museer
+> .
+7232c7971,7972
+< i.
+---
+> i
+> .
+7238c7978,7979
+< historieløshet?
+---
+> historieløshet
+> ?
+7247c7988,7989
+< museumsdebatt,
+---
+> museumsdebatt
+> ,
+7255c7997,7998
+< meg.
+---
+> meg
+> .
+7265c8008,8009
+< seg,
+---
+> seg
+> ,
+7268c8012,8013
+< litt.
+---
+> litt
+> .
+7272c8017,8018
+< dét?
+---
+> dét
+> ?
+7278c8024,8025
+< nye,
+---
+> nye
+> ,
+7280c8027,8028
+< sammen,
+---
+> sammen
+> ,
+7283c8031,8032
+< 1500-tallet.
+---
+> 1500-tallet
+> .
+7292c8041,8042
+< verden.
+---
+> verden
+> .
+7299c8049,8050
+< foreteelser.
+---
+> foreteelser
+> .
+7310c8061,8062
+< kjedelig.
+---
+> kjedelig
+> .
+7315c8067,8068
+< museer.
+---
+> museer
+> .
+7325c8078,8079
+< besøkt,
+---
+> besøkt
+> ,
+7335c8089,8090
+< husker.
+---
+> husker
+> .
+7340c8095,8096
+< potteskår.
+---
+> potteskår
+> .
+7344c8100,8101
+< ett.
+---
+> ett
+> .
+7351c8108,8109
+< museer.
+---
+> museer
+> .
+7357c8115,8116
+< salene.
+---
+> salene
+> .
+7364c8123,8124
+< selv,
+---
+> selv
+> ,
+7369c8129,8130
+< minneverdig,
+---
+> minneverdig
+> ,
+7378c8139,8140
+< igjen.
+---
+> igjen
+> .
+7386c8148,8149
+< museum,
+---
+> museum
+> ,
+7388c8151,8152
+< jeg,
+---
+> jeg
+> ,
+7395c8159,8160
+< ivaretatt,
+---
+> ivaretatt
+> ,
+7399c8164,8165
+< nennsomt.
+---
+> nennsomt
+> .
+7411c8177,8178
+< disiplene,
+---
+> disiplene
+> ,
+7442c8209,8210
+< fresken.
+---
+> fresken
+> .
+7450c8218,8219
+< tenkt,
+---
+> tenkt
+> ,
+7457c8226,8227
+< rommet,
+---
+> rommet
+> ,
+7464c8234,8235
+< bordfellesskap.
+---
+> bordfellesskap
+> .
+7473c8244,8245
+< igjen,
+---
+> igjen
+> ,
+7481c8253,8254
+< sist,
+---
+> sist
+> ,
+7492c8265,8266
+< meg.
+---
+> meg
+> .
+7494c8268,8269
+< ham:
+---
+> ham
+> :
+7499c8274,8275
+< døren.
+---
+> døren
+> .
+7507c8283,8284
+< forveien,
+---
+> forveien
+> ,
+7511c8288,8289
+< luken.
+---
+> luken
+> .
+7523c8301,8302
+< 25,
+---
+> 25
+> ,
+7526c8305,8306
+< minutt,
+---
+> minutt
+> ,
+7530c8310,8311
+< sa.
+---
+> sa
+> .
+7542c8323,8324
+< der.
+---
+> der
+> .
+7548c8330,8331
+< puljer.
+---
+> puljer
+> .
+7557c8340,8341
+< siden.
+---
+> siden
+> .
+7560c8344,8345
+< meg,
+---
+> meg
+> ,
+7563c8348,8349
+< Leonardo!
+---
+> Leonardo
+> !
+7571c8357,8358
+< forsvinne.
+---
+> forsvinne
+> .
+7583c8370,8371
+< siden,
+---
+> siden
+> ,
+7593c8381,8382
+< forsvinningsnummeret.
+---
+> forsvinningsnummeret
+> .
+7600c8389,8390
+< kontroversiell.
+---
+> kontroversiell
+> .
+7609c8399,8400
+< inne.
+---
+> inne
+> .
+7629c8420,8421
+< verden.
+---
+> verden
+> .
+7638c8430,8431
+< tåler.
+---
+> tåler
+> .
+7648c8441,8442
+< Venezia.
+---
+> Venezia
+> .
+7654c8448,8449
+< slitasje.
+---
+> slitasje
+> .
+7658c8453,8454
+< dobbelt:
+---
+> dobbelt
+> :
+7674c8470,8471
+< bevaring.
+---
+> bevaring
+> .
+7689c8486,8487
+< kulturarv?
+---
+> kulturarv
+> ?
+7695c8493,8494
+< bevilgninger.
+---
+> bevilgninger
+> .
+7699c8498,8499
+< hukommelse.
+---
+> hukommelse
+> .
+7704c8504,8505
+< fortiden,
+---
+> fortiden
+> ,
+7710c8511,8512
+< på.
+---
+> på
+> .
+7717c8519,8520
+< noensinne.
+---
+> noensinne
+> .
+7724c8527,8528
+< tider.
+---
+> tider
+> .
+7735c8539,8540
+< samtidskunst.
+---
+> samtidskunst
+> .
+7746,7749c8551,8558
+< museene,
+< symaskiner,
+< vaskemaskiner,
+< månelandingsfartøyer.
+---
+> museene
+> ,
+> symaskiner
+> ,
+> vaskemaskiner
+> ,
+> månelandingsfartøyer
+> .
+7754c8563,8564
+< selv.
+---
+> selv
+> .
+7762c8572,8573
+< utstillingsvinduene,
+---
+> utstillingsvinduene
+> ,
+7764c8575,8576
+< sko,
+---
+> sko
+> ,
+7766c8578,8579
+< slips,
+---
+> slips
+> ,
+7776c8589,8590
+< tilbudt,
+---
+> tilbudt
+> ,
+7781c8595,8596
+< museumsgjenstander.
+---
+> museumsgjenstander
+> .
+7789c8604,8605
+< Hiroshima,
+---
+> Hiroshima
+> ,
+7793c8609,8610
+< til,
+---
+> til
+> ,
+7800c8617,8618
+< folkeslag,
+---
+> folkeslag
+> ,
+7806c8624,8625
+< utradert.
+---
+> utradert
+> .
+7817c8636,8637
+< rettesnor.
+---
+> rettesnor
+> .
+7826c8646,8647
+< betinget.
+---
+> betinget
+> .
+7828c8649,8650
+< beste,
+---
+> beste
+> ,
+7831c8653,8654
+< lærdommene,
+---
+> lærdommene
+> ,
+7836c8659,8660
+< av.
+---
+> av
+> .
+7848c8672,8673
+< museer.
+---
+> museer
+> .
+7860c8685,8686
+< igjen,
+---
+> igjen
+> ,
+7865c8691,8692
+< Libanon,
+---
+> Libanon
+> ,
+7877,7880c8704,8711
+< kulturerfaring,
+< egyptisk,
+< gresk,
+< romersk,
+---
+> kulturerfaring
+> ,
+> egyptisk
+> ,
+> gresk
+> ,
+> romersk
+> ,
+7883c8714,8715
+< utendørs.
+---
+> utendørs
+> .
+7886c8718,8719
+< ned,
+---
+> ned
+> ,
+7892c8725,8726
+< grunner.
+---
+> grunner
+> .
+7898,7899c8732,8735
+< arvestykke.
+< Levende,
+---
+> arvestykke
+> .
+> Levende
+> ,
+7904c8740,8741
+< vekst.
+---
+> vekst
+> .
+7911c8748,8749
+< museumsliv.
+---
+> museumsliv
+> .
+7920c8758,8759
+< Mantova,
+---
+> Mantova
+> ,
+7923c8762,8763
+< 1300-tallet,
+---
+> 1300-tallet
+> ,
+7926,7928c8766,8771
+< Bergamo,
+< Verona,
+< Venezia.
+---
+> Bergamo
+> ,
+> Verona
+> ,
+> Venezia
+> .
+7936c8779,8780
+< lever.
+---
+> lever
+> .
+7944c8788,8789
+< oppskrifter,
+---
+> oppskrifter
+> ,
+7953c8798,8799
+< kjenner.
+---
+> kjenner
+> .
+7958c8804,8805
+< museum.
+---
+> museum
+> .
+7965c8812,8813
+< møte,
+---
+> møte
+> ,
+7969c8817,8818
+< døde,
+---
+> døde
+> ,
+7973c8822,8823
+< levde.
+---
+> levde
+> .
+7978c8828,8829
+< blir:
+---
+> blir
+> :
+7983c8834,8835
+< potteskår.
+---
+> potteskår
+> .
+7992,7993c8844,8847
+< Milano.
+< Frivillig.
+---
+> Milano
+> .
+> Frivillig
+> .
+8001c8855,8856
+< Leonardo.
+---
+> Leonardo
+> .
+8006c8861,8862
+< middelalder,
+---
+> middelalder
+> ,
+8009c8865,8866
+< her,
+---
+> her
+> ,
+8013c8870,8871
+< der.
+---
+> der
+> .
+8020c8878,8879
+< være.
+---
+> være
+> .
+8025c8884,8885
+< gjentagelser,
+---
+> gjentagelser
+> ,
+8030c8890,8891
+< normalt.
+---
+> normalt
+> .
+8039c8900,8901
+< gate,
+---
+> gate
+> ,
+8044c8906,8907
+< Bygdøy.
+---
+> Bygdøy
+> .
+8049c8912,8913
+< unikt.
+---
+> unikt
+> .
+8054,8055c8918,8921
+< der,
+< plutselig,
+---
+> der
+> ,
+> plutselig
+> ,
+8059c8925,8926
+< svanesang,
+---
+> svanesang
+> ,
+8062c8929,8930
+< Rondanini,
+---
+> Rondanini
+> ,
+8067c8935,8936
+< marmor,
+---
+> marmor
+> ,
+8076c8945,8946
+< leveår,
+---
+> leveår
+> ,
+8083c8953,8954
+< dager,
+---
+> dager
+> ,
+8090c8961,8962
+< gammel.
+---
+> gammel
+> .
+8096c8968,8969
+< det,
+---
+> det
+> ,
+8103c8976,8977
+< levetid.
+---
+> levetid
+> .
+8108c8982,8983
+< oppdrag,
+---
+> oppdrag
+> ,
+8111c8986,8987
+< levere,
+---
+> levere
+> ,
+8114c8990,8991
+< deadline.
+---
+> deadline
+> .
+8116c8993,8994
+< eksperimenterer,
+---
+> eksperimenterer
+> ,
+8126c9004,9005
+< materien,
+---
+> materien
+> ,
+8130c9009,9010
+< talent.
+---
+> talent
+> .
+8136c9016,9017
+< før,
+---
+> før
+> ,
+8140c9021,9022
+< stil.
+---
+> stil
+> .
+8143c9025,9026
+< hengende,
+---
+> hengende
+> ,
+8146c9029,9030
+< dødt,
+---
+> dødt
+> ,
+8158c9042,9043
+< jomfrumor.
+---
+> jomfrumor
+> .
+8162c9047,9048
+< verdensarv.
+---
+> verdensarv
+> .
+8165c9051,9052
+< museumsliv.
+---
+> museumsliv
+> .
+8171c9058,9059
+< protestere.
+---
+> protestere
+> .
+8176c9064,9065
+< reaksjon.
+---
+> reaksjon
+> .
+8179c9068,9069
+< land.
+---
+> land
+> .
+8190c9080,9081
+< Kasakhstan.
+---
+> Kasakhstan
+> .
+8196c9087,9088
+< Norge,
+---
+> Norge
+> ,
+8207c9099,9100
+< hardingfele?
+---
+> hardingfele
+> ?
+8213c9106,9107
+< bunader.
+---
+> bunader
+> .
+8222c9116,9117
+< mottatt.
+---
+> mottatt
+> .
+8228c9123,9124
+< mann,
+---
+> mann
+> ,
+8233c9129,9130
+< Borat.
+---
+> Borat
+> .
+8242c9139,9140
+< til?
+---
+> til
+> ?
+8247c9145,9146
+< forskjell.
+---
+> forskjell
+> .
+8253c9152,9153
+< stor.
+---
+> stor
+> .
+8265c9165,9166
+< verden,
+---
+> verden
+> ,
+8270c9171,9172
+< hvorfor.
+---
+> hvorfor
+> .
+8290c9192,9193
+< Sentral-Asia.
+---
+> Sentral-Asia
+> .
+8306c9209,9210
+< Hamburg.
+---
+> Hamburg
+> .
+8313c9217,9218
+< Tyskland.
+---
+> Tyskland
+> .
+8321c9226,9227
+< tortur,
+---
+> tortur
+> ,
+8325c9231,9232
+< reportasjen.
+---
+> reportasjen
+> .
+8333c9240,9241
+< latter,
+---
+> latter
+> ,
+8336c9244,9245
+< "rette
+---
+> "
+> rette
+8349c9258,9260
+< filler".
+---
+> filler
+> "
+> .
+8359c9270,9271
+< slaver,
+---
+> slaver
+> ,
+8362c9274,9276
+< (24)
+---
+> (
+> 24
+> )
+8371c9285,9286
+< noe,
+---
+> noe
+> ,
+8374c9289,9290
+< sittende.
+---
+> sittende
+> .
+8381c9297,9298
+< "nasjonalsymbolet
+---
+> "
+> nasjonalsymbolet
+8384c9301,9303
+< misbrukt".
+---
+> misbrukt
+> "
+> .
+8397c9316,9317
+< Nasarbajev:
+---
+> Nasarbajev
+> :
+8403c9323,9324
+< vår,
+---
+> vår
+> ,
+8407c9328,9329
+< forestillingen.
+---
+> forestillingen
+> .
+8409c9331,9333
+< (28)
+---
+> (
+> 28
+> )
+8420c9344,9345
+< mine.
+---
+> mine
+> .
+8425c9350,9351
+< krenket.
+---
+> krenket
+> .
+8430c9356,9357
+< overskredet,
+---
+> overskredet
+> ,
+8432c9359,9360
+< hun.
+---
+> hun
+> .
+8441c9369,9370
+< reaksjonene?
+---
+> reaksjonene
+> ?
+8446c9375,9376
+< sans?
+---
+> sans
+> ?
+8461c9391,9392
+< seg?
+---
+> seg
+> ?
+8474c9405,9406
+< godt.
+---
+> godt
+> .
+8492c9424,9425
+< av.
+---
+> av
+> .
+8505c9438,9439
+< selvskryt.
+---
+> selvskryt
+> .
+8511c9445,9446
+< dagen.
+---
+> dagen
+> .
+8521c9456,9457
+< ikke.
+---
+> ikke
+> .
+8531c9467,9468
+< fordømmelser.
+---
+> fordømmelser
+> .
+8538c9475,9476
+< poenget,
+---
+> poenget
+> ,
+8542c9480,9483
+< (52).
+---
+> (
+> 52
+> )
+> .
+8552c9493,9494
+< Kasakhstan.
+---
+> Kasakhstan
+> .
+8563c9505,9506
+< Zeit.
+---
+> Zeit
+> .
+8570c9513,9514
+< humor.
+---
+> humor
+> .
+8577c9521,9522
+< hån,
+---
+> hån
+> ,
+8579c9524,9525
+< Atabajev.
+---
+> Atabajev
+> .
+8588c9534,9535
+< ære:
+---
+> ære
+> :
+8597c9544,9545
+< ligger?
+---
+> ligger
+> ?
+8602c9550,9551
+< Mongolia.
+---
+> Mongolia
+> .
+8606c9555,9556
+< ingenting,
+---
+> ingenting
+> ,
+8614c9564,9565
+< (bedre
+---
+> (
+> bedre
+8620c9571,9573
+< Alma-Ata).
+---
+> Alma-Ata
+> )
+> .
+8627c9580,9581
+< oss.
+---
+> oss
+> .
+8633c9587,9588
+< deg,
+---
+> deg
+> ,
+8642c9597,9598
+< deg.
+---
+> deg
+> .
+8651c9607,9608
+< Kasakhstan-rundtur.
+---
+> Kasakhstan-rundtur
+> .
+8659c9616,9617
+< sine,
+---
+> sine
+> ,
+8661c9619,9620
+< Atabajev.
+---
+> Atabajev
+> .
+8670c9629,9630
+< hold.
+---
+> hold
+> .
+8680c9640,9641
+< litt,
+---
+> litt
+> ,
+8694c9655,9656
+< ting.
+---
+> ting
+> .
+8707c9669,9670
+< landet.
+---
+> landet
+> .
+8713c9676,9677
+< olje,
+---
+> olje
+> ,
+8718c9682,9683
+< utsikter.
+---
+> utsikter
+> .
+8729c9694,9695
+< Kasakhstan.
+---
+> Kasakhstan
+> .
+8739c9705,9706
+< gjest.
+---
+> gjest
+> .
+8743c9710,9711
+< klar:
+---
+> klar
+> :
+8748c9716,9717
+< spesialitet.
+---
+> spesialitet
+> .
+8753c9722,9723
+< prøve.
+---
+> prøve
+> .
+8759c9729,9730
+< hestemelk.
+---
+> hestemelk
+> .
+8764c9735,9736
+< lungene.
+---
+> lungene
+> .
+8775c9747,9748
+< drikken.
+---
+> drikken
+> .
+8780c9753,9754
+< Norge,
+---
+> Norge
+> ,
+8789c9763,9764
+< smalehovud?
+---
+> smalehovud
+> ?
+8792,8793c9767,9770
+< Gavepakke.
+< Hektisk.
+---
+> Gavepakke
+> .
+> Hektisk
+> .
+8795,8796c9772,9775
+< akt.
+< Elementært.
+---
+> akt
+> .
+> Elementært
+> .
+8807c9786,9787
+< ha,
+---
+> ha
+> ,
+8814c9794,9795
+< være.
+---
+> være
+> .
+8822c9803,9804
+< underlig.
+---
+> underlig
+> .
+8832c9814,9815
+< privilegier.
+---
+> privilegier
+> .
+8852c9835,9836
+< toppnivå.
+---
+> toppnivå
+> .
+8859c9843,9844
+< anakronisme,
+---
+> anakronisme
+> ,
+8863c9848,9849
+< dilemma.
+---
+> dilemma
+> .
+8866c9852,9853
+< revideres.
+---
+> revideres
+> .
+8880,8881c9867,9870
+< teokrati,
+< demokrati,
+---
+> teokrati
+> ,
+> demokrati
+> ,
+8884c9873,9874
+< religionsfrihet.
+---
+> religionsfrihet
+> .
+8888c9878,9879
+< gjort,
+---
+> gjort
+> ,
+8901c9892,9893
+< politikere.
+---
+> politikere
+> .
+8904c9896,9897
+< skjer?
+---
+> skjer
+> ?
+8914c9907,9908
+< LO-folk,
+---
+> LO-folk
+> ,
+8922c9916,9917
+< teologi.
+---
+> teologi
+> .
+8924c9919,9920
+< Giske,
+---
+> Giske
+> ,
+8957c9953,9954
+< ha.
+---
+> ha
+> .
+8973c9970,9971
+< ledere.
+---
+> ledere
+> .
+8996c9994,9995
+< institusjon.
+---
+> institusjon
+> .
+9001c10000,10001
+< høringsfrist,
+---
+> høringsfrist
+> ,
+9010c10010,10011
+< skuespillet.
+---
+> skuespillet
+> .
+9036,9037c10037,10040
+< politikken.
+< «Det
+---
+> politikken
+> .
+> «
+> Det
+9039c10042,10043
+< beklagelig,
+---
+> beklagelig
+> ,
+9052c10056,10057
+< om.
+---
+> om
+> .
+9058c10063,10065
+< Kirken,"
+---
+> Kirken
+> ,
+> "
+9062,9063c10069,10072
+< Skjevesland.
+< "Giske
+---
+> Skjevesland
+> .
+> "
+> Giske
+9065c10074,10076
+< reaksjonær,"
+---
+> reaksjonær
+> ,
+> "
+9073c10084,10085
+< kirke.
+---
+> kirke
+> .
+9076c10088,10089
+< Giske,
+---
+> Giske
+> ,
+9097c10110,10111
+< saken,
+---
+> saken
+> ,
+9101c10115,10116
+< selvstendighet.
+---
+> selvstendighet
+> .
+9118c10133,10134
+< Kirken:
+---
+> Kirken
+> :
+9123c10139,10140
+< statsstyrt.
+---
+> statsstyrt
+> .
+9125c10142,10143
+< dette,
+---
+> dette
+> ,
+9145c10163,10164
+< religion.
+---
+> religion
+> .
+9159,9160c10178,10181
+< politikk.
+< Iran,
+---
+> politikk
+> .
+> Iran
+> ,
+9170c10191,10192
+< styringsmodeller.
+---
+> styringsmodeller
+> .
+9181c10203,10204
+< progressiv,
+---
+> progressiv
+> ,
+9186c10209,10210
+< vil.
+---
+> vil
+> .
+9204c10228,10229
+< flest,
+---
+> flest
+> ,
+9216c10241,10242
+< engasjement.
+---
+> engasjement
+> .
+9230c10256,10257
+< saken.
+---
+> saken
+> .
+9248c10275,10276
+< trossamfunn.
+---
+> trossamfunn
+> .
+9250c10278,10279
+< herfra,
+---
+> herfra
+> ,
+9255c10284,10285
+< Fåfengt.
+---
+> Fåfengt
+> .
+9258c10288,10289
+< forbilde.
+---
+> forbilde
+> .
+9260c10291,10292
+< avtrykk.
+---
+> avtrykk
+> .
+9262c10294,10295
+< planer.
+---
+> planer
+> .
+9267c10300,10301
+< spøk:
+---
+> spøk
+> :
+9271c10305,10306
+< opp,
+---
+> opp
+> ,
+9278c10313,10314
+< øyne,
+---
+> øyne
+> ,
+9291c10327,10328
+< Oslo.
+---
+> Oslo
+> .
+9300c10337,10338
+< dverg,
+---
+> dverg
+> ,
+9305c10343,10344
+< tegningene.
+---
+> tegningene
+> .
+9320c10359,10360
+< trusler:
+---
+> trusler
+> :
+9327c10367,10368
+< kroner!
+---
+> kroner
+> !
+9332c10373,10374
+< store.
+---
+> store
+> .
+9338c10380,10381
+< gang,
+---
+> gang
+> ,
+9341c10384,10385
+< se.
+---
+> se
+> .
+9349c10393,10394
+< seg,
+---
+> seg
+> ,
+9359c10404,10405
+< fåfengt,
+---
+> fåfengt
+> ,
+9369c10415,10416
+< S,
+---
+> S
+> ,
+9382c10429,10430
+< døde.
+---
+> døde
+> .
+9392c10440,10441
+< trøstesløshet,
+---
+> trøstesløshet
+> ,
+9400c10449,10450
+< for.
+---
+> for
+> .
+9406c10456,10457
+< tilhørighet,
+---
+> tilhørighet
+> ,
+9417c10468,10469
+< sverdslag.
+---
+> sverdslag
+> .
+9426c10478,10479
+< helvete?
+---
+> helvete
+> ?
+9435c10488,10489
+< hjem.
+---
+> hjem
+> .
+9440,9442c10494,10499
+< Kafka:
+< "Bort
+< herfra,
+---
+> Kafka
+> :
+> "
+> Bort
+> herfra
+> ,
+9446c10503,10505
+< mål".
+---
+> mål
+> "
+> .
+9452c10511,10512
+< hovedstad,
+---
+> hovedstad
+> ,
+9464c10524,10525
+< stikken.
+---
+> stikken
+> .
+9471c10532,10533
+< svikt.
+---
+> svikt
+> .
+9473c10535,10536
+< over,
+---
+> over
+> ,
+9478c10541,10542
+< Angeles,
+---
+> Angeles
+> ,
+9485c10549,10550
+< tempo,
+---
+> tempo
+> ,
+9494c10559,10560
+< mygg.
+---
+> mygg
+> .
+9509c10575,10576
+< til:
+---
+> til
+> :
+9511c10578,10579
+< teknologiske,
+---
+> teknologiske
+> ,
+9516c10584,10585
+< maskinen,
+---
+> maskinen
+> ,
+9519c10588,10589
+< avantgardekunstneriske,
+---
+> avantgardekunstneriske
+> ,
+9524c10594,10595
+< skulptur.
+---
+> skulptur
+> .
+9532c10603,10604
+< avspeiles,
+---
+> avspeiles
+> ,
+9548c10620,10621
+< arkitekter,
+---
+> arkitekter
+> ,
+9557c10630,10631
+< uvanlige.
+---
+> uvanlige
+> .
+9562c10636,10637
+< om,
+---
+> om
+> ,
+9574c10649,10650
+< med,
+---
+> med
+> ,
+9580c10656,10657
+< ned.
+---
+> ned
+> .
+9590c10667,10668
+< praktisk,
+---
+> praktisk
+> ,
+9597c10675,10676
+< miljø.
+---
+> miljø
+> .
+9606c10685,10686
+< Bjørvika,
+---
+> Bjørvika
+> ,
+9609c10689,10690
+< PricewaterhouseCoopers,
+---
+> PricewaterhouseCoopers
+> ,
+9613c10694,10695
+< energibehov:
+---
+> energibehov
+> :
+9626c10708,10709
+< vinteren.
+---
+> vinteren
+> .
+9635c10718,10719
+< ved,
+---
+> ved
+> ,
+9637c10721,10722
+< jeg,
+---
+> jeg
+> ,
+9639c10724,10725
+< trollet,
+---
+> trollet
+> ,
+9646c10732,10733
+< kommer,
+---
+> kommer
+> ,
+9649c10736,10737
+< persienner,
+---
+> persienner
+> ,
+9657c10745,10746
+< uleselig.
+---
+> uleselig
+> .
+9661c10750,10751
+< upraktiske,
+---
+> upraktiske
+> ,
+9672c10762,10763
+< treenighet,
+---
+> treenighet
+> ,
+9678c10769,10770
+< krefter,
+---
+> krefter
+> ,
+9687c10779,10780
+< dem.
+---
+> dem
+> .
+9698c10791,10792
+< forurensning,
+---
+> forurensning
+> ,
+9703c10797,10798
+< naturen.
+---
+> naturen
+> .
+9707c10802,10803
+< hovedstrømmen,
+---
+> hovedstrømmen
+> ,
+9709c10805,10806
+< nok,
+---
+> nok
+> ,
+9713c10810,10811
+< vei.
+---
+> vei
+> .
+9723c10821,10822
+< landskapet,
+---
+> landskapet
+> ,
+9734c10833,10834
+< feighet.
+---
+> feighet
+> .
+9737c10837,10838
+< akutt,
+---
+> akutt
+> ,
+9756c10857,10858
+< epoker.
+---
+> epoker
+> .
+9768c10870,10871
+< rekkevidde,
+---
+> rekkevidde
+> ,
+9781c10884,10885
+< utenkelig.
+---
+> utenkelig
+> .
+9791c10895,10896
+< forsvarsløst.
+---
+> forsvarsløst
+> .
+9803c10908,10909
+< stund.
+---
+> stund
+> .
+9819c10925,10926
+< historien.
+---
+> historien
+> .
+9828c10935,10936
+< landskapet,
+---
+> landskapet
+> ,
+9836c10944,10945
+< mulig,
+---
+> mulig
+> ,
+9841c10950,10951
+< sinnelag.
+---
+> sinnelag
+> .
+9868c10978,10979
+< splintrer.
+---
+> splintrer
+> .
+9872,9874c10983,10988
+< tilstede.
+< Uansett.
+< Fullstendig.
+---
+> tilstede
+> .
+> Uansett
+> .
+> Fullstendig
+> .
+9879,9880c10993,10996
+< vanskelig.
+< Umulig.
+---
+> vanskelig
+> .
+> Umulig
+> .
+9884c11000,11001
+< realistisk,
+---
+> realistisk
+> ,
+9886c11003,11004
+< mål.
+---
+> mål
+> .
+9890c11008,11009
+< allikevel.
+---
+> allikevel
+> .
+9896c11015,11016
+< tilstede.
+---
+> tilstede
+> .
+9899,9900c11019,11022
+< henne.
+< Mer.
+---
+> henne
+> .
+> Mer
+> .
+9904c11026,11027
+< oppleve.
+---
+> oppleve
+> .
+9908c11031,11032
+< noe.
+---
+> noe
+> .
+9911c11035,11036
+< jeg.
+---
+> jeg
+> .
+9914c11039,11040
+< må.
+---
+> må
+> .
+9918,9919c11044,11047
+< opp,
+< observere,
+---
+> opp
+> ,
+> observere
+> ,
+9924c11052,11053
+< selvsagte.
+---
+> selvsagte
+> .
+9928c11057,11058
+< ser.
+---
+> ser
+> .
+9931,9932c11061,11064
+< huske.
+< Bevare.
+---
+> huske
+> .
+> Bevare
+> .
+9937c11069,11070
+< paradokset.
+---
+> paradokset
+> .
+9939c11072,11073
+< jeg.
+---
+> jeg
+> .
+9948c11082,11083
+< betrakte.
+---
+> betrakte
+> .
+9958c11093,11094
+< tilstede,
+---
+> tilstede
+> ,
+9964,9966c11100,11105
+< unna.
+< Betrakte.
+< Skrive.
+---
+> unna
+> .
+> Betrakte
+> .
+> Skrive
+> .
+9972c11111,11112
+< dette,
+---
+> dette
+> ,
+9977c11117,11118
+< om.
+---
+> om
+> .
+9979c11120,11121
+< om.
+---
+> om
+> .
+9985,9986c11127,11130
+< meg.
+< Etterpå.
+---
+> meg
+> .
+> Etterpå
+> .
+9990c11134,11135
+< klær.
+---
+> klær
+> .
+9993,9994c11138,11141
+< oppvaskmaskin.
+< Dusjer.
+---
+> oppvaskmaskin
+> .
+> Dusjer
+> .
+10000c11147,11148
+< seg.
+---
+> seg
+> .
+10008c11156,11157
+< ned.
+---
+> ned
+> .
+10013,10014c11162,11165
+< der.
+< Klare.
+---
+> der
+> .
+> Klare
+> .
+10018,10019c11169,11172
+< jeg.
+< Bevarer.
+---
+> jeg
+> .
+> Bevarer
+> .
+10023c11176,11177
+< det?
+---
+> det
+> ?
+10029,10030c11183,11186
+< øyeblikk?
+< Minner?
+---
+> øyeblikk
+> ?
+> Minner
+> ?
+10037,10038c11193,11196
+< døra.
+< Stille.
+---
+> døra
+> .
+> Stille
+> .
+10042c11200,11201
+< lytte.
+---
+> lytte
+> .
+10047c11206,11207
+< inne?
+---
+> inne
+> ?
+10051c11211,11212
+< romstering.
+---
+> romstering
+> .
+10056c11217,11218
+< på.
+---
+> på
+> .
+10061c11223,11224
+< til.
+---
+> til
+> .
+10067c11230,11231
+< pappa.
+---
+> pappa
+> .
+10069,10071c11233,11238
+< mamma.
+< -Det
+< gikk,
+---
+> mamma
+> .
+> -
+> Det
+> gikk
+> ,
+10076,10077c11243,11246
+< hverandre.
+< Smiler.
+---
+> hverandre
+> .
+> Smiler
+> .
+10080c11249,11250
+< stua.
+---
+> stua
+> .
+10089c11259,11260
+< ullsokk.
+---
+> ullsokk
+> .
+10099c11270,11271
+< hjem.
+---
+> hjem
+> .
+10108c11280,11281
+< veggen.
+---
+> veggen
+> .
+10113c11286,11287
+< halsen.
+---
+> halsen
+> .
+10119c11293,11294
+< om.
+---
+> om
+> .
+10123c11298,11299
+< lua,
+---
+> lua
+> ,
+10126c11302,11303
+< den.
+---
+> den
+> .
+10129c11306,11307
+< Anna.
+---
+> Anna
+> .
+10131c11309,11310
+< snø.
+---
+> snø
+> .
+10133c11312,11313
+< barnehagen.
+---
+> barnehagen
+> .
+10141c11321,11322
+< åpnes.
+---
+> åpnes
+> .
+10155c11336,11337
+< stolen.
+---
+> stolen
+> .
+10157,10159c11339,11344
+< oppi.
+< Asjetter.
+< Kopper.
+---
+> oppi
+> .
+> Asjetter
+> .
+> Kopper
+> .
+10161c11346,11347
+< gaffel.
+---
+> gaffel
+> .
+10164c11350,11351
+< plast.
+---
+> plast
+> .
+10170c11357,11358
+< ettermiddag.
+---
+> ettermiddag
+> .
+10177c11365,11366
+< hennes.
+---
+> hennes
+> .
+10182c11371,11372
+< nettet.
+---
+> nettet
+> .
+10189c11379,11380
+< serverte.
+---
+> serverte
+> .
+10199c11390,11391
+< servering.
+---
+> servering
+> .
+10204c11396,11397
+< nettet,
+---
+> nettet
+> ,
+10210c11403,11404
+< hennes.
+---
+> hennes
+> .
+10216c11410,11411
+< stille.
+---
+> stille
+> .
+10222c11417,11418
+< rosiner.
+---
+> rosiner
+> .
+10225c11421,11422
+< harde.
+---
+> harde
+> .
+10231c11428,11429
+< dag.
+---
+> dag
+> .
+10237c11435,11436
+< vannflaske.
+---
+> vannflaske
+> .
+10240c11439,11440
+< dukke.
+---
+> dukke
+> .
+10245c11445,11446
+< melkeflaske.
+---
+> melkeflaske
+> .
+10252c11453,11454
+< møte.
+---
+> møte
+> .
+10257c11459,11460
+< ball.
+---
+> ball
+> .
+10264c11467,11468
+< ut.
+---
+> ut
+> .
+10268c11472,11473
+< lekekurven.
+---
+> lekekurven
+> .
+10275c11480,11481
+< heia.
+---
+> heia
+> .
+10281,10282c11487,11490
+< perlebrett.
+< Grønne,
+---
+> perlebrett
+> .
+> Grønne
+> ,
+10290c11498,11499
+< toppen.
+---
+> toppen
+> .
+10295c11504,11505
+< kaos.
+---
+> kaos
+> .
+10297c11507,11508
+< blomst,
+---
+> blomst
+> ,
+10301c11512,11513
+< det.
+---
+> det
+> .
+10306c11518,11519
+< skapet.
+---
+> skapet
+> .
+10314c11527,11528
+< perlene.
+---
+> perlene
+> .
+10317c11531,11532
+< ryddet.
+---
+> ryddet
+> .
+10322c11537,11538
+< bok,
+---
+> bok
+> ,
+10327c11543,11544
+< aviskurven.
+---
+> aviskurven
+> .
+10335c11552,11553
+< oppå.
+---
+> oppå
+> .
+10338c11556,11557
+< holde,
+---
+> holde
+> ,
+10340c11559,11560
+< jeg.
+---
+> jeg
+> .
+10349c11569,11570
+< lysholderen.
+---
+> lysholderen
+> .
+10352c11573,11574
+< ut,
+---
+> ut
+> ,
+10356c11578,11579
+< ned.
+---
+> ned
+> .
+10360c11583,11584
+< handa.
+---
+> handa
+> .
+10365c11589,11590
+< øynene.
+---
+> øynene
+> .
+10368c11593,11594
+< lukkes.
+---
+> lukkes
+> .
+10370c11596,11597
+< holder.
+---
+> holder
+> .
+10376c11603,11604
+< mer.
+---
+> mer
+> .
+10379c11607,11608
+< prosjeter.
+---
+> prosjeter
+> .
+10383c11612,11613
+< stunder.
+---
+> stunder
+> .
+10387c11617,11618
+< vente.
+---
+> vente
+> .
+10390c11621,11622
+< morgen.
+---
+> morgen
+> .
+10392,10393c11624,11627
+< fortsettelsen.
+< Misunnelig?
+---
+> fortsettelsen
+> .
+> Misunnelig
+> ?
+10400,10401c11634,11637
+< påvirke.
+< Misunne.
+---
+> påvirke
+> .
+> Misunne
+> .
+10404c11640,11641
+< bilder.
+---
+> bilder
+> .
+10415c11652,11653
+< hjemmebakst.
+---
+> hjemmebakst
+> .
+10421c11659,11660
+< hjerte.
+---
+> hjerte
+> .
+10429c11668,11669
+< kaffe.
+---
+> kaffe
+> .
+10431c11671,11672
+< kaker.
+---
+> kaker
+> .
+10441,10442c11682,11685
+< tiden.
+< Faktisk.
+---
+> tiden
+> .
+> Faktisk
+> .
+10460c11703,11704
+< støvkorn.
+---
+> støvkorn
+> .
+10462c11706,11707
+< også.
+---
+> også
+> .
+10471c11716,11717
+< kald.
+---
+> kald
+> .
+10473c11719,11720
+< jeg.
+---
+> jeg
+> .
+10481c11728,11729
+< dypere.
+---
+> dypere
+> .
+10484,10486c11732,11737
+< mye.
+< For,
+< joda,
+---
+> mye
+> .
+> For
+> ,
+> joda
+> ,
+10493c11744,11745
+< også.
+---
+> også
+> .
+10498c11750,11751
+< puter.
+---
+> puter
+> .
+10502c11755,11756
+< plusstegn.
+---
+> plusstegn
+> .
+10505c11759,11760
+< det.
+---
+> det
+> .
+10524c11779,11780
+< prioriteres.
+---
+> prioriteres
+> .
+10530c11786,11787
+< 24.
+---
+> 24
+> .
+10534c11791,11792
+< 98.
+---
+> 98
+> .
+10539c11797,11798
+< litt,
+---
+> litt
+> ,
+10550c11809,11810
+< få.
+---
+> få
+> .
+10562c11822,11823
+< vårt,
+---
+> vårt
+> ,
+10566c11827,11828
+< det.
+---
+> det
+> .
+10568c11830,11831
+< hjem.
+---
+> hjem
+> .
+10570,10571c11833,11836
+< oss.
+< Nei,
+---
+> oss
+> .
+> Nei
+> ,
+10579c11844,11845
+< påvirke.
+---
+> påvirke
+> .
+10582c11848,11849
+< dag,
+---
+> dag
+> ,
+10592c11859,11860
+< sol.
+---
+> sol
+> .
+10604c11872,11873
+< slep.
+---
+> slep
+> .
+10611c11880,11881
+< bena.
+---
+> bena
+> .
+10615c11885,11886
+< det.
+---
+> det
+> .
+10617c11888,11889
+< misunnelsen.
+---
+> misunnelsen
+> .
+10621c11893,11894
+< samvittigheten.
+---
+> samvittigheten
+> .
+10635c11908,11909
+< løypene,
+---
+> løypene
+> ,
+10640c11914,11915
+< inne.
+---
+> inne
+> .
+10645c11920,11921
+< sola.
+---
+> sola
+> .
+10651c11927,11928
+< dagen.
+---
+> dagen
+> .
+10659c11936,11937
+< etterhvert.
+---
+> etterhvert
+> .
+10661c11939,11940
+< ake.
+---
+> ake
+> .
+10666c11945,11946
+< tregt.
+---
+> tregt
+> .
+10672c11952,11953
+< ut,
+---
+> ut
+> ,
+10680c11961,11962
+< lille.
+---
+> lille
+> .
+10691c11973,11974
+< hjemme.
+---
+> hjemme
+> .
+10695c11978,11979
+< kafe,
+---
+> kafe
+> ,
+10698,10699c11982,11985
+< oss.
+< Ute.
+---
+> oss
+> .
+> Ute
+> .
+10704c11990,11991
+< utelunsj.
+---
+> utelunsj
+> .
+10714c12001,12002
+< solbriller,
+---
+> solbriller
+> ,
+10721c12009,12010
+< kjekk.
+---
+> kjekk
+> .
+10735c12024,12025
+< påske.
+---
+> påske
+> .
+10740c12030,12031
+< bilder.
+---
+> bilder
+> .
+10750c12041,12042
+< samvittighet.
+---
+> samvittighet
+> .
+10759,10760c12051,12054
+< igjen.
+< For,
+---
+> igjen
+> .
+> For
+> ,
+10767c12061,12062
+< sine,
+---
+> sine
+> ,
+10771c12066,12067
+< kjøkkenet.
+---
+> kjøkkenet
+> .
+10781c12077,12078
+< granateple.
+---
+> granateple
+> .
+10783c12080,12081
+< klart.
+---
+> klart
+> .
+10793c12091,12092
+< nett.
+---
+> nett
+> .
+10813c12112,12113
+< frites.
+---
+> frites
+> .
+10830c12130,12131
+< hjemme.
+---
+> hjemme
+> .
+10844c12145,12146
+< maten.
+---
+> maten
+> .
+10864c12166,12167
+< Berner.
+---
+> Berner
+> .
+10866c12169,12170
+< T-banen.
+---
+> T-banen
+> .
+10874c12178,12179
+< venninne.
+---
+> venninne
+> .
+10884c12189,12190
+< meg.
+---
+> meg
+> .
+10893c12199,12200
+< oss.
+---
+> oss
+> .
+10906c12213,12214
+< tiden.
+---
+> tiden
+> .
+10913c12221,12222
+< overtid.
+---
+> overtid
+> .
+10915c12224,12225
+< klar.
+---
+> klar
+> .
+10924c12234,12235
+< mennesket.
+---
+> mennesket
+> .
+10928,10930c12239,12244
+< sparket.
+< Fektet.
+< Gråt.
+---
+> sparket
+> .
+> Fektet
+> .
+> Gråt
+> .
+10932c12246,12247
+< vakker.
+---
+> vakker
+> .
+10934c12249,12250
+< perfekt.
+---
+> perfekt
+> .
+10943c12259,12260
+< meg.
+---
+> meg
+> .
+10946c12263,12264
+< seg.
+---
+> seg
+> .
+10960c12278,12279
+< inne.
+---
+> inne
+> .
+10968c12287,12288
+< meg.
+---
+> meg
+> .
+10976c12296,12297
+< hjem.
+---
+> hjem
+> .
+10981c12302,12303
+< ettermiddag,
+---
+> ettermiddag
+> ,
+10988c12310,12311
+< veien.
+---
+> veien
+> .
+10995c12318,12319
+< tung.
+---
+> tung
+> .
+10997c12321,12322
+< trett,
+---
+> trett
+> ,
+11002c12327,12328
+< før.
+---
+> før
+> .
+11007c12333,12334
+< banen.
+---
+> banen
+> .
+11017c12344,12345
+< jobb,
+---
+> jobb
+> ,
+11024c12352,12353
+< skjedd.
+---
+> skjedd
+> .
+11032c12361,12362
+< dag.
+---
+> dag
+> .
+11037c12367,12368
+< handle.
+---
+> handle
+> .
+11040c12371,12372
+< litt,
+---
+> litt
+> ,
+11042c12374,12375
+< han.
+---
+> han
+> .
+11046,11047c12379,12382
+< jeg.
+< Sov.
+---
+> jeg
+> .
+> Sov
+> .
+11058,11059c12393,12396
+< trening.
+< -Sover
+---
+> trening
+> .
+> -
+> Sover
+11061c12398,12399
+< enda,
+---
+> enda
+> ,
+11063c12401,12402
+< han.
+---
+> han
+> .
+11071c12410,12411
+< til,
+---
+> til
+> ,
+11075,11076c12415,12418
+< middag.
+< -Vekker
+---
+> middag
+> .
+> -
+> Vekker
+11078c12420,12421
+< da.
+---
+> da
+> .
+11084c12427,12428
+< nå.
+---
+> nå
+> .
+11096c12440,12441
+< midnatt.
+---
+> midnatt
+> .
+11104c12449,12450
+< kjeft.
+---
+> kjeft
+> .
+11112c12458,12459
+< deg!
+---
+> deg
+> !
+11117c12464,12465
+< kjøleskapet,
+---
+> kjøleskapet
+> ,
+11119c12467,12468
+< pappaen.
+---
+> pappaen
+> .
+11127c12476,12477
+< hjem.
+---
+> hjem
+> .
+11135c12485,12486
+< telefon.
+---
+> telefon
+> .
+11138c12489,12490
+< politiet.
+---
+> politiet
+> .
+11148c12500,12501
+< fallulykke,
+---
+> fallulykke
+> ,
+11152c12505,12506
+< alvorlig.
+---
+> alvorlig
+> .
+11163c12517,12518
+< byen.
+---
+> byen
+> .
+11166c12521,12522
+< nattbussen.
+---
+> nattbussen
+> .
+11179c12535,12536
+< Exodus.
+---
+> Exodus
+> .
+11189c12546,12547
+< kompis.
+---
+> kompis
+> .
+11198c12556,12557
+< Espen?
+---
+> Espen
+> ?
+11202c12561,12562
+< koma,
+---
+> koma
+> ,
+11204c12564,12565
+< han.
+---
+> han
+> .
+11207c12568,12569
+< skyld,
+---
+> skyld
+> ,
+11216c12578,12579
+< ham.
+---
+> ham
+> .
+11223,11224c12586,12589
+< gjentar:
+< «Vi
+---
+> gjentar
+> :
+> «
+> Vi
+11227c12592,12593
+< blomster,
+---
+> blomster
+> ,
+11231c12597,12599
+< blomster».
+---
+> blomster
+> »
+> .
+11241c12609,12610
+< bakgården.
+---
+> bakgården
+> .
+11245c12614,12615
+< knust.
+---
+> knust
+> .
+11259c12629,12630
+< skader.
+---
+> skader
+> .
+11264,11265c12635,12638
+< det:
+< «Klokken
+---
+> det
+> :
+> «
+> Klokken
+11287c12660,12662
+< (...)
+---
+> (
+> ...
+> )
+11293c12668,12669
+< stedet.
+---
+> stedet
+> .
+11298c12674,12675
+< live,
+---
+> live
+> ,
+11301c12678,12679
+< skadet.
+---
+> skadet
+> .
+11310,11311c12688,12690
+< etter.
+< Det
+---
+> etter
+> .
+> Det
+11316c12695,12696
+< stedet,
+---
+> stedet
+> ,
+11322c12702,12704
+< grader.»
+---
+> grader
+> .
+> »
+11328c12710,12711
+< manøveren?
+---
+> manøveren
+> ?
+11333c12716,12717
+< hotellet?
+---
+> hotellet
+> ?
+11339c12723,12724
+< 2,4.
+---
+> 2,4
+> .
+11353c12738,12739
+< etasje.
+---
+> etasje
+> .
+11364c12750,12751
+< rom,
+---
+> rom
+> ,
+11366c12753,12754
+< rapporten.
+---
+> rapporten
+> .
+11372c12760,12761
+< gjesten,
+---
+> gjesten
+> ,
+11376c12765,12766
+< kjente.
+---
+> kjente
+> .
+11379c12769,12770
+< resepsjonisten.
+---
+> resepsjonisten
+> .
+11385c12776,12777
+< rommet,
+---
+> rommet
+> ,
+11389c12781,12782
+< badet.
+---
+> badet
+> .
+11397c12790,12791
+< gesimsen.
+---
+> gesimsen
+> .
+11402c12796,12797
+< resepsjonen,
+---
+> resepsjonen
+> ,
+11407c12802,12803
+< politiet.
+---
+> politiet
+> .
+11418c12814,12815
+< vinduet,
+---
+> vinduet
+> ,
+11423,11424c12820,12823
+< bakken.
+< Hei,
+---
+> bakken
+> .
+> Hei
+> ,
+11428c12827,12828
+< her.
+---
+> her
+> .
+11438c12838,12839
+< oppe.
+---
+> oppe
+> .
+11447c12848,12849
+< Espen.
+---
+> Espen
+> .
+11456c12858,12859
+< ventet.
+---
+> ventet
+> .
+11462c12865,12866
+< likevel.
+---
+> likevel
+> .
+11469c12873,12874
+< melding.
+---
+> melding
+> .
+11477c12882,12883
+< hjernekirurger,
+---
+> hjernekirurger
+> ,
+11483c12889,12890
+< engler,
+---
+> engler
+> ,
+11491c12898,12899
+< fallet.
+---
+> fallet
+> .
+11496c12904,12905
+< Espen.
+---
+> Espen
+> .
+11505c12914,12915
+< Haukeland.
+---
+> Haukeland
+> .
+11522c12932,12933
+< legene.
+---
+> legene
+> .
+11533c12944,12945
+< vakt,
+---
+> vakt
+> ,
+11538c12950,12951
+< nevrokirurg,
+---
+> nevrokirurg
+> ,
+11540c12953,12954
+< det.
+---
+> det
+> .
+11542c12956,12957
+< mor,
+---
+> mor
+> ,
+11544c12959,12960
+< Grete,
+---
+> Grete
+> ,
+11552c12968,12969
+< Steinkjer.
+---
+> Steinkjer
+> .
+11562c12979,12980
+< dem.
+---
+> dem
+> .
+11574c12992,12993
+< dø.
+---
+> dø
+> .
+11579c12998,12999
+< han.
+---
+> han
+> .
+11582c13002,13003
+< operert,
+---
+> operert
+> ,
+11587c13008,13009
+< kritisk.
+---
+> kritisk
+> .
+11593c13015,13016
+< hodet,
+---
+> hodet
+> ,
+11598c13021,13022
+< operasjon.
+---
+> operasjon
+> .
+11615c13039,13040
+< plass.
+---
+> plass
+> .
+11622c13047,13048
+< hjernen.
+---
+> hjernen
+> .
+11629c13055,13056
+< dag.
+---
+> dag
+> .
+11637c13064,13065
+< igjen.
+---
+> igjen
+> .
+11651c13079,13080
+< timer.
+---
+> timer
+> .
+11655c13084,13085
+< timer,
+---
+> timer
+> ,
+11660c13090,13091
+< oppe,
+---
+> oppe
+> ,
+11663c13094,13095
+< vite.
+---
+> vite
+> .
+11673c13105,13106
+< døren.
+---
+> døren
+> .
+11679c13112,13113
+< oppglødd,
+---
+> oppglødd
+> ,
+11688c13122,13123
+< stort.
+---
+> stort
+> .
+11690c13125,13126
+< er,
+---
+> er
+> ,
+11692c13128,13129
+< omstendighetene,
+---
+> omstendighetene
+> ,
+11694c13131,13132
+< nyheter.
+---
+> nyheter
+> .
+11704c13142,13143
+< gjort.
+---
+> gjort
+> .
+11707c13146,13147
+< kritisk,
+---
+> kritisk
+> ,
+11714c13154,13155
+< operasjonen.
+---
+> operasjonen
+> .
+11724,11725c13165,13169
+< Stavanger:
+< «Hei,
+---
+> Stavanger
+> :
+> «
+> Hei
+> ,
+11729c13173,13174
+< her.
+---
+> her
+> .
+11739c13184,13185
+< oppe.
+---
+> oppe
+> .
+11748c13194,13195
+< Espen.
+---
+> Espen
+> .
+11757c13204,13205
+< ventet.
+---
+> ventet
+> .
+11763c13211,13212
+< likevel.
+---
+> likevel
+> .
+11770c13219,13220
+< melding.
+---
+> melding
+> .
+11778c13228,13229
+< hjernekirurger,
+---
+> hjernekirurger
+> ,
+11784c13235,13236
+< engler,
+---
+> engler
+> ,
+11792c13244,13246
+< fallet.»
+---
+> fallet
+> .
+> »
+11796c13250,13251
+< operasjonen,
+---
+> operasjonen
+> ,
+11804c13259,13260
+< Haukeland,
+---
+> Haukeland
+> ,
+11811c13267,13268
+< krefter.
+---
+> krefter
+> .
+11821c13278,13279
+< sykepleier.
+---
+> sykepleier
+> .
+11829c13287,13288
+< Nordås.
+---
+> Nordås
+> .
+11836c13295,13296
+< hodeskadene,
+---
+> hodeskadene
+> ,
+11839c13299,13300
+< tilbakeslag,
+---
+> tilbakeslag
+> ,
+11846c13307,13308
+< infeksjoner.
+---
+> infeksjoner
+> .
+11855c13317,13318
+< Nordås,
+---
+> Nordås
+> ,
+11865c13328,13329
+< igjen.
+---
+> igjen
+> .
+11869c13333,13334
+< ganger,
+---
+> ganger
+> ,
+11884c13349,13350
+< gå.
+---
+> gå
+> .
+11886c13352,13353
+< Nei!
+---
+> Nei
+> !
+11896c13363,13364
+< fallet,
+---
+> fallet
+> ,
+11906,11907c13374,13377
+< vondt.
+< «Vi
+---
+> vondt
+> .
+> «
+> Vi
+11913c13383,13385
+< glede»,
+---
+> glede
+> »
+> ,
+11920c13392,13393
+< respons.
+---
+> respons
+> .
+11928c13401,13402
+< tilbake.
+---
+> tilbake
+> .
+11938c13412,13413
+< Universitetssykehus,
+---
+> Universitetssykehus
+> ,
+11943c13418,13419
+< Nordås.
+---
+> Nordås
+> .
+11953c13429,13430
+< Askøy.
+---
+> Askøy
+> .
+11960c13437,13438
+< nå?
+---
+> nå
+> ?
+11964c13442,13443
+< 2012.
+---
+> 2012
+> .
+11970c13449,13450
+< fallet.
+---
+> fallet
+> .
+11977c13457,13458
+< Nordås.
+---
+> Nordås
+> .
+11983c13464,13465
+< bicepsen,
+---
+> bicepsen
+> ,
+11986c13468,13469
+< ler.
+---
+> ler
+> .
+11992c13475,13476
+< gutt.
+---
+> gutt
+> .
+12000c13484,13485
+< hjertet,
+---
+> hjertet
+> ,
+12007c13492,13493
+< møtes.
+---
+> møtes
+> .
+12014c13500,13501
+< mitt,
+---
+> mitt
+> ,
+12016c13503,13504
+< Espen.
+---
+> Espen
+> .
+12029c13517,13518
+< igjen.
+---
+> igjen
+> .
+12036c13525,13526
+< tydelig,
+---
+> tydelig
+> ,
+12039c13529,13530
+< seg,
+---
+> seg
+> ,
+12041c13532,13533
+< slukes,
+---
+> slukes
+> ,
+12045c13537,13538
+< svikter,
+---
+> svikter
+> ,
+12051c13544,13545
+< plass.
+---
+> plass
+> .
+12057c13551,13552
+< Espen,
+---
+> Espen
+> ,
+12065c13560,13561
+< personlighet,
+---
+> personlighet
+> ,
+12070c13566,13567
+< hemninger.
+---
+> hemninger
+> .
+12084c13581,13582
+< side.
+---
+> side
+> .
+12093c13591,13592
+< godt.
+---
+> godt
+> .
+12100c13599,13600
+< venstresiden,
+---
+> venstresiden
+> ,
+12105c13605,13606
+< hånden.
+---
+> hånden
+> .
+12108c13609,13610
+< knipeøvelser,
+---
+> knipeøvelser
+> ,
+12112c13614,13615
+< styrke.
+---
+> styrke
+> .
+12115c13618,13619
+< pleiere,
+---
+> pleiere
+> ,
+12118c13622,13623
+< leger.
+---
+> leger
+> .
+12128c13633,13634
+< uhemmet,
+---
+> uhemmet
+> ,
+12137c13643,13644
+< besøk.
+---
+> besøk
+> .
+12140c13647,13648
+< mars,
+---
+> mars
+> ,
+12149c13657,13658
+< gang.
+---
+> gang
+> .
+12155c13664,13665
+< underetasjen,
+---
+> underetasjen
+> ,
+12163c13673,13674
+< Askøy.
+---
+> Askøy
+> .
+12168c13679,13680
+< lenger,
+---
+> lenger
+> ,
+12173c13685,13686
+< ut.
+---
+> ut
+> .
+12178c13691,13692
+< United-plakat,
+---
+> United-plakat
+> ,
+12183c13697,13698
+< gitar.
+---
+> gitar
+> .
+12191c13706,13707
+< med:
+---
+> med
+> :
+12200c13716,13717
+< die?
+---
+> die
+> ?
+12203c13720,13721
+< beyond,
+---
+> beyond
+> ,
+12207c13725,13726
+< before?
+---
+> before
+> ?
+12212c13731,13733
+< life?»
+---
+> life
+> ?
+> »
+12215c13736,13737
+< «The
+---
+> «
+> The
+12218c13740,13742
+< on».
+---
+> on
+> »
+> .
+12222c13746,13747
+< favorittgruppen,
+---
+> favorittgruppen
+> ,
+12224c13749,13750
+< han.
+---
+> han
+> .
+12227c13753,13754
+< opp.
+---
+> opp
+> .
+12233c13760,13761
+< pianoet.
+---
+> pianoet
+> .
+12241c13769,13770
+< fem.
+---
+> fem
+> .
+12251c13780,13781
+< virker.
+---
+> virker
+> .
+12254c13784,13785
+< her,
+---
+> her
+> ,
+12257c13788,13789
+< Tore.
+---
+> Tore
+> .
+12267c13799,13800
+< sist.
+---
+> sist
+> .
+12272c13805,13806
+< ski,
+---
+> ski
+> ,
+12277c13811,13812
+< hånd.
+---
+> hånd
+> .
+12287c13822,13823
+< skibakken.
+---
+> skibakken
+> .
+12298c13834,13835
+< venstrehånden,
+---
+> venstrehånden
+> ,
+12308c13845,13846
+< kroner!
+---
+> kroner
+> !
+12313,12315c13851,13856
+< trene,
+< Espen.
+< Øve,
+---
+> trene
+> ,
+> Espen
+> .
+> Øve
+> ,
+12317c13858,13859
+< hånden,
+---
+> hånden
+> ,
+12321c13863,13864
+< smerte,
+---
+> smerte
+> ,
+12324c13867,13868
+< Tore.
+---
+> Tore
+> .
+12334c13878,13879
+< hobbyene.
+---
+> hobbyene
+> .
+12340c13885,13886
+< enhjulssykkel.
+---
+> enhjulssykkel
+> .
+12347c13893,13894
+< enkelt.
+---
+> enkelt
+> .
+12350c13897,13898
+< rolig,
+---
+> rolig
+> ,
+12353c13901,13902
+< motsatt.
+---
+> motsatt
+> .
+12362c13911,13912
+< krevende,
+---
+> krevende
+> ,
+12364c13914,13915
+< pappa.
+---
+> pappa
+> .
+12370c13921,13922
+< skulder.
+---
+> skulder
+> .
+12372,12373c13924,13927
+< Å,
+< ja,
+---
+> Å
+> ,
+> ja
+> ,
+12378,12380c13932,13937
+< da,
+< pappa,
+< takk,
+---
+> da
+> ,
+> pappa
+> ,
+> takk
+> ,
+12385c13942,13943
+< smil.
+---
+> smil
+> .
+12393,12394c13951,13954
+< humør,
+< Espen,
+---
+> humør
+> ,
+> Espen
+> ,
+12396c13956,13957
+< pappa.
+---
+> pappa
+> .
+12401c13962,13963
+< emosjonell,
+---
+> emosjonell
+> ,
+12405c13967,13968
+< sint,
+---
+> sint
+> ,
+12407c13970,13971
+< han.
+---
+> han
+> .
+12413c13977,13978
+< pappa,
+---
+> pappa
+> ,
+12415c13980,13981
+< Espen.
+---
+> Espen
+> .
+12423c13989,13990
+< skjedde.
+---
+> skjedde
+> .
+12428c13995,13996
+< mengder,
+---
+> mengder
+> ,
+12434c14002,14003
+< farlig,
+---
+> farlig
+> ,
+12439c14008,14009
+< hodet.
+---
+> hodet
+> .
+12449c14019,14020
+< ham,
+---
+> ham
+> ,
+12452c14023,14024
+< Tore.
+---
+> Tore
+> .
+12458c14030,14031
+< sønnen,
+---
+> sønnen
+> ,
+12461c14034,14035
+< ikke.
+---
+> ikke
+> .
+12468c14042,14043
+< sprit,
+---
+> sprit
+> ,
+12471c14046,14047
+< det.
+---
+> det
+> .
+12483c14059,14060
+< byen,
+---
+> byen
+> ,
+12500c14077,14078
+< litt.
+---
+> litt
+> .
+12510c14088,14089
+< melding.
+---
+> melding
+> .
+12524c14103,14104
+< meldingen.
+---
+> meldingen
+> .
+12528c14108,14109
+< sende.
+---
+> sende
+> .
+12540c14121,14122
+< hjem,
+---
+> hjem
+> ,
+12550c14132,14133
+< ulykken.
+---
+> ulykken
+> .
+12556c14139,14140
+< Jägermeister,
+---
+> Jägermeister
+> ,
+12559c14143,14144
+< Battery,
+---
+> Battery
+> ,
+12565c14150,14151
+< smaken.
+---
+> smaken
+> .
+12577c14163,14164
+< Rosenkrantz.
+---
+> Rosenkrantz
+> .
+12584c14171,14172
+< bakgården?
+---
+> bakgården
+> ?
+12594,12595c14182,14185
+< gesimsen,
+< Espen?
+---
+> gesimsen
+> ,
+> Espen
+> ?
+12598c14188,14189
+< Tore.
+---
+> Tore
+> .
+12602c14193,14194
+< svar.
+---
+> svar
+> .
+12606c14198,14199
+< gåte,
+---
+> gåte
+> ,
+12617c14210,14211
+< hull.
+---
+> hull
+> .
+12623c14217,14218
+< balanseferdigheter,
+---
+> balanseferdigheter
+> ,
+12627c14222,14223
+< alkoholen,
+---
+> alkoholen
+> ,
+12630c14226,14227
+< overmodig.
+---
+> overmodig
+> .
+12640c14237,14238
+< også,
+---
+> også
+> ,
+12648c14246,14247
+< trafikken.
+---
+> trafikken
+> .
+12660c14259,14260
+< for,
+---
+> for
+> ,
+12662c14262,14263
+< kjøring.
+---
+> kjøring
+> .
+12668c14269,14270
+< lappen.
+---
+> lappen
+> .
+12670c14272,14273
+< år.
+---
+> år
+> .
+12675c14278,14279
+< alderen.
+---
+> alderen
+> .
+12678c14282,14283
+< feste.
+---
+> feste
+> .
+12684c14289,14290
+< oss,
+---
+> oss
+> ,
+12694c14300,14301
+< mareritt.
+---
+> mareritt
+> .
+12698c14305,14306
+< alle,
+---
+> alle
+> ,
+12700c14308,14309
+< Tore.
+---
+> Tore
+> .
+12705c14314,14315
+< stunder,
+---
+> stunder
+> ,
+12715c14325,14326
+< fremover.
+---
+> fremover
+> .
+12728c14339,14340
+< ham,
+---
+> ham
+> ,
+12731c14343,14344
+< Tore.
+---
+> Tore
+> .
+12737c14350,14351
+< skift.
+---
+> skift
+> .
+12745c14359,14360
+< skolen,
+---
+> skolen
+> ,
+12749c14364,14365
+< fritidsaktiviteter.
+---
+> fritidsaktiviteter
+> .
+12755c14371,14372
+< V60,
+---
+> V60
+> ,
+12760c14377,14378
+< ham.
+---
+> ham
+> .
+12768c14386,14387
+< Nav.
+---
+> Nav
+> .
+12777c14396,14397
+< USA,
+---
+> USA
+> ,
+12781c14401,14402
+< Florida,
+---
+> Florida
+> ,
+12785c14406,14407
+< sine.
+---
+> sine
+> .
+12793c14415,14416
+< hadde,
+---
+> hadde
+> ,
+12795c14418,14419
+< drømmer,
+---
+> drømmer
+> ,
+12800c14424,14425
+< flaks.
+---
+> flaks
+> .
+12803c14428,14429
+< han.
+---
+> han
+> .
+12811c14437,14438
+< borte.
+---
+> borte
+> .
+12820c14447,14448
+< møtt.
+---
+> møtt
+> .
+12834c14462,14463
+< annet,
+---
+> annet
+> ,
+12842c14471,14472
+< deg.
+---
+> deg
+> .
+12846c14476,14477
+< mye.
+---
+> mye
+> .
+12849c14480,14481
+< opp.
+---
+> opp
+> .
+12863c14495,14496
+< heldig.
+---
+> heldig
+> .
+12869c14502,14503
+< om.
+---
+> om
+> .
+12877c14511,14512
+< kan,
+---
+> kan
+> ,
+12879c14514,14515
+< han.
+---
+> han
+> .
+12886c14522,14523
+< da?
+---
+> da
+> ?
+12888c14525,14526
+< pappa.
+---
+> pappa
+> .
+12892c14530,14531
+< min,
+---
+> min
+> ,
+12894c14533,14534
+< han.
+---
+> han
+> .
+12896,12898c14536,14541
+< Tale,
+< ja.
+< Artikulasjon.
+---
+> Tale
+> ,
+> ja
+> .
+> Artikulasjon
+> .
+12900c14543,14544
+< din,
+---
+> din
+> ,
+12902c14546,14547
+< din.
+---
+> din
+> .
+12907c14552,14553
+< forstyrret,
+---
+> forstyrret
+> ,
+12909c14555,14556
+< pappa.
+---
+> pappa
+> .
+12911c14558,14559
+< Ja,
+---
+> Ja
+> ,
+12919c14567,14568
+< damer.
+---
+> damer
+> .
+12923c14572,14573
+< best,
+---
+> best
+> ,
+12925c14575,14576
+< Espen.
+---
+> Espen
+> .
+12931c14582,14583
+< langt,
+---
+> langt
+> ,
+12933c14585,14586
+< pappa.
+---
+> pappa
+> .
+12936c14589,14590
+< tidspunkt,
+---
+> tidspunkt
+> ,
+12945c14599,14600
+< ulykken,
+---
+> ulykken
+> ,
+12954c14609,14610
+< rullestol.
+---
+> rullestol
+> .
+12962c14618,14619
+< hjemme,
+---
+> hjemme
+> ,
+12964c14621,14622
+< armhevninger.
+---
+> armhevninger
+> .
+12973c14631,14632
+< ham,
+---
+> ham
+> ,
+12975c14634,14635
+< Tore.
+---
+> Tore
+> .
+12988c14648,14649
+< gammel.
+---
+> gammel
+> .
+12991c14652,14653
+< evnene,
+---
+> evnene
+> ,
+12996c14658,14659
+< problemer,
+---
+> problemer
+> ,
+12998c14661,14662
+< redusert.
+---
+> redusert
+> .
+13002c14666,14667
+< god.
+---
+> god
+> .
+13011c14676,14677
+< første.
+---
+> første
+> .
+13022c14688,14689
+< selv,
+---
+> selv
+> ,
+13025c14692,14693
+< hus.
+---
+> hus
+> .
+13033c14701,14702
+< kapasitet,
+---
+> kapasitet
+> ,
+13045c14714,14715
+< jobb,
+---
+> jobb
+> ,
+13047c14717,14718
+< pappa.
+---
+> pappa
+> .
+13051c14722,14723
+< lett,
+---
+> lett
+> ,
+13065c14737,14738
+< nå,
+---
+> nå
+> ,
+13067c14740,14741
+< Espen.
+---
+> Espen
+> .
+13077c14751,14752
+< lytter:
+---
+> lytter
+> :
+13081c14756,14757
+< again,
+---
+> again
+> ,
+13083c14759,14760
+< again,
+---
+> again
+> ,
+13092c14769,14770
+< ...»
+---
+> ...
+> »
+13108c14786,14787
+< på.
+---
+> på
+> .
+13112c14791,14792
+< hånden.
+---
+> hånden
+> .
+13122c14802,14803
+< Gump,
+---
+> Gump
+> ,
+13127c14808,14809
+< spiser,
+---
+> spiser
+> ,
+13129c14811,14812
+< Espen.
+---
+> Espen
+> .
+13139c14822,14823
+< pianokrakk,
+---
+> pianokrakk
+> ,
+13144c14828,14829
+< Breivik.
+---
+> Breivik
+> .
+13154c14839,14840
+< krakken.
+---
+> krakken
+> .
+13160c14846,14847
+< Espen,
+---
+> Espen
+> ,
+13173c14860,14861
+< være.
+---
+> være
+> .
+13185c14873,14874
+< her.
+---
+> her
+> .
+13190c14879,14880
+< ham,
+---
+> ham
+> ,
+13195c14885,14886
+< siden,
+---
+> siden
+> ,
+13199c14890,14891
+< rullestol,
+---
+> rullestol
+> ,
+13203c14895,14896
+< Winther.
+---
+> Winther
+> .
+13211c14904,14905
+< skolen,
+---
+> skolen
+> ,
+13217,13218c14911,14914
+< lærerne:
+< «Du
+---
+> lærerne
+> :
+> «
+> Du
+13226c14922,14923
+< møtt.
+---
+> møtt
+> .
+13240c14937,14938
+< annet,
+---
+> annet
+> ,
+13248c14946,14947
+< deg.
+---
+> deg
+> .
+13252c14951,14952
+< mye.
+---
+> mye
+> .
+13255c14955,14956
+< opp.
+---
+> opp
+> .
+13263c14964,14966
+< deg.»
+---
+> deg
+> .
+> »
+13268c14971,14972
+< dagen.
+---
+> dagen
+> .
+13277c14981,14982
+< hjelpemiddelsentralen,
+---
+> hjelpemiddelsentralen
+> ,
+13284,13285c14989,14992
+< sykkel.
+< "Det
+---
+> sykkel
+> .
+> "
+> Det
+13288c14995,14996
+< lett,
+---
+> lett
+> ,
+13294c15002,15004
+< Gump",
+---
+> Gump
+> "
+> ,
+13298c15008,15009
+< syklingen.
+---
+> syklingen
+> .
+13304c15015,15016
+< Universitetssykehus,
+---
+> Universitetssykehus
+> ,
+13316c15028,15029
+< ham.
+---
+> ham
+> .
+13319,13320c15032,15035
+< intensivavdelingen.
+< «Går
+---
+> intensivavdelingen
+> .
+> «
+> Går
+13324c15039,15040
+< krise?
+---
+> krise
+> ?
+13328c15044,15046
+< sykehusprestene»,
+---
+> sykehusprestene
+> »
+> ,
+13332c15050,15051
+< bordet.
+---
+> bordet
+> .
+13338c15057,15058
+< salmebok.
+---
+> salmebok
+> .
+13349c15069,15070
+< ventet.
+---
+> ventet
+> .
+13353c15074,15075
+< kvadratmeter.
+---
+> kvadratmeter
+> .
+13358c15080,15081
+< aluminiumsvask.
+---
+> aluminiumsvask
+> .
+13368c15091,15092
+< her.
+---
+> her
+> .
+13379c15103,15104
+< vasken,
+---
+> vasken
+> ,
+13384c15109,15110
+< overleve.
+---
+> overleve
+> .
+13387c15113,15114
+< tvangshandlinger,
+---
+> tvangshandlinger
+> ,
+13390c15117,15118
+< Tore.
+---
+> Tore
+> .
+13398c15126,15127
+< operasjon.
+---
+> operasjon
+> .
+13401c15130,15131
+< seg.
+---
+> seg
+> .
+13406c15136,15137
+< hans.
+---
+> hans
+> .
+13411c15142,15143
+< mitt,
+---
+> mitt
+> ,
+13413c15145,15146
+< han.
+---
+> han
+> .
+13424c15157,15158
+< min!
+---
+> min
+> !
+13433c15167,15168
+< min?
+---
+> min
+> ?
+13435c15170,15171
+< Espen.
+---
+> Espen
+> .
+13441c15177,15178
+< sommeren?
+---
+> sommeren
+> ?
+13445c15182,15183
+< USA,
+---
+> USA
+> ,
+13458c15196,15197
+< få.
+---
+> få
+> .
+13468c15207,15208
+< området,
+---
+> området
+> ,
+13471c15211,15212
+< ned,
+---
+> ned
+> ,
+13478c15219,15220
+< igjen.
+---
+> igjen
+> .
+13489c15231,15232
+< kvelden.
+---
+> kvelden
+> .
+13498c15241,15242
+< Askøy.
+---
+> Askøy
+> .
+13518c15262,15263
+< seg,
+---
+> seg
+> ,
+13524c15269,15270
+< opp.
+---
+> opp
+> .
+13533c15279,15280
+< deg.
+---
+> deg
+> .
+13544c15291,15292
+< sløyd,
+---
+> sløyd
+> ,
+13547c15295,15296
+< Helland.
+---
+> Helland
+> .
+13555c15304,15305
+< hadde,
+---
+> hadde
+> ,
+13569c15319,15320
+< etterpå.
+---
+> etterpå
+> .
+13572c15323,15324
+< pleietrengende,
+---
+> pleietrengende
+> ,
+13577c15329,15330
+< liv.
+---
+> liv
+> .
+13590c15343,15344
+< indikere.
+---
+> indikere
+> .
+13598c15352,15353
+< materiale.
+---
+> materiale
+> .
+13613c15368,15369
+< igjen,
+---
+> igjen
+> ,
+13615,13616c15371,15374
+< Helland.
+< Elise,
+---
+> Helland
+> .
+> Elise
+> ,
+13618c15376,15377
+< venninne,
+---
+> venninne
+> ,
+13620c15379,15380
+< ringt,
+---
+> ringt
+> ,
+13631c15391,15392
+< ulykken.
+---
+> ulykken
+> .
+13644c15405,15406
+< Rosenkrantz.
+---
+> Rosenkrantz
+> .
+13649c15411,15412
+< han,
+---
+> han
+> ,
+13652c15415,15416
+< Tore.
+---
+> Tore
+> .
+13657c15421,15422
+< meter,
+---
+> meter
+> ,
+13659c15424,15425
+< han.
+---
+> han
+> .
+13668c15434,15435
+< bakgården.
+---
+> bakgården
+> .
+13675c15442,15443
+< slutt.
+---
+> slutt
+> .
+13691c15459,15460
+< hendelsen.
+---
+> hendelsen
+> .
+13703c15472,15473
+< kvelden.
+---
+> kvelden
+> .
+13712c15482,15483
+< Askøy.
+---
+> Askøy
+> .
+13720c15491,15492
+< uvenn,
+---
+> uvenn
+> ,
+13722c15494,15495
+< Elise.
+---
+> Elise
+> .
+13726c15499,15500
+< vilter,
+---
+> vilter
+> ,
+13729c15503,15504
+< omsorgsfull.
+---
+> omsorgsfull
+> .
+13738c15513,15514
+< fly.
+---
+> fly
+> .
+13745c15521,15522
+< 40-årsdagen.
+---
+> 40-årsdagen
+> .
+13751c15528,15529
+< terrassen,
+---
+> terrassen
+> ,
+13753c15531,15532
+< de.
+---
+> de
+> .
+13758c15537,15538
+< henne.
+---
+> henne
+> .
+13772c15552,15553
+< iveren.
+---
+> iveren
+> .
+13785c15566,15567
+< kvelden,
+---
+> kvelden
+> ,
+13787c15569,15570
+< han.
+---
+> han
+> .
+13796c15579,15580
+< historie,
+---
+> historie
+> ,
+13813c15597,15598
+< mye.
+---
+> mye
+> .
+13822c15607,15608
+< ganger:
+---
+> ganger
+> :
+13825c15611,15612
+< spriten!
+---
+> spriten
+> !
+13831c15618,15619
+< helvete.
+---
+> helvete
+> .
+13838c15626,15627
+< BTMagasinet.
+---
+> BTMagasinet
+> .
+13849c15638,15639
+< historie?
+---
+> historie
+> ?
+13852c15642,15643
+< seg,
+---
+> seg
+> ,
+13857c15648,15649
+< tydelig:
+---
+> tydelig
+> :
+13869,13870c15661,15666
+< nok.
+< kilder/metode:
+---
+> nok
+> .
+> kilder
+> /
+> metode
+> :
+13874c15670,15671
+< politidistrikt,
+---
+> politidistrikt
+> ,
+13878c15675,15676
+< Dale,
+---
+> Dale
+> ,
+13886c15684,15685
+< selv,
+---
+> selv
+> ,
+13893c15692,15693
+< Rondestveit,
+---
+> Rondestveit
+> ,
+13899,13900c15699,15704
+< dagbok.
+< fakta/tall-kilder:
+---
+> dagbok
+> .
+> fakta
+> /
+> tall-kilder
+> :
+13902,13904c15706,15711
+< universitetssykehus,
+< Folkehelseinstituttet,
+< SIRUS,
+---
+> universitetssykehus
+> ,
+> Folkehelseinstituttet
+> ,
+> SIRUS
+> ,
+13906c15713,15714
+< Universitetssykehus,
+---
+> Universitetssykehus
+> ,
+13909c15717,15718
+< Oslo,
+---
+> Oslo
+> ,
+13919c15728,15730
+< (57)
+---
+> (
+> 57
+> )
+13927c15738,15739
+< kvinnefiendtlig?
+---
+> kvinnefiendtlig
+> ?
+13939c15751,15752
+< kollegaer?
+---
+> kollegaer
+> ?
+13952c15765,15766
+< sparken.
+---
+> sparken
+> .
+13961c15775,15776
+< retten,
+---
+> retten
+> ,
+13964c15779,15780
+< gang.
+---
+> gang
+> .
+13969c15785,15786
+< ditt.
+---
+> ditt
+> .
+13980c15797,15798
+< slå,
+---
+> slå
+> ,
+13985c15803,15804
+< erstatning,
+---
+> erstatning
+> ,
+13992c15811,15812
+< ruin.
+---
+> ruin
+> .
+14004c15824,15825
+< dommerbordet.
+---
+> dommerbordet
+> .
+14013c15834,15835
+< har,
+---
+> har
+> ,
+14020c15842,15843
+< inntrykk.
+---
+> inntrykk
+> .
+14028c15851,15852
+< jobben?
+---
+> jobben
+> ?
+14036c15860,15861
+< fremtid,
+---
+> fremtid
+> ,
+14042c15867,15868
+< virkeligheten?
+---
+> virkeligheten
+> ?
+14060c15886,15887
+< tinghuset?
+---
+> tinghuset
+> ?
+14064,14065c15891,15894
+< usannsynlig.
+< Eller?
+---
+> usannsynlig
+> .
+> Eller
+> ?
+14068c15897,15898
+< 1996:
+---
+> 1996
+> :
+14080c15910,15911
+< kvinne.
+---
+> kvinne
+> .
+14083c15914,15915
+< ektemann,
+---
+> ektemann
+> ,
+14091c15923,15924
+< tidligere,
+---
+> tidligere
+> ,
+14097c15930,15931
+< i.
+---
+> i
+> .
+14106c15940,15941
+< leiligheten,
+---
+> leiligheten
+> ,
+14113c15948,15949
+< telefonen.
+---
+> telefonen
+> .
+14124c15960,15961
+< barnet.
+---
+> barnet
+> .
+14135c15972,15973
+< nødssituasjon,
+---
+> nødssituasjon
+> ,
+14146c15984,15985
+< redegjørelse.
+---
+> redegjørelse
+> .
+14157c15996,15997
+< til.
+---
+> til
+> .
+14173c16013,16014
+< år,
+---
+> år
+> ,
+14184c16025,16026
+< ugjort.
+---
+> ugjort
+> .
+14195c16037,16038
+< «uklar
+---
+> «
+> uklar
+14200c16043,16045
+< sikkerhet».
+---
+> sikkerhet
+> »
+> .
+14206c16051,16052
+< leiligheten,
+---
+> leiligheten
+> ,
+14211c16057,16058
+< barnevognen.
+---
+> barnevognen
+> .
+14216c16063,16064
+< leting.
+---
+> leting
+> .
+14221,14222c16069,16072
+< ingen.
+< «Melder
+---
+> ingen
+> .
+> «
+> Melder
+14236c16086,16088
+< tinghus»,
+---
+> tinghus
+> »
+> ,
+14240c16092,16093
+< politirapporten.
+---
+> politirapporten
+> .
+14245c16098,16099
+< Bertelsen,
+---
+> Bertelsen
+> ,
+14249c16103,16104
+< tingrett.
+---
+> tingrett
+> .
+14255c16110,16111
+< timen,
+---
+> timen
+> ,
+14269,14270c16125,16128
+< grunnvollene.
+< Uskikket,
+---
+> grunnvollene
+> .
+> Uskikket
+> ,
+14273c16131,16132
+< misforstått?
+---
+> misforstått
+> ?
+14279c16138,16139
+< hendelsen,
+---
+> hendelsen
+> ,
+14286c16146,16147
+< barrikadesaken.
+---
+> barrikadesaken
+> .
+14290c16151,16152
+< rykter,
+---
+> rykter
+> ,
+14295c16157,16158
+< år.
+---
+> år
+> .
+14305c16168,16169
+< dette.
+---
+> dette
+> .
+14309c16173,16175
+< (57)
+---
+> (
+> 57
+> )
+14320c16186,16187
+< nesen,
+---
+> nesen
+> ,
+14330c16197,16198
+< ham.
+---
+> ham
+> .
+14340c16208,16209
+< fyldig.
+---
+> fyldig
+> .
+14354c16223,16224
+< godt.
+---
+> godt
+> .
+14361c16231,16232
+< vitner,
+---
+> vitner
+> ,
+14368c16239,16240
+< familiefordelingssaker.
+---
+> familiefordelingssaker
+> .
+14385c16257,16258
+< tingretten.
+---
+> tingretten
+> .
+14396c16269,16270
+< saken.
+---
+> saken
+> .
+14403c16277,16278
+< Tidende.
+---
+> Tidende
+> .
+14412c16287,16288
+< ham.
+---
+> ham
+> .
+14423c16299,16300
+< ham,
+---
+> ham
+> ,
+14430c16307,16308
+< personvernet.
+---
+> personvernet
+> .
+14441c16319,16320
+< år,
+---
+> år
+> ,
+14455c16334,16335
+< fungere,
+---
+> fungere
+> ,
+14457,14458c16337,16340
+< han.
+< Suspendert.
+---
+> han
+> .
+> Suspendert
+> .
+14472c16354,16355
+< borgere.
+---
+> borgere
+> .
+14476c16359,16360
+< sparken,
+---
+> sparken
+> ,
+14488c16372,16373
+< jobben.
+---
+> jobben
+> .
+14500c16385,16386
+< veggen.
+---
+> veggen
+> .
+14513c16399,16401
+< (DA)
+---
+> (
+> DA
+> )
+14529c16417,16418
+< jobben.
+---
+> jobben
+> .
+14539c16428,16429
+< tilsynsutvalget,
+---
+> tilsynsutvalget
+> ,
+14549c16439,16440
+< vending.
+---
+> vending
+> .
+14555c16446,16447
+< sin,
+---
+> sin
+> ,
+14565c16457,16458
+< rettssak.
+---
+> rettssak
+> .
+14572c16465,16466
+< frivillig,
+---
+> frivillig
+> ,
+14582c16476,16477
+< ham.
+---
+> ham
+> .
+14591,14592c16486,16489
+< årrekke:
+< «Tor
+---
+> årrekke
+> :
+> «
+> Tor
+14600c16497,16498
+< virkelighetsoppfatning,
+---
+> virkelighetsoppfatning
+> ,
+14602c16500,16501
+< vurderingsevne,
+---
+> vurderingsevne
+> ,
+14608c16507,16508
+< jobbutførelsen.
+---
+> jobbutførelsen
+> .
+14623c16523,16524
+< avgjørelser,
+---
+> avgjørelser
+> ,
+14630c16531,16532
+< lagmannsretten.
+---
+> lagmannsretten
+> .
+14639,14640c16541,16545
+< fastlåste/rigide
+< holdninger,
+---
+> fastlåste
+> /
+> rigide
+> holdninger
+> ,
+14644c16549,16550
+< kvinner,
+---
+> kvinner
+> ,
+14651c16557,16558
+< retten,
+---
+> retten
+> ,
+14656c16563,16564
+< avgjørelser.
+---
+> avgjørelser
+> .
+14673c16581,16583
+< sakene»,
+---
+> sakene
+> »
+> ,
+14681c16591,16592
+< DA.
+---
+> DA
+> .
+14687c16598,16599
+< her.
+---
+> her
+> .
+14698c16610,16611
+< bergenserne?
+---
+> bergenserne
+> ?
+14711c16624,16625
+< mener?
+---
+> mener
+> ?
+14715c16629,16630
+< pappa?
+---
+> pappa
+> ?
+14719c16634,16635
+< bo?
+---
+> bo
+> ?
+14731c16647,16648
+< mellomrom,
+---
+> mellomrom
+> ,
+14735c16652,16653
+< Bertelsen.
+---
+> Bertelsen
+> .
+14745c16663,16664
+< samlivsbrudd.
+---
+> samlivsbrudd
+> .
+14748c16667,16668
+< kombinasjon,
+---
+> kombinasjon
+> ,
+14750c16670,16671
+< mange.
+---
+> mange
+> .
+14759c16680,16681
+< barneloven.
+---
+> barneloven
+> .
+14766c16688,16689
+< erfaringer?
+---
+> erfaringer
+> ?
+14779c16702,16703
+< 1996.
+---
+> 1996
+> .
+14788c16712,16713
+< saker.
+---
+> saker
+> .
+14802c16727,16728
+< resultat,
+---
+> resultat
+> ,
+14806c16732,16733
+< avisen.
+---
+> avisen
+> .
+14825c16752,16753
+< far,
+---
+> far
+> ,
+14835c16763,16764
+< barnefordelingssaker.
+---
+> barnefordelingssaker
+> .
+14840c16769,16770
+< opp,
+---
+> opp
+> ,
+14851c16781,16782
+< måten,
+---
+> måten
+> ,
+14863c16794,16795
+< uttalelsene.
+---
+> uttalelsene
+> .
+14881c16813,16814
+< offentlig.
+---
+> offentlig
+> .
+14885c16818,16819
+< nøden.
+---
+> nøden
+> .
+14899c16833,16834
+< saker.
+---
+> saker
+> .
+14905c16840,16841
+< samværssaker.
+---
+> samværssaker
+> .
+14915c16851,16852
+< problemer.
+---
+> problemer
+> .
+14930c16867,16868
+< incest,
+---
+> incest
+> ,
+14938c16876,16877
+< straffbart.
+---
+> straffbart
+> .
+14951c16890,16891
+< besøk,
+---
+> besøk
+> ,
+14959c16899,16900
+< saken.
+---
+> saken
+> .
+14973c16914,16915
+< faren,
+---
+> faren
+> ,
+14979c16921,16922
+< hjelpe.
+---
+> hjelpe
+> .
+14985c16928,16929
+< sakspapirene:
+---
+> sakspapirene
+> :
+14993c16937,16938
+< mor,
+---
+> mor
+> ,
+15005c16950,16951
+< behandlet.
+---
+> behandlet
+> .
+15009c16955,16956
+< hjelpeverge,
+---
+> hjelpeverge
+> ,
+15012c16959,16960
+< Mæland.
+---
+> Mæland
+> .
+15016,15017c16964,16967
+< kraftig.
+< «Han
+---
+> kraftig
+> .
+> «
+> Han
+15021c16971,16972
+< byrettsdommer,
+---
+> byrettsdommer
+> ,
+15028c16979,16980
+< privatperson.
+---
+> privatperson
+> .
+15034,15035c16986,16989
+< klient,
+< barnet,
+---
+> klient
+> ,
+> barnet
+> ,
+15040c16994,16995
+< faren.
+---
+> faren
+> .
+15055c17010,17012
+< meg»,
+---
+> meg
+> »
+> ,
+15062c17019,17020
+< gang.
+---
+> gang
+> .
+15067c17025,17026
+< byrådsleder,
+---
+> byrådsleder
+> ,
+15072c17031,17032
+< Bertelsen.
+---
+> Bertelsen
+> .
+15076c17036,17037
+< spesiell,
+---
+> spesiell
+> ,
+15086c17047,17048
+< tiden.
+---
+> tiden
+> .
+15093c17055,17056
+< utidig.
+---
+> utidig
+> .
+15109c17072,17073
+< Bertelsen.
+---
+> Bertelsen
+> .
+15116c17080,17081
+< heltid,
+---
+> heltid
+> ,
+15122c17087,17088
+< mediene.
+---
+> mediene
+> .
+15136c17102,17103
+< uavhengige,
+---
+> uavhengige
+> ,
+15142c17109,17110
+< evne.
+---
+> evne
+> .
+15149c17117,17118
+< tillit.
+---
+> tillit
+> .
+15156c17125,17126
+< fått,
+---
+> fått
+> ,
+15166c17136,17137
+< tilliten,
+---
+> tilliten
+> ,
+15169c17140,17141
+< Mæland.
+---
+> Mæland
+> .
+15183c17155,17156
+< saken,
+---
+> saken
+> ,
+15188c17161,17162
+< dommer.
+---
+> dommer
+> .
+15190c17164,17165
+< imot.
+---
+> imot
+> .
+15195c17170,17171
+< uforsvarlig,
+---
+> uforsvarlig
+> ,
+15210c17186,17187
+< grundig.
+---
+> grundig
+> .
+15217c17194,17195
+< plikt.
+---
+> plikt
+> .
+15239c17217,17218
+< grunnlag.
+---
+> grunnlag
+> .
+15255c17234,17235
+< samfunnsengasjement,
+---
+> samfunnsengasjement
+> ,
+15257c17237,17238
+< han.
+---
+> han
+> .
+15267c17248,17249
+< fraværende.
+---
+> fraværende
+> .
+15285c17267,17268
+< involvert.
+---
+> involvert
+> .
+15297c17280,17281
+< barnevernssak,
+---
+> barnevernssak
+> ,
+15307c17291,17292
+< tillit.
+---
+> tillit
+> .
+15310c17295,17296
+< anmodningen.
+---
+> anmodningen
+> .
+15313c17299,17300
+< opplevelse.
+---
+> opplevelse
+> .
+15327c17314,17315
+< bekjente.
+---
+> bekjente
+> .
+15334,15335c17322,17325
+< 1997.
+< «Jeg
+---
+> 1997
+> .
+> «
+> Jeg
+15347c17337,17338
+< huset,
+---
+> huset
+> ,
+15354c17345,17346
+< barn.
+---
+> barn
+> .
+15359c17351,17352
+< seg,
+---
+> seg
+> ,
+15368c17361,17362
+< var.
+---
+> var
+> .
+15382c17376,17378
+< mor.»
+---
+> mor
+> .
+> »
+15396c17392,17393
+< tingretten.
+---
+> tingretten
+> .
+15400c17397,17398
+< Bertelsen,
+---
+> Bertelsen
+> ,
+15413c17411,17412
+< hennes.
+---
+> hennes
+> .
+15426c17425,17426
+< seg.
+---
+> seg
+> .
+15434c17434,17435
+< traumatisk,
+---
+> traumatisk
+> ,
+15445c17446,17447
+< etterpå.
+---
+> etterpå
+> .
+15454c17456,17457
+< landet.
+---
+> landet
+> .
+15462c17465,17466
+< mening.
+---
+> mening
+> .
+15467c17471,17472
+< venn,
+---
+> venn
+> ,
+15479c17484,17485
+< ekteskapet.
+---
+> ekteskapet
+> .
+15484c17490,17491
+< hans,
+---
+> hans
+> ,
+15491c17498,17499
+< barna.
+---
+> barna
+> .
+15504c17512,17513
+< samværskonflikt.
+---
+> samværskonflikt
+> .
+15520c17529,17530
+< ham,
+---
+> ham
+> ,
+15522c17532,17533
+< Bertelsen.
+---
+> Bertelsen
+> .
+15529c17540,17541
+< skjer.
+---
+> skjer
+> .
+15542,15543c17554,17557
+< barnefordelingssaken.
+< «Jeg
+---
+> barnefordelingssaken
+> .
+> «
+> Jeg
+15554c17568,17569
+< bøker.
+---
+> bøker
+> .
+15558c17573,17574
+< homofile,
+---
+> homofile
+> ,
+15560c17576,17577
+< man.
+---
+> man
+> .
+15573c17590,17591
+< akseptert.
+---
+> akseptert
+> .
+15578c17596,17597
+< "Jeg
+---
+> "
+> Jeg
+15580c17599,17601
+< homofil",
+---
+> homofil
+> "
+> ,
+15586c17607,17608
+< forferdelig.
+---
+> forferdelig
+> .
+15589c17611,17613
+< latterlig».
+---
+> latterlig
+> »
+> .
+15596,15597c17620,17623
+< James:
+< «Om
+---
+> James
+> :
+> «
+> Om
+15602c17628,17629
+< homofile,
+---
+> homofile
+> ,
+15609c17636,17637
+< League-spillerne?
+---
+> League-spillerne
+> ?
+15617c17645,17646
+< oss,
+---
+> oss
+> ,
+15622c17651,17652
+< hvisking,
+---
+> hvisking
+> ,
+15627c17657,17658
+< mediesladder.
+---
+> mediesladder
+> .
+15646c17677,17680
+< (...).
+---
+> (
+> ...
+> )
+> .
+15660c17694,17695
+< homofile.
+---
+> homofile
+> .
+15666c17701,17702
+< dem.
+---
+> dem
+> .
+15676c17712,17714
+< gata.»
+---
+> gata
+> .
+> »
+15682c17720,17721
+< 2005,
+---
+> 2005
+> ,
+15691c17730,17731
+< ukentlig.
+---
+> ukentlig
+> .
+15706c17746,17747
+< League,
+---
+> League
+> ,
+15711c17752,17753
+< svare.
+---
+> svare
+> .
+15719c17761,17762
+< nervøse,
+---
+> nervøse
+> ,
+15721c17764,17765
+< Tatchell.
+---
+> Tatchell
+> .
+15730c17774,17775
+< England.
+---
+> England
+> .
+15740c17785,17786
+< befolkningen,
+---
+> befolkningen
+> ,
+15752c17798,17799
+< bifile.
+---
+> bifile
+> .
+15757c17804,17805
+< selv?
+---
+> selv
+> ?
+15775c17823,17824
+< bifile.
+---
+> bifile
+> .
+15785,15786c17834,17837
+< homofile,
+< ja.
+---
+> homofile
+> ,
+> ja
+> .
+15788c17839,17840
+< par.
+---
+> par
+> .
+15793c17845,17846
+< benektet,
+---
+> benektet
+> ,
+15797c17850,17851
+< "jeg
+---
+> "
+> jeg
+15803c17857,17858
+< jenter"
+---
+> jenter
+> "
+15805c17860,17861
+< "det
+---
+> "
+> det
+15811c17867,17869
+< tunnelen".
+---
+> tunnelen
+> "
+> .
+15821c17879,17880
+< manageren.
+---
+> manageren
+> .
+15831c17890,17891
+< avgjørelsen.
+---
+> avgjørelsen
+> .
+15834c17894,17895
+< bare:
+---
+> bare
+> :
+15840c17901,17902
+< martyrer.
+---
+> martyrer
+> .
+15861c17923,17924
+< skapet.
+---
+> skapet
+> .
+15868c17931,17932
+< London-natta.
+---
+> London-natta
+> .
+15874c17938,17939
+< ting.
+---
+> ting
+> .
+15882c17947,17948
+< mor,
+---
+> mor
+> ,
+15885c17951,17952
+< han.
+---
+> han
+> .
+15890,15891c17957,17960
+< meg:
+< «Mamma
+---
+> meg
+> :
+> «
+> Mamma
+15893c17962,17963
+< deg.
+---
+> deg
+> .
+15898c17968,17970
+< deg.»
+---
+> deg
+> .
+> »
+15909c17981,17982
+< par.
+---
+> par
+> .
+15915c17988,17989
+< videre.
+---
+> videre
+> .
+15918c17992,17993
+< peace»
+---
+> peace
+> »
+15925c18000,18001
+< minneside.
+---
+> minneside
+> .
+15936c18012,18013
+< scoringer,
+---
+> scoringer
+> ,
+15947c18024,18025
+< hjørnet.
+---
+> hjørnet
+> .
+15954c18032,18033
+< der,
+---
+> der
+> ,
+15971c18050,18051
+< liv.
+---
+> liv
+> .
+15979c18059,18060
+< arena,
+---
+> arena
+> ,
+15983c18064,18065
+< kor,
+---
+> kor
+> ,
+15991c18073,18074
+< ubarmhjertige,
+---
+> ubarmhjertige
+> ,
+15993c18076,18077
+< fotballen.
+---
+> fotballen
+> .
+15995c18079,18080
+< synger:
+---
+> synger
+> :
+16000,16001c18085,18088
+< velge?
+< «Rock
+---
+> velge
+> ?
+> «
+> Rock
+16003c18090,18091
+< 2»
+---
+> 2
+> »
+16005,16006c18093,18096
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+16008,16009c18098,18102
+< Tour»?
+< Oppfølger:
+---
+> Tour
+> »
+> ?
+> Oppfølger
+> :
+16011c18104,18105
+< «Rock
+---
+> «
+> Rock
+16013c18107,18108
+< 2»
+---
+> 2
+> »
+16020,16021c18115,18118
+< låter.
+< Trommer:
+---
+> låter
+> .
+> Trommer
+> :
+16026c18123,18124
+< «Rock
+---
+> «
+> Rock
+16028,16029c18126,18130
+< 2».
+< Trommer:
+---
+> 2
+> »
+> .
+> Trommer
+> :
+16034,16035c18135,18138
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+16037c18140,18142
+< Tour».
+---
+> Tour
+> »
+> .
+16050c18155,18156
+< Collins,
+---
+> Collins
+> ,
+16057c18163,18164
+< spillsammenheng.
+---
+> spillsammenheng
+> .
+16062,16063c18169,18172
+< «Rock
+< Band»
+---
+> «
+> Rock
+> Band
+> »
+16083c18192,18193
+< spilluniverset.
+---
+> spilluniverset
+> .
+16091c18201,18202
+< opp,
+---
+> opp
+> ,
+16094c18205,18206
+< «Rock
+---
+> «
+> Rock
+16096c18208,18209
+< 2»
+---
+> 2
+> »
+16098,16099c18211,18214
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+16101c18216,18217
+< Tour»
+---
+> Tour
+> »
+16109c18225,18226
+< trommesett,
+---
+> trommesett
+> ,
+16112c18229,18230
+< mikrofoner.
+---
+> mikrofoner
+> .
+16150c18268,18269
+< jula?
+---
+> jula
+> ?
+16160,16161c18279,18282
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+16163c18284,18285
+< Tour»
+---
+> Tour
+> »
+16165c18287,18288
+< «Rock
+---
+> «
+> Rock
+16167c18290,18291
+< 2»
+---
+> 2
+> »
+16182c18306,18307
+< inntrykk:
+---
+> inntrykk
+> :
+16191c18316,18318
+< «Gjærbägst»
+---
+> «
+> Gjærbägst
+> »
+16196c18323,18324
+< mann.
+---
+> mann
+> .
+16208,16209c18336,18339
+< «Guitar
+< Hero»
+---
+> «
+> Guitar
+> Hero
+> »
+16222c18352,18353
+< plastinstrumenter.
+---
+> plastinstrumenter
+> .
+16226c18357,18358
+< «Rock
+---
+> «
+> Rock
+16228c18360,18361
+< 2»
+---
+> 2
+> »
+16230,16231c18363,18366
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+16233c18368,18369
+< Tour»
+---
+> Tour
+> »
+16241,16242c18377,18380
+< gitar,
+< trommer,
+---
+> gitar
+> ,
+> trommer
+> ,
+16267c18405,18406
+< hørt.
+---
+> hørt
+> .
+16271c18410,18411
+< «Gjærbägst
+---
+> «
+> Gjærbägst
+16275c18415,18417
+< Sirupsnipps»-konsept
+---
+> Sirupsnipps
+> »
+> -konsept
+16297c18439,18440
+< 11.
+---
+> 11
+> .
+16302c18445,18446
+< først:
+---
+> først
+> :
+16307c18451,18453
+< «GH:WT»
+---
+> «
+> GH:WT
+> »
+16318,16320c18464,18469
+< «Guitar
+< Hero»
+< spillene.
+---
+> «
+> Guitar
+> Hero
+> »
+> spillene
+> .
+16346c18495,18496
+< synthovergang.
+---
+> synthovergang
+> .
+16356c18506,18507
+< power.
+---
+> power
+> .
+16363,16364c18514,18518
+< «Rock
+< Band»,
+---
+> «
+> Rock
+> Band
+> »
+> ,
+16375c18529,18530
+< «Rock
+---
+> «
+> Rock
+16377c18532,18533
+< 2»
+---
+> 2
+> »
+16380c18536,18537
+< omvendt.
+---
+> omvendt
+> .
+16386c18543,18544
+< identiske,
+---
+> identiske
+> ,
+16395c18553,18554
+< gitarsolo-freaks.
+---
+> gitarsolo-freaks
+> .
+16406c18565,18566
+< basspedal,
+---
+> basspedal
+> ,
+16411c18571,18572
+< forbedringer:
+---
+> forbedringer
+> :
+16431c18592,18593
+< slagene,
+---
+> slagene
+> ,
+16436c18598,18599
+< solid.
+---
+> solid
+> .
+16441c18604,18605
+< trådløse,
+---
+> trådløse
+> ,
+16447c18611,18612
+< lettelse.
+---
+> lettelse
+> .
+16453,16454c18618,18622
+< «Guitar
+< Hero»-trommene
+---
+> «
+> Guitar
+> Hero
+> »
+> -trommene
+16459c18627,18628
+< stjernen.
+---
+> stjernen
+> .
+16461c18630,18631
+< trommer,
+---
+> trommer
+> ,
+16464c18634,18635
+< (også
+---
+> (
+> også
+16466c18637,18638
+< plast)
+---
+> plast
+> )
+16472c18644,18645
+< uimotståelige,
+---
+> uimotståelige
+> ,
+16474c18647,18648
+< riggen.
+---
+> riggen
+> .
+16500c18674,18675
+< henda.
+---
+> henda
+> .
+16506c18681,18682
+< bruke,
+---
+> bruke
+> ,
+16516c18692,18693
+< elementet,
+---
+> elementet
+> ,
+16519,16520c18696,18699
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+16522c18701,18702
+< Tour»
+---
+> Tour
+> »
+16526c18706,18707
+< seieren.
+---
+> seieren
+> .
+16537c18718,18719
+< bassgitarspillingen.
+---
+> bassgitarspillingen
+> .
+16562c18744,18747
+< «Singstar»-fantaster
+---
+> «
+> Singstar
+> »
+> -fantaster
+16564c18749,18750
+< Primus-fans.
+---
+> Primus-fans
+> .
+16583c18769,18770
+< gitaren,
+---
+> gitaren
+> ,
+16593c18780,18781
+< fremtid.
+---
+> fremtid
+> .
+16599,16600c18787,18790
+< låtutvalget,
+< da.
+---
+> låtutvalget
+> ,
+> da
+> .
+16605,16606c18795,18798
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+16608c18800,18801
+< Tour»
+---
+> Tour
+> »
+16612c18805,18806
+< greier.
+---
+> greier
+> .
+16617c18811,18812
+< musikkanmeldere,
+---
+> musikkanmeldere
+> ,
+16630c18825,18826
+< dette.
+---
+> dette
+> .
+16634,16635c18830,18834
+< «Guitar
+< Hero»-spillet
+---
+> «
+> Guitar
+> Hero
+> »
+> -spillet
+16641c18840,18841
+< kjærlighet,
+---
+> kjærlighet
+> ,
+16650c18850,18851
+< plastgitaren.
+---
+> plastgitaren
+> .
+16656c18857,18859
+< «GH:WT»
+---
+> «
+> GH:WT
+> »
+16672c18875,18876
+< instrumentene,
+---
+> instrumentene
+> ,
+16685c18889,18890
+< utvelgelsesprosessen.
+---
+> utvelgelsesprosessen
+> .
+16689c18894,18895
+< «On
+---
+> «
+> On
+16692c18898,18900
+< again»?
+---
+> again
+> »
+> ?
+16694c18902,18903
+< kødder.
+---
+> kødder
+> .
+16703,16704c18912,18915
+< inntørka,
+< støvete,
+---
+> inntørka
+> ,
+> støvete
+> ,
+16715,16716c18926,18930
+< «Guitar
+< Hero»-spill
+---
+> «
+> Guitar
+> Hero
+> »
+> -spill
+16719c18933,18934
+< (akkurat
+---
+> (
+> akkurat
+16730c18945,18946
+< våre,
+---
+> våre
+> ,
+16732c18948,18950
+< anm.).
+---
+> anm.
+> )
+> .
+16739,16740c18957,18960
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+16742c18962,18963
+< Tour»
+---
+> Tour
+> »
+16751c18972,18973
+< hadde.
+---
+> hadde
+> .
+16763c18985,18986
+< spillet,
+---
+> spillet
+> ,
+16773c18996,18997
+< øyet,
+---
+> øyet
+> ,
+16782c19006,19007
+< spille.
+---
+> spille
+> .
+16794c19019,19020
+< innslag,
+---
+> innslag
+> ,
+16800,16802c19026,19031
+< alvor.
+< Beklager,
+< country-fans:
+---
+> alvor
+> .
+> Beklager
+> ,
+> country-fans
+> :
+16810c19039,19040
+< på,
+---
+> på
+> ,
+16819c19049,19050
+< hans.
+---
+> hans
+> .
+16824c19055,19056
+< «Blue
+---
+> «
+> Blue
+16829c19061,19062
+< Rain»
+---
+> Rain
+> »
+16832c19065,19066
+< «Rock
+---
+> «
+> Rock
+16834c19068,19069
+< 2»
+---
+> 2
+> »
+16840c19075,19076
+< annen.
+---
+> annen
+> .
+16861c19097,19098
+< tidligere.
+---
+> tidligere
+> .
+16880c19117,19118
+< musikksmak,
+---
+> musikksmak
+> ,
+16885c19123,19124
+< utvalget.
+---
+> utvalget
+> .
+16894,16895c19133,19137
+< «GH:WT»
+< også,
+---
+> «
+> GH:WT
+> »
+> også
+> ,
+16898c19140,19141
+< del,
+---
+> del
+> ,
+16914c19157,19158
+< «Rock
+---
+> «
+> Rock
+16916c19160,19162
+< 2».
+---
+> 2
+> »
+> .
+16923c19169,19170
+< «Rock
+---
+> «
+> Rock
+16925c19172,19173
+< 1»
+---
+> 1
+> »
+16928c19176,19177
+< spilles,
+---
+> spilles
+> ,
+16943c19192,19193
+< nå,
+---
+> nå
+> ,
+16953,16954c19203,19207
+< «GH:WT»
+< låtmessig.
+---
+> «
+> GH:WT
+> »
+> låtmessig
+> .
+16965c19218,19219
+< instrument,
+---
+> instrument
+> ,
+16971c19225,19226
+< «Rock
+---
+> «
+> Rock
+16973c19228,19229
+< 2»
+---
+> 2
+> »
+16981c19237,19239
+< «reddes»
+---
+> «
+> reddes
+> »
+16985c19243,19244
+< spillerne,
+---
+> spillerne
+> ,
+17006c19265,19266
+< bandet.
+---
+> bandet
+> .
+17011c19271,19273
+< «GH:WT»
+---
+> «
+> GH:WT
+> »
+17019c19281,19282
+< samarbeidsfølelsen.
+---
+> samarbeidsfølelsen
+> .
+17025c19288,19290
+< «GH:WT»
+---
+> «
+> GH:WT
+> »
+17054c19319,19320
+< instrumenter.
+---
+> instrumenter
+> .
+17068c19334,19335
+< låter.
+---
+> låter
+> .
+17073c19340,19341
+< midi-låter,
+---
+> midi-låter
+> ,
+17104c19372,19373
+< barn.
+---
+> barn
+> .
+17115c19384,19385
+< «Rock
+---
+> «
+> Rock
+17117c19387,19389
+< 2»,
+---
+> 2
+> »
+> ,
+17130c19402,19403
+< to.
+---
+> to
+> .
+17137,17138c19410,19413
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+17140c19415,19416
+< Tour»
+---
+> Tour
+> »
+17146c19422,19423
+< konkurrenten,
+---
+> konkurrenten
+> ,
+17152c19429,19430
+< låtmessig.
+---
+> låtmessig
+> .
+17160c19438,19439
+< hvassere,
+---
+> hvassere
+> ,
+17169c19448,19449
+< låter,
+---
+> låter
+> ,
+17185,17186c19465,19468
+< «Absolute
+< Music»
+---
+> «
+> Absolute
+> Music
+> »
+17188,17189c19470,19474
+< «Guitar
+< Hero».
+---
+> «
+> Guitar
+> Hero
+> »
+> .
+17192c19477,19478
+< «Rock
+---
+> «
+> Rock
+17194c19480,19481
+< 2»
+---
+> 2
+> »
+17197c19484,19485
+< jobb,
+---
+> jobb
+> ,
+17205c19493,19494
+< terningen.
+---
+> terningen
+> .
+17236c19525,19526
+< moro.
+---
+> moro
+> .
+17247c19537,19538
+< låt,
+---
+> låt
+> ,
+17252c19543,19544
+< løst.
+---
+> løst
+> .
+17263c19555,19556
+< opplevelsen,
+---
+> opplevelsen
+> ,
+17272c19565,19566
+< imellom.
+---
+> imellom
+> .
+17281c19575,19576
+< «Rock
+---
+> «
+> Rock
+17283c19578,19579
+< 2»
+---
+> 2
+> »
+17287,17288c19583,19586
+< «Guitar
+< Hero:
+---
+> «
+> Guitar
+> Hero
+> :
+17290c19588,19589
+< Tour»
+---
+> Tour
+> »
+17293c19592,19593
+< 360,
+---
+> 360
+> ,
+17303c19603,19604
+< verdener.
+---
+> verdener
+> .
+17315c19616,19617
+< utforseieren.
+---
+> utforseieren
+> .
+17347c19649,19650
+< «Birds
+---
+> «
+> Birds
+17349,17350c19652,19655
+< prey»
+< fredag.
+---
+> prey
+> »
+> fredag
+> .
+17361c19666,19667
+< blaff,
+---
+> blaff
+> ,
+17374c19680,19681
+< utklassingsstil.
+---
+> utklassingsstil
+> .
+17387c19694,19695
+< 1999,
+---
+> 1999
+> ,
+17396c19704,19705
+< ideell.
+---
+> ideell
+> .
+17413c19722,19723
+< utforseieren.
+---
+> utforseieren
+> .
+17420c19730,19731
+< med.
+---
+> med
+> .
+17431c19742,19743
+< sove.
+---
+> sove
+> .
+17442c19754,19755
+< tatt.
+---
+> tatt
+> .
+17453c19766,19767
+< natten,
+---
+> natten
+> ,
+17457c19771,19772
+< Dagbladet.no.
+---
+> Dagbladet.no
+> .
+17472c19787,19788
+< ut.
+---
+> ut
+> .
+17494,17496c19810,19815
+< ned.
+< «The
+< Herminator»
+---
+> ned
+> .
+> «
+> The
+> Herminator
+> »
+17505c19824,19825
+< mål.
+---
+> mål
+> .
+17512c19832,19833
+< løypa,
+---
+> løypa
+> ,
+17523c19844,19845
+< ut.
+---
+> ut
+> .
+17537c19859,19860
+< løp.
+---
+> løp
+> .
+17555c19878,19879
+< mål,
+---
+> mål
+> ,
+17576c19900,19901
+< god.
+---
+> god
+> .
+17584c19909,19910
+< nedover,
+---
+> nedover
+> ,
+17586c19912,19913
+< Svindal.
+---
+> Svindal
+> .
+17589c19916,19917
+< rad?
+---
+> rad
+> ?
+17597c19925,19926
+< 2007,
+---
+> 2007
+> ,
+17611c19940,19941
+< seire.
+---
+> seire
+> .
+17617c19947,19948
+< rad,
+---
+> rad
+> ,
+17624c19955,19956
+< morgen,
+---
+> morgen
+> ,
+17636c19968,19969
+< Colorado.
+---
+> Colorado
+> .
+17649c19982,19983
+< morgen.
+---
+> morgen
+> .
+17661c19995,19996
+< ut.
+---
+> ut
+> .
+17665c20000,20001
+< prøve,
+---
+> prøve
+> ,
+17668c20004,20005
+< Dagbladet.no.
+---
+> Dagbladet.no
+> .
+17673c20010,20011
+< seier,
+---
+> seier
+> ,
+17690c20028,20029
+< verdenscupsirkuset.
+---
+> verdenscupsirkuset
+> .
+17705c20044,20045
+< Svindal.
+---
+> Svindal
+> .
+17719c20059,20060
+< verdenscupen,
+---
+> verdenscupen
+> ,
+17729c20070,20071
+< fredag,
+---
+> fredag
+> ,
+17732c20074,20075
+< ekstremt,
+---
+> ekstremt
+> ,
+17753c20096,20097
+< sønnen,
+---
+> sønnen
+> ,
+17768c20112,20113
+< Creek.
+---
+> Creek
+> .
+17775c20120,20121
+< Lenzerheide.
+---
+> Lenzerheide
+> .
+17779c20125,20126
+< ikke,
+---
+> ikke
+> ,
+17791c20138,20139
+< (mot
+---
+> (
+> mot
+17794c20142,20144
+< journ.anm.)
+---
+> journ.
+> anm.
+> )
+17798c20148,20149
+< Kvitfjell.
+---
+> Kvitfjell
+> .
+17808c20159,20160
+< her,
+---
+> her
+> ,
+17824c20176,20177
+< seierspallen.
+---
+> seierspallen
+> .
+17829c20182,20183
+< seierspallen:
+---
+> seierspallen
+> :
+17832c20186,20187
+< (Hermann
+---
+> (
+> Hermann
+17837c20192,20194
+< journ.anm.)
+---
+> journ.
+> anm.
+> )
+17842c20199,20200
+< dem.
+---
+> dem
+> .
+17848c20206,20207
+< dette,
+---
+> dette
+> ,
+17851c20210,20211
+< Svindal.
+---
+> Svindal
+> .
+17865c20225,20226
+< året,
+---
+> året
+> ,
+17886c20247,20248
+< jul.
+---
+> jul
+> .
+17900c20262,20263
+< februar.
+---
+> februar
+> .
+17907c20270,20271
+< stein,
+---
+> stein
+> ,
+17911c20275,20276
+< Aksel.
+---
+> Aksel
+> .
+17926c20291,20292
+< nok,
+---
+> nok
+> ,
+17929,17930c20295,20298
+< Svindal.
+< PS!
+---
+> Svindal
+> .
+> PS
+> !
+17939c20307,20308
+< 19.plass
+---
+> 19.
+> plass
+17942c20311,20312
+< startnummer.
+---
+> startnummer
+> .
+17948c20318,20319
+< fredag,
+---
+> fredag
+> ,
+17963c20334,20337
+< 32.plass.Verdens
+---
+> 32.
+> plass
+> .
+> Verdens
+17966c20340,20341
+< «Football
+---
+> «
+> Football
+17968c20343,20344
+< 2009»
+---
+> 2009
+> »
+17972c20348,20349
+< «Football
+---
+> «
+> Football
+17974c20351,20352
+< 2009»
+---
+> 2009
+> »
+17980c20358,20359
+< fritidsknuser.
+---
+> fritidsknuser
+> .
+17988,17989c20367,20370
+< «Football
+< Manager»
+---
+> «
+> Football
+> Manager
+> »
+17993c20374,20375
+< slapp,
+---
+> slapp
+> ,
+17998c20380,20381
+< mer.
+---
+> mer
+> .
+18005,18006c20388,20391
+< «FM
+< 2008»
+---
+> «
+> FM
+> 2008
+> »
+18010c20395,20396
+< «What
+---
+> «
+> What
+18012c20398,20400
+< Humans?»
+---
+> Humans
+> ?
+> »
+18019c20407,20408
+< lagre.
+---
+> lagre
+> .
+18024c20413,20414
+< dager,
+---
+> dager
+> ,
+18038c20428,20429
+< verden.
+---
+> verden
+> .
+18053c20444,20445
+< året.
+---
+> året
+> .
+18067c20459,20460
+< spill,
+---
+> spill
+> ,
+18071c20464,20465
+< jobb.
+---
+> jobb
+> .
+18081,18082c20475,20478
+< «Football
+< Manager»
+---
+> «
+> Football
+> Manager
+> »
+18084c20480,20481
+< verden,
+---
+> verden
+> ,
+18094c20491,20492
+< år.
+---
+> år
+> .
+18104c20502,20503
+< år,
+---
+> år
+> ,
+18118,18119c20517,20520
+< «Championship
+< Manager»
+---
+> «
+> Championship
+> Manager
+> »
+18121,18122c20522,20526
+< «Football
+< Manager».
+---
+> «
+> Football
+> Manager
+> »
+> .
+18130,18131c20534,20538
+< «Championship
+< Manager»,
+---
+> «
+> Championship
+> Manager
+> »
+> ,
+18141c20548,20549
+< spillserie.
+---
+> spillserie
+> .
+18153,18155c20561,20570
+< «Football
+< Manager»
+< («FM»),
+---
+> «
+> Football
+> Manager
+> »
+> (
+> «
+> FM
+> »
+> )
+> ,
+18162c20577,20578
+< 3D-kampmotor.
+---
+> 3D-kampmotor
+> .
+18173c20589,20590
+< detalj.
+---
+> detalj
+> .
+18183c20600,20601
+< nyhet,
+---
+> nyhet
+> ,
+18185,18186c20603,20606
+< «Championship
+< Manager»
+---
+> «
+> Championship
+> Manager
+> »
+18196c20616,20617
+< spillmotorer.
+---
+> spillmotorer
+> .
+18208,18211c20629,20637
+< «FM
+< 2009»,
+< «Sports
+< Interactive»
+---
+> «
+> FM
+> 2009
+> »
+> ,
+> «
+> Sports
+> Interactive
+> »
+18223c20649,20650
+< lansering,
+---
+> lansering
+> ,
+18230c20657,20658
+< i.
+---
+> i
+> .
+18249c20677,20678
+< fullskjermsmodus.
+---
+> fullskjermsmodus
+> .
+18256c20685,20686
+< kampen,
+---
+> kampen
+> ,
+18267c20697,20698
+< kampbildet.
+---
+> kampbildet
+> .
+18287c20718,20719
+< kampbildet.
+---
+> kampbildet
+> .
+18297c20729,20730
+< kampbildet,
+---
+> kampbildet
+> ,
+18308c20741,20742
+< selvtillit.
+---
+> selvtillit
+> .
+18317c20751,20752
+< nyhet,
+---
+> nyhet
+> ,
+18323c20758,20759
+< beste.
+---
+> beste
+> .
+18336,18337c20772,20775
+< stjernen.
+< Før,
+---
+> stjernen
+> .
+> Før
+> ,
+18351c20789,20790
+< benken,
+---
+> benken
+> ,
+18369c20808,20809
+< på.
+---
+> på
+> .
+18384c20824,20825
+< Ronaldo,
+---
+> Ronaldo
+> ,
+18392c20833,20834
+< det.
+---
+> det
+> .
+18403,18405c20845,20850
+< «Football
+< Manager»
+< før,
+---
+> «
+> Football
+> Manager
+> »
+> før
+> ,
+18415c20860,20861
+< spillere,
+---
+> spillere
+> ,
+18424c20870,20871
+< hjelp.
+---
+> hjelp
+> .
+18440c20887,20888
+< kortpasningene,
+---
+> kortpasningene
+> ,
+18453c20901,20902
+< nok.
+---
+> nok
+> .
+18465c20914,20915
+< tips.
+---
+> tips
+> .
+18484c20934,20935
+< posisjoner.
+---
+> posisjoner
+> .
+18493c20944,20945
+< nok,
+---
+> nok
+> ,
+18498c20950,20951
+< venstreback,
+---
+> venstreback
+> ,
+18511c20964,20965
+< budsjettet.
+---
+> budsjettet
+> .
+18526c20980,20981
+< pressekonferanser.
+---
+> pressekonferanser
+> .
+18540c20995,20996
+< pressekonferansene,
+---
+> pressekonferansene
+> ,
+18544c21000,21001
+< gang,
+---
+> gang
+> ,
+18549c21006,21007
+< kjedelig.
+---
+> kjedelig
+> .
+18570c21028,21029
+< tiden.
+---
+> tiden
+> .
+18587c21046,21047
+< vennskap,
+---
+> vennskap
+> ,
+18596c21056,21057
+< møtene.
+---
+> møtene
+> .
+18603c21064,21065
+< gøy.
+---
+> gøy
+> .
+18614c21076,21077
+< assistenten,
+---
+> assistenten
+> ,
+18625c21088,21089
+< på.
+---
+> på
+> .
+18644,18646c21108,21114
+< anledninger.
+< «Storm
+< ut»-funksjonen
+---
+> anledninger
+> .
+> «
+> Storm
+> ut
+> »
+> -funksjonen
+18658c21126,21127
+< pressekonferanse,
+---
+> pressekonferanse
+> ,
+18666c21135,21136
+< forfatte.
+---
+> forfatte
+> .
+18669c21139,21140
+< advart,
+---
+> advart
+> ,
+18680c21151,21152
+< «dra
+---
+> «
+> dra
+18682c21154,21155
+< helvete»
+---
+> helvete
+> »
+18690c21163,21164
+< ligacupkamp.
+---
+> ligacupkamp
+> .
+18696c21170,21173
+< «FM»-spill
+---
+> «
+> FM
+> »
+> -spill
+18704c21181,21182
+< klubbene,
+---
+> klubbene
+> ,
+18709c21187,21188
+< gang.
+---
+> gang
+> .
+18731c21210,21211
+< (69
+---
+> (
+> 69
+18735c21215,21217
+< mål),
+---
+> mål
+> )
+> ,
+18745c21227,21228
+< deg.
+---
+> deg
+> .
+18756c21239,21240
+< primadonnanykker.
+---
+> primadonnanykker
+> .
+18763c21247,21248
+< lettere,
+---
+> lettere
+> ,
+18780c21265,21266
+< klubber.
+---
+> klubber
+> .
+18784c21270,21271
+< ofte.
+---
+> ofte
+> .
+18802c21289,21290
+< klubber.
+---
+> klubber
+> .
+18808c21296,21297
+< Vålerenga.
+---
+> Vålerenga
+> .
+18822c21311,21312
+< manager,
+---
+> manager
+> ,
+18834c21324,21325
+< bedre.
+---
+> bedre
+> .
+18844c21335,21336
+< Sverige,
+---
+> Sverige
+> ,
+18850c21342,21343
+< har.
+---
+> har
+> .
+18865c21358,21359
+< oversiktlig.
+---
+> oversiktlig
+> .
+18871c21365,21366
+< oppsummering,
+---
+> oppsummering
+> ,
+18880c21375,21376
+< koster.
+---
+> koster
+> .
+18890c21386,21387
+< på.
+---
+> på
+> .
+18903c21400,21401
+< noensinne,
+---
+> noensinne
+> ,
+18921c21419,21420
+< forbedret.
+---
+> forbedret
+> .
+18928c21427,21428
+< kamper,
+---
+> kamper
+> ,
+18943c21443,21444
+< poengsummer.
+---
+> poengsummer
+> .
+18959c21460,21461
+< tidligere,
+---
+> tidligere
+> ,
+18964c21466,21467
+< oppdatering.
+---
+> oppdatering
+> .
+18967,18968c21470,21473
+< «FM
+< 2009»
+---
+> «
+> FM
+> 2009
+> »
+18975c21480,21481
+< utgaven,
+---
+> utgaven
+> ,
+18986c21492,21493
+< underveis.
+---
+> underveis
+> .
+18994c21501,21502
+< klubben,
+---
+> klubben
+> ,
+19002,19003c21510,21514
+< «Board
+< Confidence»,
+---
+> «
+> Board
+> Confidence
+> »
+> ,
+19021c21532,21533
+< på.
+---
+> på
+> .
+19025,19026c21537,21540
+< «Football
+< Manager»
+---
+> «
+> Football
+> Manager
+> »
+19031c21545,21546
+< jobb,
+---
+> jobb
+> ,
+19044c21559,21560
+< nå.
+---
+> nå
+> .
+19051,19052c21567,21570
+< taktikk,
+< treningsopplegg,
+---
+> taktikk
+> ,
+> treningsopplegg
+> ,
+19059c21577,21578
+< besitter,
+---
+> besitter
+> ,
+19064c21583,21584
+< du.
+---
+> du
+> .
+19071c21591,21592
+< arbeid.
+---
+> arbeid
+> .
+19087c21608,21609
+< budsjett.
+---
+> budsjett
+> .
+19098c21620,21621
+< manager?
+---
+> manager
+> ?
+19105,19106c21628,21632
+< «mannsdominert»
+< idrett.
+---
+> «
+> mannsdominert
+> »
+> idrett
+> .
+19113c21639,21640
+< 9.1-utgaven.
+---
+> 9.1-utgaven
+> .
+19141c21668,21669
+< Steam,
+---
+> Steam
+> ,
+19146c21674,21675
+< automatisk.
+---
+> automatisk
+> .
+19148c21677,21678
+< frukt,
+---
+> frukt
+> ,
+19159c21689,21690
+< år.
+---
+> år
+> .
+19177c21708,21709
+< årene.
+---
+> årene
+> .
+19182c21714,21715
+< faller.
+---
+> faller
+> .
+19194c21727,21728
+< import.
+---
+> import
+> .
+19205c21739,21740
+< 1998,
+---
+> 1998
+> ,
+19207c21742,21743
+< Nationen.
+---
+> Nationen
+> .
+19215c21751,21753
+< (Sp)
+---
+> (
+> Sp
+> )
+19239c21777,21778
+< ha.
+---
+> ha
+> .
+19246c21785,21786
+< Norgrønt,
+---
+> Norgrønt
+> ,
+19249c21789,21790
+< Hauso,
+---
+> Hauso
+> ,
+19260c21801,21802
+< pærer,
+---
+> pærer
+> ,
+19268c21810,21811
+< importpærene.
+---
+> importpærene
+> .
+19282c21825,21826
+< Disneyland.
+---
+> Disneyland
+> .
+19285c21829,21830
+< hjemme:
+---
+> hjemme
+> :
+19289c21834,21836
+< (13)
+---
+> (
+> 13
+> )
+19298c21845,21846
+< hjertetransplantasjon.
+---
+> hjertetransplantasjon
+> .
+19311c21859,21860
+< familien.
+---
+> familien
+> .
+19313c21862,21863
+< Disney:
+---
+> Disney
+> :
+19322c21872,21873
+< siden.
+---
+> siden
+> .
+19334c21885,21886
+< USA.
+---
+> USA
+> .
+19338c21890,21891
+< modenhet:
+---
+> modenhet
+> :
+19351c21904,21905
+< hjerte.
+---
+> hjerte
+> .
+19361c21915,21916
+< medier,
+---
+> medier
+> ,
+19365c21920,21921
+< News.
+---
+> News
+> .
+19369c21925,21927
+< (13)
+---
+> (
+> 13
+> )
+19376c21934,21935
+< hjerte.
+---
+> hjerte
+> .
+19382c21941,21942
+< operasjon,
+---
+> operasjon
+> ,
+19387c21947,21948
+< hjemme.
+---
+> hjemme
+> .
+19403c21964,21967
+< (11),
+---
+> (
+> 11
+> )
+> ,
+19405c21969,21971
+< (10)
+---
+> (
+> 10
+> )
+19408c21974,21977
+< (4).
+---
+> (
+> 4
+> )
+> .
+19414c21983,21984
+< drøm:
+---
+> drøm
+> :
+19423c21993,21994
+< USA.
+---
+> USA
+> .
+19443c22014,22015
+< barn,
+---
+> barn
+> ,
+19448c22020,22021
+< Children.
+---
+> Children
+> .
+19452c22025,22026
+< reiseforsikring.
+---
+> reiseforsikring
+> .
+19455c22029,22030
+< Hannah,
+---
+> Hannah
+> ,
+19463c22038,22039
+< selskaper.
+---
+> selskaper
+> .
+19475c22051,22052
+< turen.
+---
+> turen
+> .
+19490c22067,22068
+< 13-åringen,
+---
+> 13-åringen
+> ,
+19493c22071,22072
+< News.
+---
+> News
+> .
+19499c22078,22079
+< overveldet,
+---
+> overveldet
+> ,
+19503c22083,22084
+< TV-kanalen.
+---
+> TV-kanalen
+> .
+19521c22102,22103
+< min,
+---
+> min
+> ,
+19531c22113,22114
+< stund,
+---
+> stund
+> ,
+19533c22116,22117
+< hun.
+---
+> hun
+> .
+19546c22130,22131
+< kjent.
+---
+> kjent
+> .
+19548c22133,22134
+< far,
+---
+> far
+> ,
+19550c22136,22137
+< Jones,
+---
+> Jones
+> ,
+19557c22144,22145
+< familien.
+---
+> familien
+> .
+19568c22156,22157
+< dette,
+---
+> dette
+> ,
+19580c22169,22170
+< dit,
+---
+> dit
+> ,
+19582c22172,22173
+< han.
+---
+> han
+> .
+19592c22183,22184
+< år,
+---
+> år
+> ,
+19601c22193,22194
+< år.
+---
+> år
+> .
+19609c22202,22203
+< hjertefeil,
+---
+> hjertefeil
+> ,
+19618c22212,22213
+< hjertet.
+---
+> hjertet
+> .
+19626c22221,22222
+< nei.
+---
+> nei
+> .
+19639c22235,22236
+< nærmeste,
+---
+> nærmeste
+> ,
+19652c22249,22250
+< leve.
+---
+> leve
+> .
+19669c22267,22268
+< modenhet.
+---
+> modenhet
+> .
+19678c22277,22279
+< (Frp)
+---
+> (
+> Frp
+> )
+19685c22286,22287
+< Rikshospitalet.
+---
+> Rikshospitalet
+> .
+19691c22293,22294
+< vellykket,
+---
+> vellykket
+> ,
+19701c22304,22305
+< nettutgave.
+---
+> nettutgave
+> .
+19708c22312,22313
+< hjerte.
+---
+> hjerte
+> .
+19714c22319,22320
+< hjerteoperert.
+---
+> hjerteoperert
+> .
+19732c22338,22339
+< utvei,
+---
+> utvei
+> ,
+19734c22341,22342
+< lokalavisen.
+---
+> lokalavisen
+> .
+19745c22353,22354
+< videre,
+---
+> videre
+> ,
+19761c22370,22371
+< år.
+---
+> år
+> .
+19781c22391,22392
+< veska.
+---
+> veska
+> .
+19785c22396,22397
+< Portrettet.
+---
+> Portrettet
+> .
+19788c22400,22401
+< år:
+---
+> år
+> :
+19794c22407,22408
+< klisjé,
+---
+> klisjé
+> ,
+19801c22415,22416
+< oppvekst.
+---
+> oppvekst
+> .
+19803c22418,22419
+< Signy:
+---
+> Signy
+> :
+19808c22424,22425
+< ungdom,
+---
+> ungdom
+> ,
+19812,19813c22429,22432
+< 80-tallet.
+< Palestinaskjerf,
+---
+> 80-tallet
+> .
+> Palestinaskjerf
+> ,
+19817,19818c22436,22439
+< fotformsko.
+< Vinterlykke:
+---
+> fotformsko
+> .
+> Vinterlykke
+> :
+19828,19829c22449,22452
+< Hanshaugen.
+< Danseløve:
+---
+> Hanshaugen
+> .
+> Danseløve
+> :
+19835c22458,22459
+< «Skal
+---
+> «
+> Skal
+19837c22461,22462
+< danse»
+---
+> danse
+> »
+19839c22464,22465
+< 2006.
+---
+> 2006
+> .
+19853,19854c22479,22482
+< dansegulvet.
+< Voilà!
+---
+> dansegulvet
+> .
+> Voilà
+> !
+19876c22504,22505
+< Frogner.
+---
+> Frogner
+> .
+19883c22512,22513
+< spisestua.
+---
+> spisestua
+> .
+19889c22519,22520
+< tregulvet.
+---
+> tregulvet
+> .
+19896c22527,22528
+< stiletthæler?
+---
+> stiletthæler
+> ?
+19899c22531,22532
+< gymmen.
+---
+> gymmen
+> .
+19914c22547,22548
+< hæler.
+---
+> hæler
+> .
+19924c22558,22559
+< fjor?
+---
+> fjor
+> ?
+19927c22562,22563
+< prøvde.
+---
+> prøvde
+> .
+19934c22570,22571
+< hæler.
+---
+> hæler
+> .
+19939c22576,22577
+< ut.
+---
+> ut
+> .
+19944c22582,22583
+< svart.
+---
+> svart
+> .
+19949c22588,22589
+< blank.
+---
+> blank
+> .
+19953,19954c22593,22597
+< «Fashion
+< Bible»,
+---
+> «
+> Fashion
+> Bible
+> »
+> ,
+19961c22604,22605
+< skrevet,
+---
+> skrevet
+> ,
+19975c22619,22620
+< Middelthon.
+---
+> Middelthon
+> .
+19994c22639,22640
+< kandelaber.
+---
+> kandelaber
+> .
+19999c22645,22646
+< taket.
+---
+> taket
+> .
+20003c22650,22651
+< her,
+---
+> her
+> ,
+20006c22654,22655
+< sofaen,
+---
+> sofaen
+> ,
+20013c22662,22663
+< alerten.
+---
+> alerten
+> .
+20023c22673,22674
+< kommer,
+---
+> kommer
+> ,
+20039c22690,22691
+< hals.
+---
+> hals
+> .
+20044,20045c22696,22699
+< var:
+< «Mote
+---
+> var
+> :
+> «
+> Mote
+20049c22703,22704
+< forgjengelig.
+---
+> forgjengelig
+> .
+20057c22712,22713
+< født.
+---
+> født
+> .
+20069c22725,22728
+< bok?».
+---
+> bok
+> ?
+> »
+> .
+20077c22736,22737
+< er,
+---
+> er
+> ,
+20082,20084c22742,22747
+< inspirere.
+< «Fashion
+< Bible»
+---
+> inspirere
+> .
+> «
+> Fashion
+> Bible
+> »
+20096c22759,22760
+< åra,
+---
+> åra
+> ,
+20101c22765,22766
+< designerne,
+---
+> designerne
+> ,
+20106c22771,22772
+< tips.
+---
+> tips
+> .
+20113c22779,22780
+< no-no.
+---
+> no-no
+> .
+20119c22786,22787
+< år,
+---
+> år
+> ,
+20122c22790,22791
+< lov.
+---
+> lov
+> .
+20133c22802,22803
+< trenchcoat.
+---
+> trenchcoat
+> .
+20136c22806,22807
+< under.
+---
+> under
+> .
+20155c22826,22827
+< motebibel?
+---
+> motebibel
+> ?
+20157c22829,22830
+< Nei.
+---
+> Nei
+> .
+20160c22833,22834
+< meg.
+---
+> meg
+> .
+20177c22851,22852
+< oss.
+---
+> oss
+> .
+20181c22856,22857
+< man,
+---
+> man
+> ,
+20186c22862,22863
+< da?
+---
+> da
+> ?
+20203c22880,22881
+< truet,
+---
+> truet
+> ,
+20209c22887,22888
+< trikken?
+---
+> trikken
+> ?
+20211c22890,22891
+< selvfølgelig,
+---
+> selvfølgelig
+> ,
+20228c22908,22909
+< vår.
+---
+> vår
+> .
+20234c22915,22916
+< fram.
+---
+> fram
+> .
+20239c22921,22922
+< ser.
+---
+> ser
+> .
+20245c22928,22929
+< mæ.
+---
+> mæ
+> .
+20267c22951,22952
+< dialekten.
+---
+> dialekten
+> .
+20275c22960,22961
+< forsto,
+---
+> forsto
+> ,
+20283c22969,22970
+< vestlandsk,
+---
+> vestlandsk
+> ,
+20286c22973,22974
+< nordnorsk.
+---
+> nordnorsk
+> .
+20300c22988,22989
+< Rana.
+---
+> Rana
+> .
+20304c22993,22994
+< viktig.
+---
+> viktig
+> .
+20307c22997,22998
+< makt.
+---
+> makt
+> .
+20315c23006,23007
+< med?
+---
+> med
+> ?
+20337c23029,23030
+< i.
+---
+> i
+> .
+20346c23039,23040
+< restaurantene,
+---
+> restaurantene
+> ,
+20359c23053,23054
+< jobbene.
+---
+> jobbene
+> .
+20363c23058,23059
+< kodene,
+---
+> kodene
+> ,
+20372c23068,23069
+< dyktige,
+---
+> dyktige
+> ,
+20379c23076,23077
+< framstår.
+---
+> framstår
+> .
+20385c23083,23084
+< makt,
+---
+> makt
+> ,
+20387c23086,23087
+< ikke.
+---
+> ikke
+> .
+20398c23098,23099
+< veske.
+---
+> veske
+> .
+20402c23103,23104
+< Chanelveske.
+---
+> Chanelveske
+> .
+20409c23111,23112
+< håret.
+---
+> håret
+> .
+20424c23127,23128
+< småskadet.
+---
+> småskadet
+> .
+20433c23137,23138
+< viktig.
+---
+> viktig
+> .
+20440c23145,23146
+< feministisk.
+---
+> feministisk
+> .
+20453c23159,23160
+< suverene,
+---
+> suverene
+> ,
+20456c23163,23164
+< bra.
+---
+> bra
+> .
+20477c23185,23186
+< vel,
+---
+> vel
+> ,
+20481c23190,23191
+< bra.
+---
+> bra
+> .
+20493c23203,23204
+< besøk,
+---
+> besøk
+> ,
+20513c23224,23225
+< selv.
+---
+> selv
+> .
+20520c23232,23233
+< rart.
+---
+> rart
+> .
+20526c23239,23240
+< catwalk.
+---
+> catwalk
+> .
+20532c23246,23247
+< York,
+---
+> York
+> ,
+20535c23250,23251
+< Milano.
+---
+> Milano
+> .
+20543c23259,23260
+< Oslo.
+---
+> Oslo
+> .
+20546c23263,23264
+< Sogndal,
+---
+> Sogndal
+> ,
+20558c23276,23277
+< oppfunnet.
+---
+> oppfunnet
+> .
+20566c23285,23286
+< klasse.
+---
+> klasse
+> .
+20574c23294,23295
+< dag,
+---
+> dag
+> ,
+20583c23304,23305
+< ble.
+---
+> ble
+> .
+20594c23316,23317
+< genser.
+---
+> genser
+> .
+20598c23321,23322
+< tresko,
+---
+> tresko
+> ,
+20600c23324,23325
+< knestrømper,
+---
+> knestrømper
+> ,
+20605c23330,23331
+< hippieskjorte.
+---
+> hippieskjorte
+> .
+20615c23341,23342
+< siden.
+---
+> siden
+> .
+20622c23349,23350
+< hoftene.
+---
+> hoftene
+> .
+20629c23357,23358
+< brødre,
+---
+> brødre
+> ,
+20637c23366,23367
+< meg.
+---
+> meg
+> .
+20641c23371,23372
+< baker.
+---
+> baker
+> .
+20648c23379,23380
+< Tidende.
+---
+> Tidende
+> .
+20650c23382,23383
+< Signy,
+---
+> Signy
+> ,
+20653c23386,23387
+< rød.
+---
+> rød
+> .
+20659c23393,23394
+< ungdom.
+---
+> ungdom
+> .
+20664c23399,23400
+< SU.
+---
+> SU
+> .
+20671c23407,23408
+< valget.
+---
+> valget
+> .
+20674c23411,23412
+< studiesirkler.
+---
+> studiesirkler
+> .
+20677c23415,23416
+< Marx.
+---
+> Marx
+> .
+20696c23435,23436
+< kvinnesaksmerket,
+---
+> kvinnesaksmerket
+> ,
+20703c23443,23444
+< danset.
+---
+> danset
+> .
+20721c23462,23463
+< skoene?
+---
+> skoene
+> ?
+20730c23472,23473
+< Dagbladet.
+---
+> Dagbladet
+> .
+20744c23487,23488
+< tikroningen.
+---
+> tikroningen
+> .
+20749c23493,23494
+< inn.
+---
+> inn
+> .
+20756c23501,23502
+< hippie.
+---
+> hippie
+> .
+20762,20763c23508,23511
+< Dagbladet.
+< Klassekampen,
+---
+> Dagbladet
+> .
+> Klassekampen
+> ,
+20767c23515,23516
+< også.
+---
+> også
+> .
+20773c23522,23523
+< Næringsliv,
+---
+> Næringsliv
+> ,
+20780c23530,23531
+< år,
+---
+> år
+> ,
+20789c23540,23541
+< koner.
+---
+> koner
+> .
+20808c23560,23561
+< Seattle.
+---
+> Seattle
+> .
+20812c23565,23566
+< redaksjonssjef.
+---
+> redaksjonssjef
+> .
+20822c23576,23577
+< år,
+---
+> år
+> ,
+20824c23579,23580
+< vel,
+---
+> vel
+> ,
+20831c23587,23588
+< motemagasinredaktør?
+---
+> motemagasinredaktør
+> ?
+20839c23596,23597
+< Næringsliv,
+---
+> Næringsliv
+> ,
+20845c23603,23604
+< kjøkkenet,
+---
+> kjøkkenet
+> ,
+20856c23615,23616
+< hæler.
+---
+> hæler
+> .
+20860c23620,23621
+< sist,
+---
+> sist
+> ,
+20863,20864c23624,23627
+< nineish,
+< tenish.
+---
+> nineish
+> ,
+> tenish
+> .
+20875c23638,23639
+< gått,
+---
+> gått
+> ,
+20879c23643,23644
+< åtte,
+---
+> åtte
+> ,
+20885c23650,23651
+< bokser,
+---
+> bokser
+> ,
+20891c23657,23658
+< tv.
+---
+> tv
+> .
+20895c23662,23663
+< spennende?
+---
+> spennende
+> ?
+20906c23674,23675
+< Paris.
+---
+> Paris
+> .
+20910c23679,23680
+< York.
+---
+> York
+> .
+20915c23685,23686
+< det,
+---
+> det
+> ,
+20920c23691,23692
+< jobbing.
+---
+> jobbing
+> .
+20928c23700,23701
+< kvelden.
+---
+> kvelden
+> .
+20938c23711,23712
+< dag.
+---
+> dag
+> .
+20947c23721,23722
+< kulturopplevelse.
+---
+> kulturopplevelse
+> .
+20955c23730,23731
+< deg,
+---
+> deg
+> ,
+20962c23738,23739
+< mennesker.
+---
+> mennesker
+> .
+20967c23744,23745
+< mennesker,
+---
+> mennesker
+> ,
+20972c23750,23751
+< verden.
+---
+> verden
+> .
+20987c23766,23767
+< her,
+---
+> her
+> ,
+20990c23770,23771
+< Norge,
+---
+> Norge
+> ,
+20994c23775,23776
+< dette.
+---
+> dette
+> .
+20998c23780,23781
+< klær.
+---
+> klær
+> .
+21002c23785,23786
+< gåsehud.
+---
+> gåsehud
+> .
+21008c23792,23793
+< 10cc,
+---
+> 10cc
+> ,
+21011c23796,23797
+< tårene.
+---
+> tårene
+> .
+21015c23801,23802
+< være.
+---
+> være
+> .
+21021,21022c23808,23811
+< tenke:
+< «Dette
+---
+> tenke
+> :
+> «
+> Dette
+21027c23816,23817
+< sykt.
+---
+> sykt
+> .
+21034c23824,23825
+< med?
+---
+> med
+> ?
+21048c23839,23840
+< dager.
+---
+> dager
+> .
+21052c23844,23846
+< bransje».
+---
+> bransje
+> »
+> .
+21065c23859,23860
+< dette.
+---
+> dette
+> .
+21071c23866,23867
+< også.
+---
+> også
+> .
+21081c23877,23878
+< henne,
+---
+> henne
+> ,
+21096c23893,23894
+< York,
+---
+> York
+> ,
+21103c23901,23902
+< Lagerfeld.
+---
+> Lagerfeld
+> .
+21109c23908,23909
+< middag,
+---
+> middag
+> ,
+21111c23911,23912
+< jeg.
+---
+> jeg
+> .
+21117c23918,23919
+< også.
+---
+> også
+> .
+21122c23924,23925
+< finanser.
+---
+> finanser
+> .
+21131,21132c23934,23937
+< finanskrise?
+< Eller?
+---
+> finanskrise
+> ?
+> Eller
+> ?
+21141c23946,23947
+< lommeboka,
+---
+> lommeboka
+> ,
+21147c23953,23954
+< ha,
+---
+> ha
+> ,
+21155c23962,23963
+< klær.
+---
+> klær
+> .
+21159c23967,23968
+< bort,
+---
+> bort
+> ,
+21166c23975,23976
+< nedgangstider.
+---
+> nedgangstider
+> .
+21183c23993,23994
+< badet,
+---
+> badet
+> ,
+21197c24008,24009
+< badet.
+---
+> badet
+> .
+21211c24023,24024
+< kroner.
+---
+> kroner
+> .
+21221c24034,24035
+< nå?
+---
+> nå
+> ?
+21228c24042,24043
+< kroner,
+---
+> kroner
+> ,
+21240c24055,24056
+< gjøre.
+---
+> gjøre
+> .
+21254c24070,24071
+< år.
+---
+> år
+> .
+21258c24075,24076
+< aksjer.
+---
+> aksjer
+> .
+21270c24088,24089
+< 2007.
+---
+> 2007
+> .
+21277c24096,24097
+< Red,
+---
+> Red
+> ,
+21282c24102,24103
+< besøk,
+---
+> besøk
+> ,
+21288c24109,24110
+< sykefravær.
+---
+> sykefravær
+> .
+21296c24118,24119
+< dominerende.
+---
+> dominerende
+> .
+21300c24123,24124
+< det?
+---
+> det
+> ?
+21307c24131,24132
+< riktige.
+---
+> riktige
+> .
+21319c24144,24145
+< autoritær,
+---
+> autoritær
+> ,
+21331c24157,24158
+< innhold.
+---
+> innhold
+> .
+21345c24172,24173
+< dem.
+---
+> dem
+> .
+21352c24180,24181
+< i.
+---
+> i
+> .
+21366c24195,24196
+< sjefen.
+---
+> sjefen
+> .
+21381c24211,24212
+< som.
+---
+> som
+> .
+21387c24218,24219
+< liten...
+---
+> liten
+> ...
+21398c24230,24231
+< Pusekatt?
+---
+> Pusekatt
+> ?
+21400c24233,24234
+< Nei.
+---
+> Nei
+> .
+21408c24242,24243
+< også.
+---
+> også
+> .
+21418c24253,24254
+< gjennom.
+---
+> gjennom
+> .
+21432c24268,24269
+< var.
+---
+> var
+> .
+21438,21439c24275,24278
+< svarte:
+< «Det
+---
+> svarte
+> :
+> «
+> Det
+21450c24289,24291
+< sjøl».
+---
+> sjøl
+> »
+> .
+21455c24296,24297
+< oppleve.
+---
+> oppleve
+> .
+21465c24307,24308
+< profil,
+---
+> profil
+> ,
+21477c24320,24321
+< verden.
+---
+> verden
+> .
+21497c24341,24342
+< kvinner...
+---
+> kvinner
+> ...
+21516c24361,24362
+< venninne.
+---
+> venninne
+> .
+21521c24367,24368
+< sosial,
+---
+> sosial
+> ,
+21529c24376,24377
+< med.
+---
+> med
+> .
+21541c24389,24390
+< liv.
+---
+> liv
+> .
+21552c24401,24402
+< kjærlighetsliv.
+---
+> kjærlighetsliv
+> .
+21560c24410,24411
+< utfordringer.
+---
+> utfordringer
+> .
+21575c24426,24427
+< whatever,
+---
+> whatever
+> ,
+21581c24433,24434
+< dag.
+---
+> dag
+> .
+21588c24441,24442
+< flinke,
+---
+> flinke
+> ,
+21603c24457,24458
+< morgen,
+---
+> morgen
+> ,
+21612c24467,24468
+< Elle.
+---
+> Elle
+> .
+21624c24480,24481
+< shoppe.
+---
+> shoppe
+> .
+21636c24493,24494
+< Stabekk,
+---
+> Stabekk
+> ,
+21643c24501,24502
+< gikk,
+---
+> gikk
+> ,
+21648c24507,24508
+< tilbake.
+---
+> tilbake
+> .
+21659,21660c24519,24522
+< skriker:
+< «Jeg
+---
+> skriker
+> :
+> «
+> Jeg
+21666c24528,24530
+< meg»?
+---
+> meg
+> »
+> ?
+21668c24532,24533
+< Absolutt.
+---
+> Absolutt
+> .
+21673c24538,24539
+< latterlig.
+---
+> latterlig
+> .
+21679c24545,24546
+< walk-in-closet.
+---
+> walk-in-closet
+> .
+21693c24560,24561
+< nytt?
+---
+> nytt
+> ?
+21695c24563,24564
+< Nei.
+---
+> Nei
+> .
+21698c24567,24568
+< nødvendig?
+---
+> nødvendig
+> ?
+21701c24571,24572
+< den?
+---
+> den
+> ?
+21707c24578,24579
+< koster?
+---
+> koster
+> ?
+21713c24585,24586
+< det.
+---
+> det
+> .
+21720c24593,24594
+< økonomi,
+---
+> økonomi
+> ,
+21728c24602,24603
+< vil.
+---
+> vil
+> .
+21736c24611,24612
+< kjøpt?
+---
+> kjøpt
+> ?
+21746c24622,24623
+< 000.
+---
+> 000
+> .
+21759c24636,24637
+< samfunn,
+---
+> samfunn
+> ,
+21772c24650,24651
+< medmennesker.
+---
+> medmennesker
+> .
+21775c24654,24655
+< krevende,
+---
+> krevende
+> ,
+21780c24660,24661
+< gjøres,
+---
+> gjøres
+> ,
+21782c24663,24664
+< Chaudhry.
+---
+> Chaudhry
+> .
+21791c24673,24674
+< PST,
+---
+> PST
+> ,
+21797c24680,24681
+< henvendelser.
+---
+> henvendelser
+> .
+21817c24701,24702
+< sving.
+---
+> sving
+> .
+21837c24722,24723
+< trusler.
+---
+> trusler
+> .
+21851c24737,24738
+< bakgrunn,
+---
+> bakgrunn
+> ,
+21859c24746,24747
+< våpen,
+---
+> våpen
+> ,
+21861c24749,24750
+< hun.
+---
+> hun
+> .
+21865c24754,24756
+< (NDL)
+---
+> (
+> NDL
+> )
+21875c24766,24767
+< nynazisme,
+---
+> nynazisme
+> ,
+21886c24778,24779
+< vold.
+---
+> vold
+> .
+21904c24797,24798
+< organisasjon.
+---
+> organisasjon
+> .
+21912,21914c24806,24811
+< Samlingsparti,
+< Demokratene,
+< Fremskrittspartiet,
+---
+> Samlingsparti
+> ,
+> Demokratene
+> ,
+> Fremskrittspartiet
+> ,
+21917c24814,24815
+< Arbeiderpartiet.
+---
+> Arbeiderpartiet
+> .
+21923c24821,24822
+< Strømmen,
+---
+> Strømmen
+> ,
+21931c24830,24831
+< tett,
+---
+> tett
+> ,
+21941c24841,24842
+< voldspotensial.
+---
+> voldspotensial
+> .
+21961c24862,24863
+< voldspotensial,
+---
+> voldspotensial
+> ,
+21971c24873,24874
+< dem.
+---
+> dem
+> .
+21980c24883,24884
+< retorikk.
+---
+> retorikk
+> .
+22005c24909,24910
+< regjeringen.
+---
+> regjeringen
+> .
+22013c24918,24919
+< miljøene?
+---
+> miljøene
+> ?
+22025c24931,24932
+< overvåking.
+---
+> overvåking
+> .
+22029c24936,24937
+< åpent,
+---
+> åpent
+> ,
+22039c24947,24948
+< internett.
+---
+> internett
+> .
+22051c24960,24961
+< voldsbruk,
+---
+> voldsbruk
+> ,
+22053c24963,24965
+< Strømmen.Hitlers
+---
+> Strømmen
+> .
+> Hitlers
+22065,22066c24977,24980
+< «Min
+< kamp»
+---
+> «
+> Min
+> kamp
+> »
+22073,22074c24987,24991
+< «Mein
+< Kampf».
+---
+> «
+> Mein
+> Kampf
+> »
+> .
+22084c25001,25002
+< vold,
+---
+> vold
+> ,
+22087c25005,25006
+< litteraturkritiker.
+---
+> litteraturkritiker
+> .
+22090c25009,25010
+< Knausgård:
+---
+> Knausgård
+> :
+22101,22102c25021,25024
+< «Mein
+< Kampf»
+---
+> «
+> Mein
+> Kampf
+> »
+22108c25030,25031
+< kamp.
+---
+> kamp
+> .
+22121,22123c25044,25049
+< «Mein
+< Kampf»
+< nå,
+---
+> «
+> Mein
+> Kampf
+> »
+> nå
+> ,
+22147,22148c25073,25077
+< «Mein
+< Kampf».
+---
+> «
+> Mein
+> Kampf
+> »
+> .
+22158,22159c25087,25091
+< «Min
+< Kamp»,
+---
+> «
+> Min
+> Kamp
+> »
+> ,
+22168c25100,25101
+< november,
+---
+> november
+> ,
+22180,22181c25113,25116
+< «Mein
+< Kampf»
+---
+> «
+> Mein
+> Kampf
+> »
+22187c25122,25123
+< boka.
+---
+> boka
+> .
+22193c25129,25130
+< deler,
+---
+> deler
+> ,
+22208c25145,25146
+< dokument,
+---
+> dokument
+> ,
+22212c25150,25151
+< Oktober,
+---
+> Oktober
+> ,
+22214c25153,25154
+< Berdahl,
+---
+> Berdahl
+> ,
+22216c25156,25157
+< Klassekampen.
+---
+> Klassekampen
+> .
+22233,22234c25174,25177
+< «Mein
+< Kampf»
+---
+> «
+> Mein
+> Kampf
+> »
+22243c25186,25187
+< 1927.
+---
+> 1927
+> .
+22262c25206,25207
+< 1945,
+---
+> 1945
+> ,
+22269,22270c25214,25217
+< «Mein
+< Kampf»
+---
+> «
+> Mein
+> Kampf
+> »
+22272c25219,25220
+< omløp.
+---
+> omløp
+> .
+22290c25238,25239
+< ende.
+---
+> ende
+> .
+22302c25251,25252
+< aktuell,
+---
+> aktuell
+> ,
+22307c25257,25258
+< juli.
+---
+> juli
+> .
+22322c25273,25274
+< 1947,
+---
+> 1947
+> ,
+22324c25276,25277
+< utkommet.
+---
+> utkommet
+> .
+22330c25283,25284
+< tida,
+---
+> tida
+> ,
+22332c25286,25287
+< Haarder.
+---
+> Haarder
+> .
+22352c25307,25308
+< vold.
+---
+> vold
+> .
+22370c25326,25327
+< Facebook.
+---
+> Facebook
+> .
+22384c25341,25342
+< innblanding.
+---
+> innblanding
+> .
+22395,22396c25353,25356
+< undersøke.
+< «Om
+---
+> undersøke
+> .
+> «
+> Om
+22400,22401c25360,25363
+< «Mein
+< Kampf»
+---
+> «
+> Mein
+> Kampf
+> »
+22404c25366,25367
+< setning,
+---
+> setning
+> ,
+22415c25378,25381
+< 'du'.
+---
+> '
+> du
+> '
+> .
+22419,22420c25385,25389
+< 'jeg'
+< der,
+---
+> '
+> jeg
+> '
+> der
+> ,
+22424c25393,25395
+< 'vi'
+---
+> '
+> vi
+> '
+22430,22431c25401,25405
+< 'de'
+< der.
+---
+> '
+> de
+> '
+> der
+> .
+22437c25411,25414
+< «du»,
+---
+> «
+> du
+> »
+> ,
+22446c25423,25424
+< «Sommar
+---
+> «
+> Sommar
+22448c25426,25427
+< P1»
+---
+> P1
+> »
+22450c25429,25430
+< august.
+---
+> august
+> .
+22452c25432,25433
+< programmet,
+---
+> programmet
+> ,
+22461c25442,25443
+< lørdag,
+---
+> lørdag
+> ,
+22479,22480c25461,25465
+< «Mein
+< Kampf».
+---
+> «
+> Mein
+> Kampf
+> »
+> .
+22492c25477,25479
+< «2083»
+---
+> «
+> 2083
+> »
+22518,22519c25505,25508
+< meninger.
+< «Avgrunnen
+---
+> meninger
+> .
+> «
+> Avgrunnen
+22529c25518,25519
+< mener,
+---
+> mener
+> ,
+22539c25529,25531
+< gjorde»,
+---
+> gjorde
+> »
+> ,
+22541c25533,25534
+< Knausgård,
+---
+> Knausgård
+> ,
+22548,22549c25541,25545
+< «Respons
+< 22/7»,
+---
+> «
+> Respons
+> 22/7
+> »
+> ,
+22554c25550,25551
+< høst.
+---
+> høst
+> .
+22565,22566c25562,25565
+< «Mein
+< Kampf»
+---
+> «
+> Mein
+> Kampf
+> »
+22568c25567,25568
+< dristig.
+---
+> dristig
+> .
+22579,22580c25579,25582
+< «Mein
+< Kampf»
+---
+> «
+> Mein
+> Kampf
+> »
+22583c25585,25586
+< 6,
+---
+> 6
+> ,
+22606c25609,25610
+< verket.
+---
+> verket
+> .
+22622c25626,25627
+< Hitler-teksten,
+---
+> Hitler-teksten
+> ,
+22627c25632,25633
+< om,
+---
+> om
+> ,
+22631c25637,25638
+< lest.
+---
+> lest
+> .
+22653c25660,25661
+< ham,
+---
+> ham
+> ,
+22655c25663,25664
+< litteraturkritikeren.
+---
+> litteraturkritikeren
+> .
+22660,22661c25669,25673
+< «min
+< kamp»-bøkenes
+---
+> «
+> min
+> kamp
+> »
+> -bøkenes
+22669c25681,25682
+< gjør.
+---
+> gjør
+> .
+22683c25696,25697
+< bekjennende,
+---
+> bekjennende
+> ,
+22687c25701,25702
+< Haarder.
+---
+> Haarder
+> .
+22705c25720,25721
+< kulturkonservatisme.
+---
+> kulturkonservatisme
+> .
+22717c25733,25734
+< unge,
+---
+> unge
+> ,
+22726c25743,25744
+< «Min
+---
+> «
+> Min
+22728c25746,25747
+< 2»
+---
+> 2
+> »
+22733c25752,25753
+< meninger,
+---
+> meninger
+> ,
+22735c25755,25756
+< Hverven.
+---
+> Hverven
+> .
+22749c25770,25771
+< bøkene,
+---
+> bøkene
+> ,
+22762c25784,25785
+< far.
+---
+> far
+> .
+22769c25792,25793
+< aggresjonen,
+---
+> aggresjonen
+> ,
+22779c25803,25804
+< hverdagslivet.
+---
+> hverdagslivet
+> .
+22795c25820,25821
+< husker,
+---
+> husker
+> ,
+22802c25828,25829
+< seg.
+---
+> seg
+> .
+22815,22816c25842,25845
+< «Min
+< kamp»
+---
+> «
+> Min
+> kamp
+> »
+22818c25847,25848
+< diskuteres.
+---
+> diskuteres
+> .
+22843c25873,25874
+< offentlighet.
+---
+> offentlighet
+> .
+22854c25885,25886
+< korrekte,
+---
+> korrekte
+> ,
+22865c25897,25898
+< offentligheten.
+---
+> offentligheten
+> .
+22872,22873c25905,25908
+< «Min
+< kamp?
+---
+> «
+> Min
+> kamp
+> ?
+22888c25923,25924
+< frekk,
+---
+> frekk
+> ,
+22908c25944,25945
+< offentligheten.
+---
+> offentligheten
+> .
+22919c25956,25957
+< skrive,
+---
+> skrive
+> ,
+22926c25964,25965
+< er.
+---
+> er
+> .
+22939c25978,25979
+< verket,
+---
+> verket
+> ,
+22945c25985,25986
+< forklart.
+---
+> forklart
+> .
+22952c25993,25994
+< bindet,
+---
+> bindet
+> ,
+22961c26003,26004
+< overlegg.
+---
+> overlegg
+> .
+22978c26021,26022
+< «Min
+---
+> «
+> Min
+22980c26024,26026
+< 6».
+---
+> 6
+> »
+> .
+22993,22994c26039,26042
+< «Mein
+< Kampf»
+---
+> «
+> Mein
+> Kampf
+> »
+22999c26047,26048
+< verket?
+---
+> verket
+> ?
+23001c26050,26051
+< Nei,
+---
+> Nei
+> ,
+23005c26055,26056
+< ikke.
+---
+> ikke
+> .
+23008c26059,26060
+< ikke.
+---
+> ikke
+> .
+23019c26071,26072
+< dette.
+---
+> dette
+> .
+23026c26079,26080
+< tror.
+---
+> tror
+> .
+23035c26089,26090
+< romanen?
+---
+> romanen
+> ?
+23037c26092,26093
+< Nei,
+---
+> Nei
+> ,
+23042c26098,26099
+< vet.
+---
+> vet
+> .
+23064c26121,26122
+< Breivik.
+---
+> Breivik
+> .
+23071c26129,26130
+< tenkt,
+---
+> tenkt
+> ,
+23073c26132,26133
+< Oktober-sjefen.
+---
+> Oktober-sjefen
+> .
+23078c26138,26139
+< Protesterer:
+---
+> Protesterer
+> :
+23081,23082c26142,26145
+< gatene.
+< Generalstreik.
+---
+> gatene
+> .
+> Generalstreik
+> .
+23090c26153,26154
+< intensitet.
+---
+> intensitet
+> .
+23093c26157,26158
+< lufta:
+---
+> lufta
+> :
+23102,23103c26167,26170
+< regjering.
+< Foto:
+---
+> regjering
+> .
+> Foto
+> :
+23105,23106c26172,26176
+< Alvarado,
+< Reuters/Scanpix
+---
+> Alvarado
+> ,
+> Reuters
+> /
+> Scanpix
+23116c26186,26187
+< krav,
+---
+> krav
+> ,
+23120c26191,26192
+< fortsette.
+---
+> fortsette
+> .
+23127c26199,26200
+< torsdag.
+---
+> torsdag
+> .
+23145c26218,26219
+< regjering.
+---
+> regjering
+> .
+23165c26239,26240
+< utdanningssystem,
+---
+> utdanningssystem
+> ,
+23171c26246,26247
+< massebevegelse.
+---
+> massebevegelse
+> .
+23190c26266,26267
+< landet.
+---
+> landet
+> .
+23197c26274,26275
+< generalstreik.
+---
+> generalstreik
+> .
+23218c26296,26297
+< på.
+---
+> på
+> .
+23224c26303,26304
+< utdanning,
+---
+> utdanning
+> ,
+23232c26312,26313
+< grunnlov.
+---
+> grunnlov
+> .
+23242,23243c26323,26326
+< studentforeninger,
+< fagforeninger,
+---
+> studentforeninger
+> ,
+> fagforeninger
+> ,
+23249c26332,26333
+< opposisjonspartier.
+---
+> opposisjonspartier
+> .
+23266c26350,26351
+< torsdag.
+---
+> torsdag
+> .
+23272c26357,26358
+< fredfullt.
+---
+> fredfullt
+> .
+23284c26370,26371
+< politi.
+---
+> politi
+> .
+23295c26382,26383
+< skadet.
+---
+> skadet
+> .
+23332c26420,26421
+< med.
+---
+> med
+> .
+23346c26435,26436
+< trinnene.
+---
+> trinnene
+> .
+23373c26463,26464
+< fra,
+---
+> fra
+> ,
+23378c26469,26470
+< innsats,
+---
+> innsats
+> ,
+23381c26473,26474
+< Navarrete,
+---
+> Navarrete
+> ,
+23388c26481,26482
+< Santiago.
+---
+> Santiago
+> .
+23391c26485,26486
+< preges,
+---
+> preges
+> ,
+23400c26495,26496
+< øvrig,
+---
+> øvrig
+> ,
+23403c26499,26500
+< ulikhet.
+---
+> ulikhet
+> .
+23421c26518,26519
+< universiteter.
+---
+> universiteter
+> .
+23428c26526,26527
+< gang.
+---
+> gang
+> .
+23445c26544,26545
+< den.
+---
+> den
+> .
+23464c26564,26565
+< studietida.
+---
+> studietida
+> .
+23473c26574,26575
+< fagforeninger.
+---
+> fagforeninger
+> .
+23489c26591,26592
+< problemer.
+---
+> problemer
+> .
+23498c26601,26602
+< Chile.
+---
+> Chile
+> .
+23509c26613,26614
+< grunnlov,
+---
+> grunnlov
+> ,
+23520c26625,26628
+< (CUT),
+---
+> (
+> CUT
+> )
+> ,
+23522c26630,26631
+< Cuevas,
+---
+> Cuevas
+> ,
+23525c26634,26635
+< Telesur.
+---
+> Telesur
+> .
+23547c26657,26658
+< folkeavstemninger.
+---
+> folkeavstemninger
+> .
+23569c26680,26681
+< diktatur,
+---
+> diktatur
+> ,
+23571c26683,26684
+< Cuevas.
+---
+> Cuevas
+> .
+23575c26688,26689
+< Strid:
+---
+> Strid
+> :
+23587c26701,26702
+< eldrepolitikk,
+---
+> eldrepolitikk
+> ,
+23601c26716,26717
+< sykehjemsdekning.
+---
+> sykehjemsdekning
+> .
+23603c26719,26720
+< ansvarsfraskrivelse:
+---
+> ansvarsfraskrivelse
+> :
+23616c26733,26734
+< eldreomsorgen,
+---
+> eldreomsorgen
+> ,
+23627c26745,26746
+< politikk.
+---
+> politikk
+> .
+23633c26752,26753
+< kontinentalsokkel,
+---
+> kontinentalsokkel
+> ,
+23641c26761,26762
+< fiskerisonen.
+---
+> fiskerisonen
+> .
+23650c26771,26772
+< sjøterritorium.
+---
+> sjøterritorium
+> .
+23668c26790,26791
+< bestemmelser,
+---
+> bestemmelser
+> ,
+23685c26808,26809
+< hjemmel.
+---
+> hjemmel
+> .
+23707c26831,26832
+< (jf
+---
+> (
+> jf
+23713c26838,26840
+< regler).
+---
+> regler
+> )
+> .
+23716c26843,26844
+< kontinentalsokkelen,
+---
+> kontinentalsokkelen
+> ,
+23741c26869,26870
+< petroleumsforekomster,
+---
+> petroleumsforekomster
+> ,
+23754c26883,26884
+< petroleumsvirksomhet,
+---
+> petroleumsvirksomhet
+> ,
+23758c26888,26891
+< 1-4.
+---
+> 1
+> -
+> 4
+> .
+23769c26902,26903
+< Svalbard.
+---
+> Svalbard
+> .
+23781c26915,26916
+< øya,
+---
+> øya
+> ,
+23786c26921,26922
+< miljøvernforvaltning,
+---
+> miljøvernforvaltning
+> ,
+23791c26927,26928
+< Nordland.
+---
+> Nordland
+> .
+23802c26939,26940
+< Bodø.
+---
+> Bodø
+> .
+23824c26962,26963
+< interesser.
+---
+> interesser
+> .
+23828c26967,26968
+< politimyndighet.
+---
+> politimyndighet
+> .
+23835c26975,26976
+< Svalbard,
+---
+> Svalbard
+> ,
+23840c26981,26982
+< 1976.
+---
+> 1976
+> .
+23859c27001,27002
+< forskrifter.
+---
+> forskrifter
+> .
+23869c27012,27013
+< ledd,
+---
+> ledd
+> ,
+23877c27021,27022
+< 4.
+---
+> 4
+> .
+23887,23888c27032,27035
+< fredning,
+< jakt,
+---
+> fredning
+> ,
+> jakt
+> ,
+23891c27038,27039
+< fiske,
+---
+> fiske
+> ,
+23895c27043,27044
+< næringsvirksomhet.
+---
+> næringsvirksomhet
+> .
+23901c27050,27051
+< kontinentalsokkelen,
+---
+> kontinentalsokkelen
+> ,
+23913c27063,27064
+< forskrifter,
+---
+> forskrifter
+> ,
+23916c27067,27068
+< ovenfor.
+---
+> ovenfor
+> .
+23938c27090,27091
+< ledd.
+---
+> ledd
+> .
+23946c27099,27100
+< regler,
+---
+> regler
+> ,
+23957c27111,27112
+< stilling.
+---
+> stilling
+> .
+23970c27125,27126
+< Mayen,
+---
+> Mayen
+> ,
+23983c27139,27141
+< (2)
+---
+> (
+> 2
+> )
+23993c27151,27152
+< Mayen.
+---
+> Mayen
+> .
+24012c27171,27172
+< (pkl
+---
+> (
+> pkl
+24014c27174,27176
+< 14).
+---
+> 14
+> )
+> .
+24023c27185,27186
+< Svalbard,
+---
+> Svalbard
+> ,
+24026c27189,27190
+< 8.3.3.5.
+---
+> 8.3.3.5
+> .
+24044c27208,27209
+< Nord-Norge.
+---
+> Nord-Norge
+> .
+24060c27225,27226
+< Mayen.
+---
+> Mayen
+> .
+24084c27250,27251
+< Mayen.
+---
+> Mayen
+> .
+24093c27260,27261
+< 1983,
+---
+> 1983
+> ,
+24100c27268,27269
+< fortsatt.
+---
+> fortsatt
+> .
+24108c27277,27278
+< 1974,
+---
+> 1974
+> ,
+24116c27286,27287
+< (uten
+---
+> (
+> uten
+24120c27291,27293
+< endret).
+---
+> endret
+> )
+> .
+24128c27301,27302
+< firemilsgrensen.
+---
+> firemilsgrensen
+> .
+24147c27321,27322
+< (§
+---
+> (
+> §
+24150c27325,27327
+< ledd).
+---
+> ledd
+> )
+> .
+24155,24156c27332,27335
+< bergverksdrift,
+< oljevirksomhet,
+---
+> bergverksdrift
+> ,
+> oljevirksomhet
+> ,
+24159c27338,27339
+< generelt,
+---
+> generelt
+> ,
+24166c27346,27347
+< transportanlegg,
+---
+> transportanlegg
+> ,
+24170c27351,27352
+< brennstofflagre.
+---
+> brennstofflagre
+> .
+24182c27364,27365
+< formål,
+---
+> formål
+> ,
+24191c27374,27375
+< observasjoner.
+---
+> observasjoner
+> .
+24201c27385,27386
+< utenfor.
+---
+> utenfor
+> .
+24216c27401,27402
+< (§
+---
+> (
+> §
+24219c27405,27407
+< ledd).
+---
+> ledd
+> )
+> .
+24224c27412,27413
+< til,
+---
+> til
+> ,
+24230c27419,27420
+< brukt.
+---
+> brukt
+> .
+24238c27428,27429
+< 1,
+---
+> 1
+> ,
+24243c27434,27435
+< fylkesmannen.
+---
+> fylkesmannen
+> .
+24253c27445,27446
+< iverksetting.
+---
+> iverksetting
+> .
+24261c27454,27455
+< (§
+---
+> (
+> §
+24266c27460,27461
+< punktum,
+---
+> punktum
+> ,
+24272c27467,27469
+< ledd).
+---
+> ledd
+> )
+> .
+24293c27490,27491
+< (§
+---
+> (
+> §
+24296c27494,27496
+< ledd),
+---
+> ledd
+> )
+> ,
+24302c27502,27503
+< (§
+---
+> (
+> §
+24305c27506,27508
+< ledd).
+---
+> ledd
+> )
+> .
+24322c27525,27526
+< godkjenning.
+---
+> godkjenning
+> .
+24343c27547,27548
+< virksomheten,
+---
+> virksomheten
+> ,
+24354c27559,27560
+< (§
+---
+> (
+> §
+24357c27563,27565
+< ledd).
+---
+> ledd
+> )
+> .
+24361c27569,27570
+< opphører,
+---
+> opphører
+> ,
+24372,24373c27581,27585
+< (§
+< 5).
+---
+> (
+> §
+> 5
+> )
+> .
+24381c27593,27594
+< (§
+---
+> (
+> §
+24384c27597,27599
+< ledd).
+---
+> ledd
+> )
+> .
+24393c27608,27609
+< naturen,
+---
+> naturen
+> ,
+24410,24411c27626,27629
+< grunnen,
+< luften,
+---
+> grunnen
+> ,
+> luften
+> ,
+24422c27640,27641
+< Mayen,
+---
+> Mayen
+> ,
+24434c27653,27654
+< (§
+---
+> (
+> §
+24437c27657,27659
+< ledd).
+---
+> ledd
+> )
+> .
+24444c27666,27667
+< (for
+---
+> (
+> for
+24449c27672,27674
+< luftfartøy),
+---
+> luftfartøy
+> )
+> ,
+24454c27679,27680
+< ledd.
+---
+> ledd
+> .
+24472c27698,27699
+< (forskrift
+---
+> (
+> forskrift
+24480c27707,27709
+< Mayen),
+---
+> Mayen
+> )
+> ,
+24486c27715,27716
+< naturinngrepsforskriften.
+---
+> naturinngrepsforskriften
+> .
+24493c27723,27724
+< måte.
+---
+> måte
+> .
+24513c27744,27745
+< Mayen,
+---
+> Mayen
+> ,
+24521c27753,27754
+< Mayen.
+---
+> Mayen
+> .
+24530c27763,27764
+< (§
+---
+> (
+> §
+24533c27767,27769
+< ledd).
+---
+> ledd
+> )
+> .
+24538c27774,27775
+< fugler,
+---
+> fugler
+> ,
+24541c27778,27779
+< sjøpattedyr,
+---
+> sjøpattedyr
+> ,
+24548,24549c27786,27790
+< (§
+< 2).
+---
+> (
+> §
+> 2
+> )
+> .
+24559c27800,27801
+< hval,
+---
+> hval
+> ,
+24568c27810,27811
+< (§
+---
+> (
+> §
+24571c27814,27816
+< ledd).
+---
+> ledd
+> )
+> .
+24576c27821,27822
+< laks,
+---
+> laks
+> ,
+24580c27826,27827
+< (både
+---
+> (
+> både
+24584c27831,27833
+< røye).
+---
+> røye
+> )
+> .
+24593c27842,27843
+< artsrikdom,
+---
+> artsrikdom
+> ,
+24605c27855,27856
+< (den
+---
+> (
+> den
+24609c27860,27862
+< artsnivå),
+---
+> artsnivå
+> )
+> ,
+24621,24622c27874,27878
+< (§
+< 1).
+---
+> (
+> §
+> 1
+> )
+> .
+24629c27885,27886
+< fredningsprinsipp,
+---
+> fredningsprinsipp
+> ,
+24646,24650c27903,27913
+< (§
+< 4).
+< Isbjørn,
+< polarrev,
+< lomvi,
+---
+> (
+> §
+> 4
+> )
+> .
+> Isbjørn
+> ,
+> polarrev
+> ,
+> lomvi
+> ,
+24654c27917,27918
+< (om
+---
+> (
+> om
+24656c27920,27921
+< forekommer)
+---
+> forekommer
+> )
+24658c27923,27924
+< totalfredet.
+---
+> totalfredet
+> .
+24680,24681c27946,27950
+< (§
+< 5).
+---
+> (
+> §
+> 5
+> )
+> .
+24690,24691c27959,27965
+< (§§
+< 7-8).
+---
+> (
+> §§
+> 7
+> -
+> 8
+> )
+> .
+24702,24703c27976,27980
+< juli-10
+< august,
+---
+> juli
+> -
+> 10
+> august
+> ,
+24712,24713c27989,27995
+< (§§
+< 9-10).
+---
+> (
+> §§
+> 9
+> -
+> 10
+> )
+> .
+24728,24729c28010,28016
+< (§§
+< 11-13).
+---
+> (
+> §§
+> 11
+> -
+> 13
+> )
+> .
+24738c28025,28026
+< (§
+---
+> (
+> §
+24741c28029,28031
+< ledd).
+---
+> ledd
+> )
+> .
+24754c28044,28045
+< støy,
+---
+> støy
+> ,
+24770c28061,28062
+< båndtvang.
+---
+> båndtvang
+> .
+24792c28084,28085
+< (§
+---
+> (
+> §
+24795c28088,28090
+< ledd).
+---
+> ledd
+> )
+> .
+24812c28107,28108
+< vårmånedene,
+---
+> vårmånedene
+> ,
+24826c28122,28123
+< erstatning.
+---
+> erstatning
+> .
+24836,24837c28133,28137
+< (§
+< 17).
+---
+> (
+> §
+> 17
+> )
+> .
+24847c28147,28148
+< polarrev.
+---
+> polarrev
+> .
+24856c28157,28158
+< utføre,
+---
+> utføre
+> ,
+24865c28167,28168
+< (forskrift
+---
+> (
+> forskrift
+24868c28171,28172
+< 1939,
+---
+> 1939
+> ,
+24881c28185,28186
+< rev,
+---
+> rev
+> ,
+24894c28199,28201
+< Mayen).
+---
+> Mayen
+> )
+> .
+24908c28215,28216
+< Mayen,
+---
+> Mayen
+> ,
+24914c28222,28223
+< Svalbard.
+---
+> Svalbard
+> .
+24921c28230,28231
+< kulturminner.
+---
+> kulturminner
+> .
+24930c28240,28241
+< (§
+---
+> (
+> §
+24934c28245,28247
+< 1).
+---
+> 1
+> )
+> .
+24949c28262,28263
+< 1926.
+---
+> 1926
+> .
+24960c28274,28275
+< til,
+---
+> til
+> ,
+24969c28284,28285
+< 3.
+---
+> 3
+> .
+24987,24988c28303,28307
+< (§
+< 6),
+---
+> (
+> §
+> 6
+> )
+> ,
+24995c28314,28315
+< berørt,
+---
+> berørt
+> ,
+25006,25007c28326,28330
+< (§
+< 5).
+---
+> (
+> §
+> 5
+> )
+> .
+25033,25034c28356,28360
+< (§
+< 9),
+---
+> (
+> §
+> 9
+> )
+> ,
+25046c28372,28373
+< kulturminner.
+---
+> kulturminner
+> .
+25056,25057c28383,28387
+< (§
+< 11),
+---
+> (
+> §
+> 11
+> )
+> ,
+25075c28405,28406
+< fastlandet.
+---
+> fastlandet
+> .
+25078c28409,28411
+< (rekved)
+---
+> (
+> rekved
+> )
+25090c28423,28424
+< (forskrift
+---
+> (
+> forskrift
+25093c28427,28429
+< 1931).
+---
+> 1931
+> )
+> .
+25096c28432,28433
+< (lov
+---
+> (
+> lov
+25104c28441,28442
+< m.v.)
+---
+> m.v.
+> )
+25111c28449,28450
+< (jf
+---
+> (
+> jf
+25118c28457,28459
+< a).
+---
+> a
+> )
+> .
+25126c28467,28468
+< fangst,
+---
+> fangst
+> ,
+25137c28479,28480
+< fisken.
+---
+> fisken
+> .
+25158c28501,28502
+< (jf
+---
+> (
+> jf
+25162c28506,28508
+< ledd).
+---
+> ledd
+> )
+> .
+25191c28537,28538
+< (jf
+---
+> (
+> jf
+25205c28552,28554
+< Mayen).
+---
+> Mayen
+> )
+> .
+25212c28561,28562
+< (unntatt
+---
+> (
+> unntatt
+25214c28564,28566
+< laksefisk).
+---
+> laksefisk
+> )
+> .
+25221c28573,28574
+< bløtdyr,
+---
+> bløtdyr
+> ,
+25235c28588,28589
+< Mayen.
+---
+> Mayen
+> .
+25247c28601,28602
+< hvalfangst,
+---
+> hvalfangst
+> ,
+25258c28613,28614
+< viltforskriften.
+---
+> viltforskriften
+> .
+25271c28627,28628
+< generelt,
+---
+> generelt
+> ,
+25283c28640,28641
+< (se
+---
+> (
+> se
+25285c28643,28644
+< 2,
+---
+> 2
+> ,
+25295c28654,28656
+< o).
+---
+> o
+> )
+> .
+25313c28674,28675
+< (§
+---
+> (
+> §
+25316c28678,28680
+< ledd).
+---
+> ledd
+> )
+> .
+25328c28692,28693
+< forskrift,
+---
+> forskrift
+> ,
+25347c28712,28713
+< der.
+---
+> der
+> .
+25361c28727,28728
+< interesse.
+---
+> interesse
+> .
+25379c28746,28747
+< stoffer,
+---
+> stoffer
+> ,
+25385c28753,28754
+< begrenset.
+---
+> begrenset
+> .
+25392c28761,28762
+< Norge,
+---
+> Norge
+> ,
+25406c28776,28777
+< forhold.
+---
+> forhold
+> .
+25414c28785,28786
+< sted.
+---
+> sted
+> .
+25425c28797,28798
+< begrenset,
+---
+> begrenset
+> ,
+25431c28804,28805
+< året,
+---
+> året
+> ,
+25443c28817,28818
+< værtjenesten.
+---
+> værtjenesten
+> .
+25459c28834,28835
+< (jf
+---
+> (
+> jf
+25468c28844,28848
+< (Botten-saken)).
+---
+> (
+> Botten-saken
+> )
+> )
+> .
+25492c28872,28873
+< Mayen.
+---
+> Mayen
+> .
+25509c28890,28891
+< tilgjengelighet.
+---
+> tilgjengelighet
+> .
+25514c28896,28897
+< aktivitetsnivå,
+---
+> aktivitetsnivå
+> ,
+25523c28906,28907
+< Mayen.
+---
+> Mayen
+> .
+25531c28915,28916
+< familiesamfunn,
+---
+> familiesamfunn
+> ,
+25547c28932,28933
+< Mayen.
+---
+> Mayen
+> .
+25561c28947,28948
+< aktivitet,
+---
+> aktivitet
+> ,
+25568c28955,28956
+< Svalbardtraktaten.
+---
+> Svalbardtraktaten
+> .
+25573c28961,28962
+< forhold,
+---
+> forhold
+> ,
+25578c28967,28968
+< ferskvann,
+---
+> ferskvann
+> ,
+25592c28982,28983
+< Svalbard.
+---
+> Svalbard
+> .
+25627c29018,29019
+< forskrift.
+---
+> forskrift
+> .
+25647c29039,29040
+< forskrift.
+---
+> forskrift
+> .
+25660c29053,29054
+< retten,
+---
+> retten
+> ,
+25672c29066,29067
+< «Queen
+---
+> «
+> Queen
+25674c29069,29071
+< 2»,
+---
+> 2
+> »
+> ,
+25681,25682c29078,29081
+< Ålesund.
+< Rettssak.
+---
+> Ålesund
+> .
+> Rettssak
+> .
+25685c29084,29085
+< tiltalte,
+---
+> tiltalte
+> ,
+25689c29089,29090
+< Serbia,
+---
+> Serbia
+> ,
+25692c29093,29094
+< fornærma,
+---
+> fornærma
+> ,
+25696c29098,29099
+< Storbritannia,
+---
+> Storbritannia
+> ,
+25702c29105,29106
+< cruiseskipet.
+---
+> cruiseskipet
+> .
+25710c29114,29115
+< tiltalen.
+---
+> tiltalen
+> .
+25720c29125,29126
+< kvinna,
+---
+> kvinna
+> ,
+25725c29131,29132
+< straffskyld,
+---
+> straffskyld
+> ,
+25730c29137,29138
+< Sperre.
+---
+> Sperre
+> .
+25740c29148,29149
+< «Queen
+---
+> «
+> Queen
+25742c29151,29152
+< 2»
+---
+> 2
+> »
+25753c29163,29164
+< mai,
+---
+> mai
+> ,
+25760c29171,29172
+< Ålesund.
+---
+> Ålesund
+> .
+25767c29179,29180
+< skipet.
+---
+> skipet
+> .
+25777c29190,29191
+< seg,
+---
+> seg
+> ,
+25787c29201,29202
+< henne.
+---
+> henne
+> .
+25793c29208,29209
+< pågrepet,
+---
+> pågrepet
+> ,
+25798c29214,29215
+< varetektsfengslet,
+---
+> varetektsfengslet
+> ,
+25802c29219,29220
+< Nogva,
+---
+> Nogva
+> ,
+25810c29228,29229
+< mannen.
+---
+> mannen
+> .
+25823c29242,29243
+< tingrett.
+---
+> tingrett
+> .
+25833c29253,29254
+< nasjonalitet,
+---
+> nasjonalitet
+> ,
+25850c29271,29272
+< engelsk.
+---
+> engelsk
+> .
+25866c29288,29289
+< retten,
+---
+> retten
+> ,
+25882c29305,29306
+< domfellelse.
+---
+> domfellelse
+> .
+25891c29315,29316
+< fingeravtrykk.
+---
+> fingeravtrykk
+> .
+25912c29337,29338
+< forbrytelse,
+---
+> forbrytelse
+> ,
+25914c29340,29341
+< Sperre.
+---
+> Sperre
+> .
+25931c29358,29359
+< bevisene.
+---
+> bevisene
+> .
+25953c29381,29382
+< bedrifter.
+---
+> bedrifter
+> .
+25971c29400,29401
+< næringer.
+---
+> næringer
+> .
+25991c29421,29422
+< løsninger.
+---
+> løsninger
+> .
+26014c29445,29446
+< bedrifter.
+---
+> bedrifter
+> .
+26044c29476,29477
+< distriktspolitikk.
+---
+> distriktspolitikk
+> .
+26060c29493,29494
+< næring,
+---
+> næring
+> ,
+26068c29502,29503
+< vekst,
+---
+> vekst
+> ,
+26074c29509,29510
+< lokalsamfunn.
+---
+> lokalsamfunn
+> .
+26093c29529,29530
+< endring.
+---
+> endring
+> .
+26108c29545,29546
+< lokalsamfunn.
+---
+> lokalsamfunn
+> .
+26136c29574,29575
+< Tafjord.
+---
+> Tafjord
+> .
+26151c29590,29591
+< Grotli.
+---
+> Grotli
+> .
+26169c29609,29610
+< røres.
+---
+> røres
+> .
+26176c29617,29618
+< Tafjord?
+---
+> Tafjord
+> ?
+26187c29629,29630
+< hen.
+---
+> hen
+> .
+26196c29639,29640
+< bygda.
+---
+> bygda
+> .
+26208c29652,29653
+< år.
+---
+> år
+> .
+26217c29662,29663
+< her.
+---
+> her
+> .
+26228c29674,29675
+< Tafjord,
+---
+> Tafjord
+> ,
+26241c29688,29689
+< prosent.
+---
+> prosent
+> .
+26253c29701,29702
+< Tafjord.
+---
+> Tafjord
+> .
+26257c29706,29707
+< seg,
+---
+> seg
+> ,
+26266c29716,29717
+< her.
+---
+> her
+> .
+26288c29739,29740
+< Tafjord.
+---
+> Tafjord
+> .
+26315c29767,29768
+< bygda?
+---
+> bygda
+> ?
+26322c29775,29776
+< kroppen.
+---
+> kroppen
+> .
+26331c29785,29786
+< barn.
+---
+> barn
+> .
+26338c29793,29794
+< elever.
+---
+> elever
+> .
+26363c29819,29820
+< Norddal.
+---
+> Norddal
+> .
+26380c29837,29838
+< Tafjord.
+---
+> Tafjord
+> .
+26403c29861,29862
+< bygda.
+---
+> bygda
+> .
+26418c29877,29878
+< Tafjordfjella.
+---
+> Tafjordfjella
+> .
+26430c29890,29891
+< saken.
+---
+> saken
+> .
+26444c29905,29906
+< saken.
+---
+> saken
+> .
+26467c29929,29930
+< Tafjord.
+---
+> Tafjord
+> .
+26486c29949,29950
+< med.
+---
+> med
+> .
+26498c29962,29963
+< tunnel,
+---
+> tunnel
+> ,
+26517c29982,29983
+< året.
+---
+> året
+> .
+26529c29995,29996
+< være!
+---
+> være
+> !
+26538c30005,30006
+< Grotli.
+---
+> Grotli
+> .
+26548c30016,30017
+< Norddal.
+---
+> Norddal
+> .
+26555c30024,30025
+< Tafjord.
+---
+> Tafjord
+> .
+26562c30032,30033
+< skapt.
+---
+> skapt
+> .
+26566c30037,30038
+< Tafjord,
+---
+> Tafjord
+> ,
+26570,26571c30042,30045
+< Fjørå,
+< Valldal,
+---
+> Fjørå
+> ,
+> Valldal
+> ,
+26574c30048,30049
+< Eidsdal.
+---
+> Eidsdal
+> .
+26581c30056,30057
+< hatt.
+---
+> hatt
+> .
+26583c30059,30060
+< rundt!
+---
+> rundt
+> !
+26595c30072,30073
+< ned,
+---
+> ned
+> ,
+26608,26609c30086,30089
+< jeg:
+< "Vi
+---
+> jeg
+> :
+> "
+> Vi
+26622c30102,30104
+< fjellet!"
+---
+> fjellet
+> !
+> "
+26633c30115,30116
+< parter,
+---
+> parter
+> ,
+26648c30131,30132
+< til.
+---
+> til
+> .
+26659c30143,30144
+< kommune:
+---
+> kommune
+> :
+26661c30146,30147
+< på!
+---
+> på
+> !
+26677c30163,30164
+< vest.
+---
+> vest
+> .
+26684c30171,30172
+< vei!
+---
+> vei
+> !
+26697c30185,30186
+< tunnel!
+---
+> tunnel
+> !
+26711c30200,30201
+< valgkampen.
+---
+> valgkampen
+> .
+26728c30218,30219
+< Romsdal.
+---
+> Romsdal
+> .
+26734c30225,30226
+< sikre.
+---
+> sikre
+> .
+26760c30252,30253
+< det.
+---
+> det
+> .
+26772c30265,30266
+< nå,
+---
+> nå
+> ,
+26780c30274,30275
+< gasskraftverk,
+---
+> gasskraftverk
+> ,
+26786c30281,30282
+< energikilder,
+---
+> energikilder
+> ,
+26793c30289,30290
+< vente,
+---
+> vente
+> ,
+26799c30296,30297
+< nå.
+---
+> nå
+> .
+26806c30304,30305
+< stilling.
+---
+> stilling
+> .
+26811c30310,30311
+< velgerne.
+---
+> velgerne
+> .
+26817c30317,30318
+< delt.
+---
+> delt
+> .
+26824c30325,30326
+< inntekt,
+---
+> inntekt
+> ,
+26832c30334,30335
+< gasskraftsaken.
+---
+> gasskraftsaken
+> .
+26836c30339,30340
+< oi!
+---
+> oi
+> !
+26840c30344,30345
+< glad!
+---
+> glad
+> !
+26844c30349,30350
+< Jacobsen.
+---
+> Jacobsen
+> .
+26868c30374,30375
+< CO2-håndtering,
+---
+> CO2-håndtering
+> ,
+26885c30392,30393
+< Lange-gassen.
+---
+> Lange-gassen
+> .
+26901c30409,30410
+< Fræna,
+---
+> Fræna
+> ,
+26907c30416,30417
+< ja-standpunkt.
+---
+> ja-standpunkt
+> .
+26923c30433,30434
+< CO2-håndtering.
+---
+> CO2-håndtering
+> .
+26932c30443,30444
+< til.
+---
+> til
+> .
+26936c30448,30449
+< lykkes,
+---
+> lykkes
+> ,
+26941c30454,30455
+< det.
+---
+> det
+> .
+26945c30459,30460
+< dem.
+---
+> dem
+> .
+26958c30473,30474
+< Romsdal?
+---
+> Romsdal
+> ?
+26960c30476,30477
+< Nei.
+---
+> Nei
+> .
+26965c30482,30483
+< renseteknologi.
+---
+> renseteknologi
+> .
+26974c30492,30493
+< milliarder,
+---
+> milliarder
+> ,
+26976c30495,30496
+< millioner,
+---
+> millioner
+> ,
+26981c30501,30502
+< energikilder.
+---
+> energikilder
+> .
+26992c30513,30514
+< standpunkt.
+---
+> standpunkt
+> .
+27001c30523,30524
+< politikk;
+---
+> politikk
+> ;
+27009c30532,30533
+< på.
+---
+> på
+> .
+27012c30536,30537
+< folkeopplysning,
+---
+> folkeopplysning
+> ,
+27023c30548,30549
+< timen.
+---
+> timen
+> .
+27029c30555,30556
+< vårt,
+---
+> vårt
+> ,
+27033c30560,30561
+< gledelig,
+---
+> gledelig
+> ,
+27035c30563,30564
+< Jacobsen.
+---
+> Jacobsen
+> .
+27047c30576,30578
+< (H)
+---
+> (
+> H
+> )
+27052c30583,30584
+< gasskraft:
+---
+> gasskraft
+> :
+27057c30589,30590
+< nå,
+---
+> nå
+> ,
+27060c30593,30594
+< teknologi,
+---
+> teknologi
+> ,
+27070c30604,30605
+< parallelt.
+---
+> parallelt
+> .
+27080c30615,30616
+< stor?
+---
+> stor
+> ?
+27082c30618,30619
+< Nei,
+---
+> Nei
+> ,
+27090c30627,30628
+< meningsmålingen.
+---
+> meningsmålingen
+> .
+27118c30656,30657
+< år.
+---
+> år
+> .
+27122c30661,30662
+< ikke.
+---
+> ikke
+> .
+27126c30666,30667
+< folkeopplysning,
+---
+> folkeopplysning
+> ,
+27130c30671,30672
+< side,
+---
+> side
+> ,
+27133c30675,30676
+< ord.
+---
+> ord
+> .
+27135c30678,30679
+< Vindkraft,
+---
+> Vindkraft
+> ,
+27140c30684,30685
+< ukontroversielt,
+---
+> ukontroversielt
+> ,
+27145c30690,30691
+< energi.
+---
+> energi
+> .
+27160c30706,30707
+< Romsdal.
+---
+> Romsdal
+> .
+27165c30712,30713
+< folk.
+---
+> folk
+> .
+27179c30727,30730
+< «forurensende».
+---
+> «
+> forurensende
+> »
+> .
+27183c30734,30735
+< riktig.
+---
+> riktig
+> .
+27204c30756,30757
+< Europa,
+---
+> Europa
+> ,
+27206c30759,30760
+< Løvik.
+---
+> Løvik
+> .
+27210c30764,30767
+< (A),
+---
+> (
+> A
+> )
+> ,
+27215c30772,30773
+< gasskraftverk,
+---
+> gasskraftverk
+> ,
+27220c30778,30779
+< meningsmålingen:
+---
+> meningsmålingen
+> :
+27228c30787,30788
+< tall.
+---
+> tall
+> .
+27237c30797,30798
+< større.
+---
+> større
+> .
+27253c30814,30815
+< i.
+---
+> i
+> .
+27265c30827,30828
+< gasskraftverk.
+---
+> gasskraftverk
+> .
+27288c30851,30852
+< bruk,
+---
+> bruk
+> ,
+27291c30855,30856
+< Orheim.
+---
+> Orheim
+> .
+27307c30872,30873
+< gasskraft.
+---
+> gasskraft
+> .
+27318c30884,30885
+< nå,
+---
+> nå
+> ,
+27329c30896,30897
+< standpunkt.
+---
+> standpunkt
+> .
+27331c30899,30900
+< er,
+---
+> er
+> ,
+27334c30903,30904
+< overraskende,
+---
+> overraskende
+> ,
+27339c30909,30910
+< velgerne,
+---
+> velgerne
+> ,
+27344c30915,30916
+< partitilhørighet.
+---
+> partitilhørighet
+> .
+27351c30923,30924
+< gassvennlige.
+---
+> gassvennlige
+> .
+27366c30939,30940
+< nå.
+---
+> nå
+> .
+27378c30952,30953
+< FrP-velgerne.
+---
+> FrP-velgerne
+> .
+27385c30960,30961
+< SV.
+---
+> SV
+> .
+27400c30976,30977
+< teknologi.
+---
+> teknologi
+> .
+27417c30994,30995
+< heller,
+---
+> heller
+> ,
+27426c31004,31005
+< linje.
+---
+> linje
+> .
+27442c31021,31022
+< store.
+---
+> store
+> .
+27448c31028,31029
+< seg?
+---
+> seg
+> ?
+27462c31043,31044
+< verdisaker.
+---
+> verdisaker
+> .
+27475c31057,31058
+< betyr.
+---
+> betyr
+> .
+27498c31081,31082
+< denne.
+---
+> denne
+> .
+27514c31098,31099
+< holdninger.
+---
+> holdninger
+> .
+27524c31109,31110
+< intolerante,
+---
+> intolerante
+> ,
+27534c31120,31121
+< disse.
+---
+> disse
+> .
+27553c31140,31141
+< ha.
+---
+> ha
+> .
+27568c31156,31157
+< Dagbladet,
+---
+> Dagbladet
+> ,
+27574c31163,31164
+< Høybråten,
+---
+> Høybråten
+> ,
+27585c31175,31176
+< holdninger.
+---
+> holdninger
+> .
+27601c31192,31193
+< «trangere
+---
+> «
+> trangere
+27603c31195,31197
+< tristere».
+---
+> tristere
+> »
+> .
+27611c31205,31207
+< «mislykket»
+---
+> «
+> mislykket
+> »
+27613c31209,31212
+< «mindreverdige».
+---
+> «
+> mindreverdige
+> »
+> .
+27619c31218,31221
+< «krympe»,
+---
+> «
+> krympe
+> »
+> ,
+27624,27626c31226,31231
+< «sære
+< sekter»
+< (aktive
+---
+> «
+> sære
+> sekter
+> »
+> (
+> aktive
+27629c31234,31235
+< bedehus,
+---
+> bedehus
+> ,
+27632c31238,31240
+< statskirken).
+---
+> statskirken
+> )
+> .
+27637c31245,31247
+< «fordømmende»
+---
+> «
+> fordømmende
+> »
+27640,27642c31250,31256
+< «kynisk
+< «med
+< fordommer».
+---
+> «
+> kynisk
+> «
+> med
+> fordommer
+> »
+> .
+27649c31263,31264
+< Halvorsen.
+---
+> Halvorsen
+> .
+27662c31277,31278
+< friskoler,
+---
+> friskoler
+> ,
+27665c31281,31282
+< kristne.
+---
+> kristne
+> .
+27674c31291,31292
+< venstresidens.
+---
+> venstresidens
+> .
+27678,27679c31296,31300
+< «ideologisk
+< reaksjonære»,
+---
+> «
+> ideologisk
+> reaksjonære
+> »
+> ,
+27686c31307,31308
+< «menneskerettighetene
+---
+> «
+> menneskerettighetene
+27689c31311,31313
+< trosoppfatninger».
+---
+> trosoppfatninger
+> »
+> .
+27693c31317,31319
+< «flerkulturell,
+---
+> «
+> flerkulturell
+> ,
+27695c31321,31322
+< rettstat»
+---
+> rettstat
+> »
+27700c31327,31328
+< friskoler.
+---
+> friskoler
+> .
+27705c31333,31334
+< «mennesker
+---
+> «
+> mennesker
+27710c31339,31341
+< mishandlet».
+---
+> mishandlet
+> »
+> .
+27720c31351,31352
+< «indoktrinering
+---
+> «
+> indoktrinering
+27725c31357,31359
+< mennesker».
+---
+> mennesker
+> »
+> .
+27738c31372,31374
+< «samfunnsproblem»
+---
+> «
+> samfunnsproblem
+> »
+27740c31376,31377
+< friskoler.
+---
+> friskoler
+> .
+27765c31402,31403
+< ønske.
+---
+> ønske
+> .
+27769c31407,31408
+< forbys.
+---
+> forbys
+> .
+27780c31419,31420
+< livssyn?
+---
+> livssyn
+> ?
+27796c31436,31437
+< selv?
+---
+> selv
+> ?
+27814c31455,31456
+< selv?
+---
+> selv
+> ?
+27831c31473,31474
+< barn?
+---
+> barn
+> ?
+27836c31479,31480
+< toleranse,
+---
+> toleranse
+> ,
+27843c31487,31488
+< mangfoldet?
+---
+> mangfoldet
+> ?
+27858c31503,31504
+< selv,
+---
+> selv
+> ,
+27866c31512,31513
+< poeng.
+---
+> poeng
+> .
+27874c31521,31522
+< meninger,
+---
+> meninger
+> ,
+27882c31530,31531
+< litt.
+---
+> litt
+> .
+27890c31539,31540
+< holdninger.
+---
+> holdninger
+> .
+27916c31566,31567
+< velgere.
+---
+> velgere
+> .
+27933c31584,31585
+< Sp.
+---
+> Sp
+> .
+27960c31612,31613
+< Frp.
+---
+> Frp
+> .
+27967c31620,31621
+< sjefen,
+---
+> sjefen
+> ,
+27969c31623,31624
+< Stoltenberg.
+---
+> Stoltenberg
+> .
+27984c31639,31640
+< gasskraftverk.
+---
+> gasskraftverk
+> .
+27994c31650,31651
+< usikkerhet,
+---
+> usikkerhet
+> ,
+28001c31658,31659
+< partiene.
+---
+> partiene
+> .
+28011c31669,31670
+< om?
+---
+> om
+> ?
+28014c31673,31674
+< grønnsaker?
+---
+> grønnsaker
+> ?
+28043c31703,31704
+< skole.
+---
+> skole
+> .
+28050c31711,31712
+< skolen,
+---
+> skolen
+> ,
+28055c31717,31718
+< skoledag.
+---
+> skoledag
+> .
+28062c31725,31726
+< om,
+---
+> om
+> ,
+28072c31736,31737
+< gjør.
+---
+> gjør
+> .
+28079c31744,31745
+< nå.
+---
+> nå
+> .
+28089c31755,31756
+< elever,
+---
+> elever
+> ,
+28091c31758,31759
+< bakgrunn,
+---
+> bakgrunn
+> ,
+28094c31762,31763
+< lese,
+---
+> lese
+> ,
+28110c31779,31780
+< livet.
+---
+> livet
+> .
+28118c31788,31789
+< kompetanse,
+---
+> kompetanse
+> ,
+28120c31791,31792
+< kalorier.
+---
+> kalorier
+> .
+28128c31800,31801
+< friskoleloven.
+---
+> friskoleloven
+> .
+28135c31808,31809
+< elevene.
+---
+> elevene
+> .
+28150c31824,31825
+< skolen,
+---
+> skolen
+> ,
+28156c31831,31832
+< går.
+---
+> går
+> .
+28163c31839,31840
+< 2006.
+---
+> 2006
+> .
+28169c31846,31847
+< Ap,
+---
+> Ap
+> ,
+28174c31852,31853
+< valget?
+---
+> valget
+> ?
+28187c31866,31867
+< Kunnskapsløftet,
+---
+> Kunnskapsløftet
+> ,
+28189c31869,31870
+< læreplanene,
+---
+> læreplanene
+> ,
+28198c31879,31880
+< lærerutdanningen.
+---
+> lærerutdanningen
+> .
+28209c31891,31892
+< prøvene,
+---
+> prøvene
+> ,
+28211c31894,31895
+< fremmedspråk,
+---
+> fremmedspråk
+> ,
+28216,28217c31900,31903
+< skolen,
+< karakterer,
+---
+> skolen
+> ,
+> karakterer
+> ,
+28227c31913,31914
+< noe.
+---
+> noe
+> .
+28238c31925,31926
+< røde?
+---
+> røde
+> ?
+28248c31936,31937
+< Ap,
+---
+> Ap
+> ,
+28252c31941,31942
+< svarer.
+---
+> svarer
+> .
+28259c31949,31951
+< gjort.Regjeringen
+---
+> gjort
+> .
+> Regjeringen
+28265c31957,31958
+< perioden,
+---
+> perioden
+> ,
+28275c31968,31969
+< effektivisering.
+---
+> effektivisering
+> .
+28280c31974,31975
+< liv,
+---
+> liv
+> ,
+28290c31985,31986
+< livsutfoldelse.
+---
+> livsutfoldelse
+> .
+28304c32000,32001
+< oppgaver.
+---
+> oppgaver
+> .
+28310c32007,32008
+< bekjempes.
+---
+> bekjempes
+> .
+28315c32013,32014
+< forbedres.
+---
+> forbedres
+> .
+28327c32026,32027
+< dette.
+---
+> dette
+> .
+28342c32042,32043
+< utvikling.
+---
+> utvikling
+> .
+28346c32047,32048
+< mangfold,
+---
+> mangfold
+> ,
+28356c32058,32059
+< forsterkes.
+---
+> forsterkes
+> .
+28359c32062,32063
+< naturvern,
+---
+> naturvern
+> ,
+28366c32070,32071
+< områder.
+---
+> områder
+> .
+28376c32081,32082
+< organisasjoner,
+---
+> organisasjoner
+> ,
+28379c32085,32086
+< næringsliv.
+---
+> næringsliv
+> .
+28396c32103,32104
+< 2005.
+---
+> 2005
+> .
+28406c32114,32115
+< tiltak.
+---
+> tiltak
+> .
+28413c32122,32123
+< framskyndes.
+---
+> framskyndes
+> .
+28420c32130,32131
+< energipolitikk,
+---
+> energipolitikk
+> ,
+28443c32154,32155
+< vindkraft.
+---
+> vindkraft
+> .
+28448c32160,32161
+< energisparing.
+---
+> energisparing
+> .
+28452c32165,32166
+< gasskraftverk,
+---
+> gasskraftverk
+> ,
+28470c32184,32185
+< gasskraftverk.
+---
+> gasskraftverk
+> .
+28472c32187,32188
+< forskning,
+---
+> forskning
+> ,
+28476c32192,32193
+< industrien,
+---
+> industrien
+> ,
+28479c32196,32198
+< «startpakke»
+---
+> «
+> startpakke
+> »
+28496c32215,32216
+< sentralt.
+---
+> sentralt
+> .
+28505c32225,32226
+< kvoter,
+---
+> kvoter
+> ,
+28517c32238,32239
+< teknologi.
+---
+> teknologi
+> .
+28525c32247,32248
+< sårbare.
+---
+> sårbare
+> .
+28535c32258,32259
+< Barentshavet.
+---
+> Barentshavet
+> .
+28547c32271,32272
+< alle,
+---
+> alle
+> ,
+28549c32274,32275
+< verdiskaping,
+---
+> verdiskaping
+> ,
+28552c32278,32279
+< velferdssamfunnet,
+---
+> velferdssamfunnet
+> ,
+28557c32284,32285
+< utvikling.
+---
+> utvikling
+> .
+28569c32297,32298
+< målene.
+---
+> målene
+> .
+28578c32307,32308
+< eierskapspolitikk.
+---
+> eierskapspolitikk
+> .
+28594c32324,32325
+< Norge.
+---
+> Norge
+> .
+28619c32350,32351
+< eierskap.
+---
+> eierskap
+> .
+28631c32363,32364
+< arbeidskraft.
+---
+> arbeidskraft
+> .
+28645c32378,32379
+< pensjonering.
+---
+> pensjonering
+> .
+28651c32385,32386
+< opp.
+---
+> opp
+> .
+28665c32400,32401
+< jobb.
+---
+> jobb
+> .
+28683c32419,32420
+< sykefraværet.
+---
+> sykefraværet
+> .
+28693c32430,32431
+< avgiftspolitikken.
+---
+> avgiftspolitikken
+> .
+28701c32439,32440
+< skattelettelser.
+---
+> skattelettelser
+> .
+28707c32446,32447
+< det.
+---
+> det
+> .
+28710c32450,32451
+< første:
+---
+> første
+> :
+28715c32456,32457
+< arbeidsplassene.
+---
+> arbeidsplassene
+> .
+28723c32465,32466
+< investeringsprosjekter,
+---
+> investeringsprosjekter
+> ,
+28730c32473,32474
+< Norge.
+---
+> Norge
+> .
+28733c32477,32478
+< andre:
+---
+> andre
+> :
+28750c32495,32496
+< inntekt.
+---
+> inntekt
+> .
+28762c32508,32509
+< stortingsperioden.
+---
+> stortingsperioden
+> .
+28769c32516,32517
+< distriktspolitikk.
+---
+> distriktspolitikk
+> .
+28773,28774c32521,32524
+< fiskeri,
+< havbruk,
+---
+> fiskeri
+> ,
+> havbruk
+> ,
+28780c32530,32531
+< verdiskaping,
+---
+> verdiskaping
+> ,
+28788c32539,32540
+< landet.
+---
+> landet
+> .
+28801c32553,32554
+< bruk.
+---
+> bruk
+> .
+28805c32558,32559
+< gode,
+---
+> gode
+> ,
+28812c32566,32567
+< landet.
+---
+> landet
+> .
+28815c32570,32571
+< økes.
+---
+> økes
+> .
+28819c32575,32576
+< avgiftslettelser.
+---
+> avgiftslettelser
+> .
+28824c32581,32582
+< styrkes.
+---
+> styrkes
+> .
+28831c32589,32590
+< ekspressbusser.
+---
+> ekspressbusser
+> .
+28843c32602,32603
+< distrikter.
+---
+> distrikter
+> .
+28851c32611,32612
+< storbypolitikk.
+---
+> storbypolitikk
+> .
+28858c32619,32620
+< kollektivtrafikken,
+---
+> kollektivtrafikken
+> ,
+28861c32623,32624
+< storbyene.
+---
+> storbyene
+> .
+28865c32628,32629
+< kapasitet,
+---
+> kapasitet
+> ,
+28869c32633,32634
+< prisreduksjoner.
+---
+> prisreduksjoner
+> .
+28876c32641,32642
+< fiskerinasjoner.
+---
+> fiskerinasjoner
+> .
+28895c32661,32662
+< utnyttet.
+---
+> utnyttet
+> .
+28904c32671,32672
+< ressursene,
+---
+> ressursene
+> ,
+28912c32680,32681
+< ressursene,
+---
+> ressursene
+> ,
+28914c32683,32684
+< bekjempes.
+---
+> bekjempes
+> .
+28930c32700,32701
+< markedsmuligheter.
+---
+> markedsmuligheter
+> .
+28941c32712,32713
+< forbrukerne,
+---
+> forbrukerne
+> ,
+28952c32724,32725
+< reduseres.
+---
+> reduseres
+> .
+28954c32727,32728
+< vil,
+---
+> vil
+> ,
+28960c32734,32735
+< organisasjoner,
+---
+> organisasjoner
+> ,
+28966c32741,32742
+< sektor.
+---
+> sektor
+> .
+28973c32749,32750
+< serviceinnstilt.
+---
+> serviceinnstilt
+> .
+28980c32757,32758
+< kjerneoppgaver.
+---
+> kjerneoppgaver
+> .
+28989c32767,32768
+< forvaltningen.
+---
+> forvaltningen
+> .
+28996c32775,32776
+< «Et
+---
+> «
+> Et
+28998c32778,32780
+< Norge».
+---
+> Norge
+> »
+> .
+29008c32790,32791
+< varighet.
+---
+> varighet
+> .
+29016c32799,32800
+< utvides.
+---
+> utvides
+> .
+29027c32811,32812
+< tjenester.
+---
+> tjenester
+> .
+29040c32825,32826
+< reguleringssaker.
+---
+> reguleringssaker
+> .
+29042c32828,32829
+< oppheves,
+---
+> oppheves
+> ,
+29051c32838,32839
+< helligdagslovgivningen.
+---
+> helligdagslovgivningen
+> .
+29062c32850,32851
+< fylkeskommunen.
+---
+> fylkeskommunen
+> .
+29075c32864,32865
+< kulturlivet.
+---
+> kulturlivet
+> .
+29078,29079c32868,32871
+< kunst,
+< medier,
+---
+> kunst
+> ,
+> medier
+> ,
+29081,29082c32873,32876
+< organisasjoner,
+< idrett,
+---
+> organisasjoner
+> ,
+> idrett
+> ,
+29093c32887,32888
+< engasjement.
+---
+> engasjement
+> .
+29098c32893,32894
+< kulturarbeidere,
+---
+> kulturarbeidere
+> ,
+29101c32897,32898
+< institusjoner.
+---
+> institusjoner
+> .
+29116c32913,32914
+< kapital.
+---
+> kapital
+> .
+29119c32917,32918
+< kirke,
+---
+> kirke
+> ,
+29127c32926,32927
+< arbeidsvilkår.
+---
+> arbeidsvilkår
+> .
+29134c32934,32935
+< respekteres,
+---
+> respekteres
+> ,
+29147c32948,32949
+< organer.
+---
+> organer
+> .
+29168c32970,32971
+< samfunn.
+---
+> samfunn
+> .
+29176c32979,32980
+< momsreformen.
+---
+> momsreformen
+> .
+29185c32989,32990
+< utvidet.
+---
+> utvidet
+> .
+29194c32999,33000
+< rammevilkår,
+---
+> rammevilkår
+> ,
+29204c33010,33011
+< selv,
+---
+> selv
+> ,
+29211c33018,33019
+< andre.
+---
+> andre
+> .
+29221c33029,33030
+< samfunn.
+---
+> samfunn
+> .
+29233,29234c33042,33045
+< bedre.
+< Presidenten:
+---
+> bedre
+> .
+> Presidenten
+> :
+29244c33055,33056
+< møte.
+---
+> møte
+> .
+29248,29249c33060,33063
+< vedtatt.
+< Presidenten:
+---
+> vedtatt
+> .
+> Presidenten
+> :
+29251c33065,33066
+< medrepresentanter!
+---
+> medrepresentanter
+> !
+29261c33076,33077
+< døde.
+---
+> døde
+> .
+29280c33096,33097
+< år.
+---
+> år
+> .
+29290c33107,33108
+< politikere.
+---
+> politikere
+> .
+29308c33126,33127
+< 1977.
+---
+> 1977
+> .
+29320c33139,33140
+< Stortinget.
+---
+> Stortinget
+> .
+29331c33151,33152
+< år.
+---
+> år
+> .
+29348c33169,33170
+< distriktene.
+---
+> distriktene
+> .
+29360c33182,33183
+< lange,
+---
+> lange
+> ,
+29370c33193,33194
+< replikk.
+---
+> replikk
+> .
+29386c33210,33211
+< for.
+---
+> for
+> .
+29398c33223,33224
+< poenger.
+---
+> poenger
+> .
+29409c33235,33236
+< saker,
+---
+> saker
+> ,
+29419c33246,33247
+< ansvarlig.
+---
+> ansvarlig
+> .
+29424c33252,33253
+< gratis.
+---
+> gratis
+> .
+29435c33264,33265
+< kår,
+---
+> kår
+> ,
+29446,29447c33276,33279
+< tillitsvalgte:
+< stortingsrepresentant.
+---
+> tillitsvalgte
+> :
+> stortingsrepresentant
+> .
+29458c33290,33291
+< mor,
+---
+> mor
+> ,
+29473c33306,33307
+< år.
+---
+> år
+> .
+29482c33316,33317
+< til.
+---
+> til
+> .
+29497c33332,33333
+< politikk.
+---
+> politikk
+> .
+29508c33344,33345
+< Kvanmo,
+---
+> Kvanmo
+> ,
+29526c33363,33364
+< alene.
+---
+> alene
+> .
+29540c33378,33379
+< 1944,
+---
+> 1944
+> ,
+29550c33389,33390
+< falt.
+---
+> falt
+> .
+29557c33397,33398
+< landssvik,
+---
+> landssvik
+> ,
+29568c33409,33410
+< Høyesterett.
+---
+> Høyesterett
+> .
+29580c33422,33423
+< Hanna.
+---
+> Hanna
+> .
+29582c33425,33426
+< 1974,
+---
+> 1974
+> ,
+29587c33431,33432
+< stortingsrepresentant,
+---
+> stortingsrepresentant
+> ,
+29595c33440,33441
+< mediene,
+---
+> mediene
+> ,
+29608c33454,33455
+< gikk.
+---
+> gikk
+> .
+29617c33464,33465
+< stortingsrepresentant.
+---
+> stortingsrepresentant
+> .
+29633c33481,33483
+< befolkningen.Solidaritet
+---
+> befolkningen
+> .
+> Solidaritet
+29643c33493,33494
+< drivkraft.
+---
+> drivkraft
+> .
+29668c33519,33520
+< dem.
+---
+> dem
+> .
+29675c33527,33528
+< forstand,
+---
+> forstand
+> ,
+29686c33539,33540
+< landet.
+---
+> landet
+> .
+29696c33550,33551
+< politikken.
+---
+> politikken
+> .
+29718c33573,33574
+< erfaringer.
+---
+> erfaringer
+> .
+29725c33581,33582
+< barn,
+---
+> barn
+> ,
+29738c33595,33596
+< av.
+---
+> av
+> .
+29757c33615,33616
+< år.
+---
+> år
+> .
+29766c33625,33626
+< politikere.
+---
+> politikere
+> .
+29774c33634,33635
+< 1926.
+---
+> 1926
+> .
+29782c33643,33644
+< journalist.
+---
+> journalist
+> .
+29792c33654,33655
+< Orientering.
+---
+> Orientering
+> .
+29802c33665,33666
+< venstresiden.
+---
+> venstresiden
+> .
+29813c33677,33678
+< Orientering.
+---
+> Orientering
+> .
+29820c33685,33686
+< debattant,
+---
+> debattant
+> ,
+29831c33697,33698
+< politiker.
+---
+> politiker
+> .
+29844c33711,33712
+< Stortinget.
+---
+> Stortinget
+> .
+29852c33720,33721
+< Stortinget,
+---
+> Stortinget
+> ,
+29863c33732,33733
+< alene.
+---
+> alene
+> .
+29870c33740,33741
+< Oslo,
+---
+> Oslo
+> ,
+29877c33748,33749
+< partiet.
+---
+> partiet
+> .
+29890c33762,33763
+< TV-mediet.
+---
+> TV-mediet
+> .
+29898c33771,33772
+< 1963,
+---
+> 1963
+> ,
+29907c33781,33782
+< arbeiderpartiregjeringen.
+---
+> arbeiderpartiregjeringen
+> .
+29915c33790,33791
+< Gerhardsen-regjeringen.
+---
+> Gerhardsen-regjeringen
+> .
+29926c33802,33803
+< belastning.
+---
+> belastning
+> .
+29938c33815,33816
+< integritet.
+---
+> integritet
+> .
+29948c33826,33827
+< 1969.
+---
+> 1969
+> .
+29959c33838,33839
+< venstresiden,
+---
+> venstresiden
+> ,
+29962c33842,33843
+< utenriksspørsmål.
+---
+> utenriksspørsmål
+> .
+29975c33856,33857
+< tilsi.
+---
+> tilsi
+> .
+29981c33863,33864
+< atomvåpen,
+---
+> atomvåpen
+> ,
+29988c33871,33872
+< dagsordenen.
+---
+> dagsordenen
+> .
+29999c33883,33884
+< mangler,
+---
+> mangler
+> ,
+30004c33889,33890
+< på.
+---
+> på
+> .
+30016c33902,33903
+< sikkerhetspolitikk,
+---
+> sikkerhetspolitikk
+> ,
+30032c33919,33920
+< representerte,
+---
+> representerte
+> ,
+30038c33926,33927
+< landet.
+---
+> landet
+> .
+30046c33935,33936
+< seg.
+---
+> seg
+> .
+30053c33943,33944
+< nok,
+---
+> nok
+> ,
+30060c33951,33952
+< rotasjon.
+---
+> rotasjon
+> .
+30075c33967,33968
+< 1969.
+---
+> 1969
+> .
+30084c33977,33978
+< Stortinget,
+---
+> Stortinget
+> ,
+30088c33982,33983
+< Venstreparti.
+---
+> Venstreparti
+> .
+30094c33989,33990
+< 16,
+---
+> 16
+> ,
+30100c33996,33997
+< jobb.
+---
+> jobb
+> .
+30111c34008,34009
+< personligheter,
+---
+> personligheter
+> ,
+30120c34018,34019
+< partiet.
+---
+> partiet
+> .
+30153c34052,34053
+< politikk.
+---
+> politikk
+> .
+30170c34070,34071
+< Stortinget,
+---
+> Stortinget
+> ,
+30176c34077,34078
+< minne.
+---
+> minne
+> .
+30181c34083,34084
+< minnetaler.
+---
+> minnetaler
+> .
+30200c34103,34104
+< regjering.
+---
+> regjering
+> .
+30203c34107,34108
+< Arbeiderpartiet,
+---
+> Arbeiderpartiet
+> ,
+30215c34120,34121
+< flertallsregjering.
+---
+> flertallsregjering
+> .
+30220c34126,34127
+< innhold,
+---
+> innhold
+> ,
+30226c34133,34134
+< form.
+---
+> form
+> .
+30237c34145,34146
+< rettferdighet.
+---
+> rettferdighet
+> .
+30247c34156,34157
+< flertallsregjering.
+---
+> flertallsregjering
+> .
+30258c34168,34169
+< storting.
+---
+> storting
+> .
+30274c34185,34186
+< Moria.
+---
+> Moria
+> .
+30278c34190,34191
+< samfunn.
+---
+> samfunn
+> .
+30285c34198,34199
+< natur.
+---
+> natur
+> .
+30290c34204,34205
+< tradisjoner.
+---
+> tradisjoner
+> .
+30297c34212,34213
+< kompetansenivå.
+---
+> kompetansenivå
+> .
+30303c34219,34220
+< mulighetene.
+---
+> mulighetene
+> .
+30309c34226,34227
+< verdier,
+---
+> verdier
+> ,
+30314c34232,34233
+< rettferdig.
+---
+> rettferdig
+> .
+30323c34242,34243
+< dele.
+---
+> dele
+> .
+30330c34250,34251
+< dele,
+---
+> dele
+> ,
+30337c34258,34259
+< skape.
+---
+> skape
+> .
+30341c34263,34264
+< alle,
+---
+> alle
+> ,
+30357c34280,34281
+< konkurransekraft.
+---
+> konkurransekraft
+> .
+30371c34295,34296
+< verdenstoppen.
+---
+> verdenstoppen
+> .
+30377c34302,34303
+< på,
+---
+> på
+> ,
+30384c34310,34311
+< på.
+---
+> på
+> .
+30391c34318,34319
+< fast.
+---
+> fast
+> .
+30402c34330,34331
+< folkeretten.
+---
+> folkeretten
+> .
+30413c34342,34343
+< NATO,
+---
+> NATO
+> ,
+30424c34354,34355
+< EU.
+---
+> EU
+> .
+30439c34370,34371
+< verden.
+---
+> verden
+> .
+30451c34383,34384
+< miljøarbeid.
+---
+> miljøarbeid
+> .
+30457c34390,34391
+< fredsnasjon.
+---
+> fredsnasjon
+> .
+30471c34405,34406
+< landene.
+---
+> landene
+> .
+30489c34424,34425
+< perioden.
+---
+> perioden
+> .
+30505c34441,34444
+< hiv/aids.
+---
+> hiv
+> /
+> aids
+> .
+30518c34457,34458
+< sykdommene.
+---
+> sykdommene
+> .
+30528c34468,34469
+< partnerskapet.
+---
+> partnerskapet
+> .
+30536c34477,34478
+< virkemidler.
+---
+> virkemidler
+> .
+30547c34489,34490
+< Irak.
+---
+> Irak
+> .
+30555c34498,34499
+< styrkes,
+---
+> styrkes
+> ,
+30571c34515,34516
+< fornyet.
+---
+> fornyet
+> .
+30583c34528,34529
+< Forsvaret.
+---
+> Forsvaret
+> .
+30589c34535,34536
+< sikkerhetsutfordringene.
+---
+> sikkerhetsutfordringene
+> .
+30601c34548,34549
+< arbeid,
+---
+> arbeid
+> ,
+30605c34553,34554
+< Afrika.
+---
+> Afrika
+> .
+30616c34565,34566
+< kommer.
+---
+> kommer
+> .
+30637c34587,34588
+< området.
+---
+> området
+> .
+30641c34592,34593
+< miljø,
+---
+> miljø
+> ,
+30644c34596,34597
+< næringsutvikling.
+---
+> næringsutvikling
+> .
+30656c34609,34610
+< nord.
+---
+> nord
+> .
+30666c34620,34621
+< Europa.
+---
+> Europa
+> .
+30679c34634,34635
+< europapolitikk.
+---
+> europapolitikk
+> .
+30703c34659,34660
+< interesser.
+---
+> interesser
+> .
+30713c34670,34671
+< asylpolitikk,
+---
+> asylpolitikk
+> ,
+30722c34680,34681
+< grunn.
+---
+> grunn
+> .
+30740c34699,34700
+< Norge,
+---
+> Norge
+> ,
+30751c34711,34712
+< land.
+---
+> land
+> .
+30755c34716,34717
+< diskriminering,
+---
+> diskriminering
+> ,
+30780c34742,34743
+< grunnverdier.
+---
+> grunnverdier
+> .
+30794c34757,34758
+< interesser,
+---
+> interesser
+> ,
+30813c34777,34778
+< sjømatindustrien.
+---
+> sjømatindustrien
+> .
+30829c34794,34795
+< innsyn.
+---
+> innsyn
+> .
+30845c34811,34812
+< verden.
+---
+> verden
+> .
+30857c34824,34825
+< landbruk.
+---
+> landbruk
+> .
+30866c34834,34835
+< alle.
+---
+> alle
+> .
+30878c34847,34848
+< politikk.
+---
+> politikk
+> .
+30885c34855,34856
+< tiltaksplasser,
+---
+> tiltaksplasser
+> ,
+30897c34868,34869
+< langtidsledige.
+---
+> langtidsledige
+> .
+30908c34880,34881
+< alle.
+---
+> alle
+> .
+30920c34893,34894
+< arbeidsliv.
+---
+> arbeidsliv
+> .
+30935c34909,34910
+< dumping.
+---
+> dumping
+> .
+30943c34918,34919
+< jul.
+---
+> jul
+> .
+30949c34925,34926
+< sesong.
+---
+> sesong
+> .
+30953c34930,34931
+< 1000-
+---
+> 1000
+> -
+30961c34939,34940
+< frokost.
+---
+> frokost
+> .
+30964c34943,34944
+< drikke:
+---
+> drikke
+> :
+30967,30968c34947,34950
+< restaurant,
+< Koks,
+---
+> restaurant
+> ,
+> Koks
+> ,
+30974c34956,34957
+< Tórshavn.
+---
+> Tórshavn
+> .
+30978c34961,34962
+< Áarstova,
+---
+> Áarstova
+> ,
+30983c34967,34968
+< Hafnia.
+---
+> Hafnia
+> .
+30986c34971,34972
+< trivelig,
+---
+> trivelig
+> ,
+30991c34977,34978
+< Dugni,
+---
+> Dugni
+> ,
+31000c34987,34988
+< 2007.
+---
+> 2007
+> .
+31005c34993,34994
+< populært.
+---
+> populært
+> .
+31014c35003,35004
+< stedet.
+---
+> stedet
+> .
+31017c35007,35008
+< musikk:
+---
+> musikk
+> :
+31026c35017,35018
+< Færøyene.
+---
+> Færøyene
+> .
+31030c35022,35023
+< året,
+---
+> året
+> ,
+31037c35030,35031
+< Summartónar,
+---
+> Summartónar
+> ,
+31049c35043,35044
+< august.
+---
+> august
+> .
+31051c35046,35047
+< aktiviteter:
+---
+> aktiviteter
+> :
+31061c35057,35058
+< naturen.
+---
+> naturen
+> .
+31073c35070,35071
+< vanns,
+---
+> vanns
+> ,
+31080c35078,35079
+< lufta.
+---
+> lufta
+> .
+31085c35084,35085
+< rimelig.
+---
+> rimelig
+> .
+31089,31095c35089,35102
+< arrangører:
+< visitfaroeislands.com,
+< coastzone.fo,
+< atlantic.fo,
+< faroeislands.com,
+< tora.fo,
+< 62n.fo,
+---
+> arrangører
+> :
+> visitfaroeislands.com
+> ,
+> coastzone.fo
+> ,
+> atlantic.fo
+> ,
+> faroeislands.com
+> ,
+> tora.fo
+> ,
+> 62n.fo
+> ,
+31097c35104,35105
+< Shopping:
+---
+> Shopping
+> :
+31100,31103c35108,35115
+< stikkordet.
+< Gensere,
+< lue,
+< sjal,
+---
+> stikkordet
+> .
+> Gensere
+> ,
+> lue
+> ,
+> sjal
+> ,
+31110c35122,35123
+< alt.
+---
+> alt
+> .
+31125c35138,35139
+< Sirri.
+---
+> Sirri
+> .
+31131c35145,35146
+< Les:
+---
+> Les
+> :
+31135c35150,35151
+< Færøyene.
+---
+> Færøyene
+> .
+31147c35163,35164
+< år.
+---
+> år
+> .
+31173c35190,35191
+< auksjon.
+---
+> auksjon
+> .
+31186,31187c35204,35207
+< Kreml.
+< "Jeg
+---
+> Kreml
+> .
+> "
+> Jeg
+31198c35218,35220
+< morgenen",
+---
+> morgenen
+> "
+> ,
+31202c35224,35225
+< brevet,
+---
+> brevet
+> ,
+31212c35235,35236
+< ".
+---
+> "
+> .
+31218c35242,35243
+< 1812,
+---
+> 1812
+> ,
+31229c35254,35255
+< Moskva.
+---
+> Moskva
+> .
+31236c35262,35263
+< Maret.
+---
+> Maret
+> .
+31242c35269,35270
+< Kreml,
+---
+> Kreml
+> ,
+31253c35281,35282
+< eksplosjonen.
+---
+> eksplosjonen
+> .
+31258c35287,35288
+< gjenoppbygget.
+---
+> gjenoppbygget
+> .
+31280c35310,35311
+< euro.
+---
+> euro
+> .
+31286c35317,35318
+< euro,
+---
+> euro
+> ,
+31291c35323,35324
+< kroner.
+---
+> kroner
+> .
+31294c35327,35328
+< dokument,
+---
+> dokument
+> ,
+31305c35339,35340
+< Helena,
+---
+> Helena
+> ,
+31310c35345,35346
+< euro,
+---
+> euro
+> ,
+31314c35350,35351
+< kroner.
+---
+> kroner
+> .
+31335c35372,35373
+< Diarra,
+---
+> Diarra
+> ,
+31354c35392,35393
+< Sanogo.
+---
+> Sanogo
+> .
+31373c35412,35413
+< regjering.
+---
+> regjering
+> .
+31404c35444,35445
+< landet.
+---
+> landet
+> .
+31418c35459,35460
+< Mali.
+---
+> Mali
+> .
+31437c35479,35480
+< Bamako,
+---
+> Bamako
+> ,
+31446c35489,35490
+< kuppmakerne.
+---
+> kuppmakerne
+> .
+31461c35505,35506
+< hjem,
+---
+> hjem
+> ,
+31469c35514,35515
+< røft.
+---
+> røft
+> .
+31485c35531,35532
+< landet.
+---
+> landet
+> .
+31494c35541,35542
+< legeundersøkelse,
+---
+> legeundersøkelse
+> ,
+31513c35561,35562
+< med.
+---
+> med
+> .
+31538,31539c35587,35590
+< Mali,
+< bort.
+---
+> Mali
+> ,
+> bort
+> .
+31548c35599,35600
+< Timbuktu.
+---
+> Timbuktu
+> .
+31559c35611,35612
+< dem,
+---
+> dem
+> ,
+31567c35620,35621
+< til,
+---
+> til
+> ,
+31574c35628,35629
+< fotball.
+---
+> fotball
+> .
+31598c35653,35654
+< kaos.
+---
+> kaos
+> .
+31606c35662,35663
+< landet.
+---
+> landet
+> .
+31615c35672,35673
+< utnevnt.
+---
+> utnevnt
+> .
+31621c35679,35680
+< statskupp,
+---
+> statskupp
+> ,
+31629c35688,35689
+< 24.
+---
+> 24
+> .
+31658c35718,35719
+< nord.
+---
+> nord
+> .
+31681c35742,35743
+< landet.
+---
+> landet
+> .
+31690c35752,35753
+< alene.
+---
+> alene
+> .
+31705c35768,35769
+< planene,
+---
+> planene
+> ,
+31709c35773,35774
+< Frankrike.
+---
+> Frankrike
+> .
+31721c35786,35787
+< støtte.
+---
+> støtte
+> .
+31735c35801,35802
+< terrorgrupper,
+---
+> terrorgrupper
+> ,
+31744c35811,35812
+< al-Qaida.
+---
+> al-Qaida
+> .
+31760c35828,35829
+< soldater.
+---
+> soldater
+> .
+31772c35841,35842
+< forhandlingsløsning,
+---
+> forhandlingsløsning
+> ,
+31780c35850,35851
+< tilbakeholdenhet.
+---
+> tilbakeholdenhet
+> .
+31805c35876,35877
+< Dine,
+---
+> Dine
+> ,
+31809c35881,35883
+< (Aqim)
+---
+> (
+> Aqim
+> )
+31811c35885,35886
+< MUJAO.
+---
+> MUJAO
+> .
+31839c35914,35915
+< regjering.
+---
+> regjering
+> .
+31860c35936,35937
+< av.
+---
+> av
+> .
+31871c35948,35949
+< kveld.
+---
+> kveld
+> .
+31899c35977,35978
+< Sanogo.
+---
+> Sanogo
+> .
+31922,31923c36001,36004
+< (VG
+< Nett)
+---
+> (
+> VG
+> Nett
+> )
+31930c36011,36012
+< sel,
+---
+> sel
+> ,
+31936,31937c36018,36021
+< forskningsstasjon.
+< Hockeyutstyr:
+---
+> forskningsstasjon
+> .
+> Hockeyutstyr
+> :
+31955,31956c36039,36042
+< avstand.
+< Foto:
+---
+> avstand
+> .
+> Foto
+> :
+31958c36044,36045
+< Kraft,
+---
+> Kraft
+> ,
+31961c36048,36049
+< Selskap:
+---
+> Selskap
+> :
+31963c36051,36053
+< 2007-2008
+---
+> 2007
+> -
+> 2008
+31974c36064,36065
+< Bouvetøya.
+---
+> Bouvetøya
+> .
+31980c36071,36072
+< vandringsmønster,
+---
+> vandringsmønster
+> ,
+31983c36075,36076
+< saltinnhold,
+---
+> saltinnhold
+> ,
+31986c36079,36080
+< dybde.
+---
+> dybde
+> .
+31995c36089,36090
+< Antarktis,
+---
+> Antarktis
+> ,
+32001,32002c36096,36099
+< mat.
+< Foto:
+---
+> mat
+> .
+> Foto
+> :
+32004c36101,36102
+< Biuw,
+---
+> Biuw
+> ,
+32016c36114,36115
+< steder.
+---
+> steder
+> .
+32031c36130,36131
+< Antarktis,
+---
+> Antarktis
+> ,
+32041c36141,36142
+< is.
+---
+> is
+> .
+32056c36157,36158
+< Nyrøysa,
+---
+> Nyrøysa
+> ,
+32060c36162,36163
+< øya.
+---
+> øya
+> .
+32070c36173,36174
+< her,
+---
+> her
+> ,
+32074c36178,36179
+< bygningene.
+---
+> bygningene
+> .
+32088c36193,36194
+< overhengende.
+---
+> overhengende
+> .
+32095c36201,36202
+< vind,
+---
+> vind
+> ,
+32097c36204,36205
+< året.
+---
+> året
+> .
+32114c36222,36223
+< revir.
+---
+> revir
+> .
+32129c36238,36239
+< avstand.
+---
+> avstand
+> .
+32142c36252,36253
+< infeksjoner.
+---
+> infeksjoner
+> .
+32150c36261,36262
+< telt,
+---
+> telt
+> ,
+32153c36265,36266
+< HMS-forhold,
+---
+> HMS-forhold
+> ,
+32156c36269,36270
+< Winther,
+---
+> Winther
+> ,
+32160c36274,36275
+< Polarinstitutt.
+---
+> Polarinstitutt
+> .
+32176c36291,36292
+< dørene.
+---
+> dørene
+> .
+32181c36297,36298
+< pilarer,
+---
+> pilarer
+> ,
+32191c36308,36309
+< selmøkk.
+---
+> selmøkk
+> .
+32202c36320,36321
+< kvadratmeter,
+---
+> kvadratmeter
+> ,
+32208c36327,36328
+< kroner.
+---
+> kroner
+> .
+32214c36334,36335
+< forskere,
+---
+> forskere
+> ,
+32220,32221c36341,36344
+< senger,
+< kjøkken,
+---
+> senger
+> ,
+> kjøkken
+> ,
+32228c36351,36352
+< laboratorium.
+---
+> laboratorium
+> .
+32233c36357,36358
+< strøm.
+---
+> strøm
+> .
+32243c36368,36369
+< båt.
+---
+> båt
+> .

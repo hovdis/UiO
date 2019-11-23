@@ -1,0 +1,20 @@
+CC=GCC
+CFLAGS=-Wall -Wectra -std=c99
+VFLAGS=--leak-check=full
+
+.PHONY: all clean
+
+all: string_test
+
+string_test: strings.c string_test.c
+    $(CC) $(CFLAGS) $^ -o $@
+
+run: string_test
+    ./string_test
+
+check: CFLAGS+=-g
+check: string_test
+    valgrind $(VFLAGS) ./string_test
+
+clean:
+    rm -f string_test

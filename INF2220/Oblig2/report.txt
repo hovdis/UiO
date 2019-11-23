@@ -1,0 +1,31 @@
+1. readFile
+O(|v|^2 * |E|)
+Går gjennom n ganger på fila, og for hver linje går jeg gjennom n ganger.
+For hver dependencie går den også gjennom E ganger.
+Grunnen til at denne er såppas lang er fordi i getTask(int id) går jeg gjennom hele arrayen for å se om id i taskene er det samme som id man får inn.
+Grunnen til at jeg gjorde dette er at id'en ikke trenger å korrespondere med hvor den er lagt inn i arrayen. Hvis jeg har en fil med tre task kan id'en være hva som helst!
+
+2. findCycle
+O(|v| * |E|)
+(Tar ikke hensyn til å lage ny ArrayList og kopiere det.)
+For hver task som har 0 i dep kjører jeg et rekursivt kall på alle outedges.
+
+3. printCycle
+O(|V|)
+Går bare gjennom hver task og printer
+
+4. executeProject
+O(|V|^2 * |E|)
+Samme som readFile
+
+5. FindSlack
+O(|v|)
+Går kun gjennom Taskene en gang (Hvis den er kalkulert henter den bare info).
+Går så gjennom alle Taskene igjen for å legge til slack, men kompleksiteten O(2|V|) = O(|V|)
+
+6. printAllAfterRun
+O(|V|)
+Går gjennom alle taskene en gang.
+
+
+
