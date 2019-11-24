@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:outlineProvider="background"
+    android:background="@drawable/backgroud_with_border">
+
+    <TextView
+        android:id="@+id/claimIDrelative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="8dp"
+        android:padding="10dp"
+        android:text="@string/claimid"
+        android:textColor="#5a5a5a"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/claimTitlerelative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="30dp"
+        android:layout_toEndOf="@+id/claimIDrelative"
+        android:padding="10dp"
+        android:text="@string/claimtitle"
+        android:textColor="#5a5a5a"
+        android:textSize="20sp" />
+
+</RelativeLayout>

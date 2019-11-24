@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:id="@+id/parent_layout_messages">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sender"
+        android:id="@+id/senderName"
+        android:textColor="#000"
+        android:textSize="17sp"/>
+
+    <TextView
+        android:id="@+id/senderDate"
+        android:layout_width="171dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="157dp"
+        android:layout_toEndOf="@+id/senderName"
+        android:text="@string/sentdate"
+        android:textColor="#00f"
+        android:textSize="12sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textContent"
+        android:text="@string/this_is_where_the_text_is_going_to_show"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:layout_below="@+id/senderName"
+        android:layout_marginTop="20sp"/>
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_below="@+id/textContent"
+        android:layout_marginTop="5sp"/>
+
+</RelativeLayout>

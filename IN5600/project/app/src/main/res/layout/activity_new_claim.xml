@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".app.newClaim">
+
+    <TextView
+        android:id="@+id/newClaimTitleText"
+        android:layout_width="109dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="286dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/title"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/newClaimTitleInput"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/newClaimTitleInput"
+        android:layout_width="362dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="15dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/title_of_claim"
+        android:inputType="textPersonName"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/newClaimPlateNumberText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.242"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/newClaimTitleText" />
+
+    <TextView
+        android:id="@+id/newClaimPlateNumberText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="286dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/plate_number"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/newClaimPlateText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/newClaimTitleInput" />
+
+    <TextView
+        android:id="@+id/occuranceDateText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="264dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/occurance_date"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/newClaimOccuranceDateInput"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/newClaimPlateText" />
+
+    <EditText
+        android:id="@+id/newClaimOccuranceDateInput"
+        android:layout_width="359dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="15dp"
+        android:ems="10"
+        android:hint="@string/date_of_the_incident"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/newClaimDescriptionText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/occuranceDateText" />
+
+    <TextView
+        android:id="@+id/newClaimDescriptionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="305dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/description"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/newClaimDescriptionInput"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/newClaimOccuranceDateInput" />
+
+    <EditText
+        android:id="@+id/newClaimDescriptionInput"
+        android:layout_width="357dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginBottom="200dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/description_of_incident"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/newClaimFileClaimBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/newClaimDescriptionText" />
+
+    <Button
+        android:id="@+id/newClaimFileClaimBtn"
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/file_claim"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.988" />
+
+    <EditText
+        android:id="@+id/newClaimPlateText"
+        android:layout_width="362dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="15dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/registered_plate_number"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/occuranceDateText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/newClaimPlateNumberText" />
+
+    <TextView
+        android:id="@+id/messageField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/please_fill_in_all_fields"
+        android:textColor="#cc0000"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/newClaimFileClaimBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/newClaimDescriptionInput"
+        app:layout_constraintVertical_bias="1.0" />
+
+</android.support.constraint.ConstraintLayout>

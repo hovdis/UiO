@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.autosure">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <service
+            android:name=".app.FindNewMessages"
+            android:enabled="true"
+            android:exported="true"></service>
+
+        <activity android:name=".app.messageListMain" />
+        <activity
+            android:name=".app.HistorySpecificClaim"
+            android:label="@string/title_activity_history_specific_claim"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".app.History" />
+        <activity android:name=".app.newClaim" />
+        <activity android:name=".app.MainActivity" />
+        <activity android:name=".app.Customer_details" />
+        <activity android:name=".app.login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

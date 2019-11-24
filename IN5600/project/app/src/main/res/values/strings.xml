@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AutoSure</string>
+    <string name="autosure">AutoSure</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="add_new_claim">Add new claim</string>
+    <string name="claim_history">Claim history</string>
+    <string name="log_out">Log out</string>
+    <string name="title">Title</string>
+    <string name="title_of_claim">Title of claim</string>
+    <string name="plate_number">Plate Number</string>
+    <string name="registered_plate_number">Registered plate number</string>
+    <string name="file_claim">File claim</string>
+    <string name="description_of_incident">Description of incident</string>
+    <string name="description">Description</string>
+    <string name="date_of_the_incident">dd.mm.yyyy</string>
+    <string name="occurance_date">Occurrance date</string>
+    <string name="claim_title">Claim Title</string>
+    <string name="claim_id">Claim ID</string>
+    <string name="forwardsArrowTMP"><![CDATA[>]]></string>
+    <string name="wronglogin">Wrong username or password</string>
+    <string name="yourdetails">Your details</string>
+    <string name="name">Name</string>
+    <string name="title_activity_history_specific_claim">historySpecificClaim</string>
+    <string name="claimspecificid">ClaimID</string>
+    <string name="claimplatespecific">claimPlateSpecific</string>
+    <string name="claimdescspecific">claimDescspecific</string>
+    <string name="claimstatusspecific">claimStatusspecific</string>
+    <string name="this_is_where_the_text_is_going_to_show">This is where the text is going to show</string>
+    <string name="sentdate">SentDate</string>
+    <string name="sender">Sender</string>
+    <string name="messages">Messages</string>
+    <string name="send_message">Send message</string>
+    <string name="enter_a_new_message">Enter a new message</string>
+    <string name="firstname_lastname">Firstname Lastname</string>
+    <string name="fiscal_number">Fiscal Number</string>
+    <string name="policy_number">Policy Number</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="address">Address</string>
+    <string name="please_fill_in_all_fields">Please fill in all fields</string>
+    <string name="claimtitle">ClaimTitle</string>
+    <string name="claimid">ClaimID</string>
+
+</resources>
