@@ -1,0 +1,14 @@
+.flexbox {
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+h1 {
+    font-weight: 800;
+    padding: 4px;
+    font-size: 32pt;
+    border-radius: 5pt 0pt 5pt 0pt;
+    padding-left: 8px;
+}

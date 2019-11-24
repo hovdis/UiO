@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+
+<head>
+<script src="listsearch.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8" />
+<link rel="stylesheet" href="../style.css" />
+
+  <title>
+    Rune Hovde
+  </title>
+</head>
+
+<body>
+  <div class="menubar">
+		<a class="active" href="../htmlcss/index.html">Home</a>
+		<a href="https://www.uio.no/studier/emner/matnat/ifi/IN5320/">IN5320</a>
+		<a href="https://www.uio.no/studier/emner/matnat/ifi/IN5320/h18/assignments/in5320-f18---individual-assignment-1.pdf">Assignment 1</a>
+		<a href="https://www.uio.no/studier/emner/matnat/ifi/IN5320/h18/assignments/in5320-f18---individual-assignment-2.pdf">Assignment 2</a>
+		<a href="../domjs/api_page.html">DOM,JavaScript and jQuery</a>
+    <a href="listSearch.html">List search</a>
+	</div>
+
+<div id="box">
+  <form id="theform">
+    <input type="text" name="search" id="search" placeholder="search" onkeydown="listAfterSearch(event)">
+      <ul id="theList2">
+      </ul>
+  </form>
+</div>
+<h2>Things you can type in in the console:</h2>
+<ul>
+  <li>     appendString("Cobol");</li>
+  <li>     applyFunc(list, addString);</li>
+  <li>     startsSame("Java", "j");</li>
+  <li>     listStartsSame(list, "j");</li>
+</ul>
+
+</body>
+
+</html>
