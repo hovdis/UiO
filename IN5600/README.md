@@ -26,3 +26,9 @@
 
 > Notes:
 > In this project, we are using a Nexus 6 with Android Oreo (version 8.1)
+
+
+
+### Course content
+
+The course will provide a solid base for understanding the challenges and problems underlying the design and development of support software (middleware and operating system) for applications in environments with mobile and ubiquitous entities (people, hardware, software). Thus, this course will teach how to specify, design, program, analyse and implement such systems and applications.
