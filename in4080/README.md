@@ -1,0 +1,4 @@
+# IN4080 – Natural Language Processing
+
+# Course content
+The course gives a comprehensive overview over modern Natural Language Processing (NLP) with main emphasis on probabilistic and machine learning techniques. Methodology for experiments based on machine learning applied to language data together with evaluation of such experiments is central. The course includes an overview over typical NLP applications, like information extraction, machine translation, question-answering systems, and a more in-depth study of one such application. In addition, the steps in a typical NLP system, like tagging, parsing, named entity recognition, relation extraction will be considered. The course will prepare the students for a master's thesis in Informatics: Language Technology.

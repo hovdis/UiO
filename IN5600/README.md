@@ -1,4 +1,9 @@
 # Group project in IN5600 - Programming Ubiquitous Things
+
+# Course content
+
+The course will provide a solid base for understanding the challenges and problems underlying the design and development of support software (middleware and operating system) for applications in environments with mobile and ubiquitous entities (people, hardware, software). Thus, this course will teach how to specify, design, program, analyze and implement such systems and applications.
+
 ## Collaborators:
 * Rune Hovde (runehovd)
 * Emilie Mæhlum (emilima)
