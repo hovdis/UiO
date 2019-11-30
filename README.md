@@ -1,3 +1,6 @@
+> Note:
+> This repo is not finished yet. Will fix up asap
+
 # UiO
 Most of my work from UiO
 
