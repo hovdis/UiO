@@ -1,0 +1,78 @@
+
+What do you want to search for? ('q' to exit)
+achiev
+This word does not exist. Similar words:
+Here are all the words that are similar:
+achive
+achier
+achieve
+
+What do you want to search for? ('q' to exit)
+achiese
+This word does not exist. Similar words:
+Here are all the words that are similar:
+achieve
+achiest
+achinese
+
+What do you want to search for? ('q' to exit)
+achievee
+This word does not exist. Similar words:
+Here are all the words that are similar:
+achieved
+achiever
+achieves
+achieve
+
+What do you want to search for? ('q' to exit)
+ahcieve
+This word does not exist. Similar words:
+Here are all the words that are similar:
+achieve
+
+What do you want to search for? ('q' to exit)
+========== INFO ABOUT THE TREE ==========
+Depth of the tree: 36
+++++++ NODES FOR EACH DEPTH: ++++++
+        [0]: 1
+        [1]: 2
+        [2]: 4
+        [3]: 8
+        [4]: 16
+        [5]: 32
+        [6]: 64
+        [7]: 121
+        [8]: 218
+        [9]: 383
+        [10]: 628
+        [11]: 990
+        [12]: 1513
+        [13]: 2208
+        [14]: 2949
+        [15]: 3889
+        [16]: 4772
+        [17]: 5670
+        [18]: 6251
+        [19]: 6688
+        [20]: 6690
+        [21]: 6448
+        [22]: 5890
+        [23]: 5101
+        [24]: 4244
+        [25]: 3254
+        [26]: 2395
+        [27]: 1789
+        [28]: 1177
+        [29]: 705
+        [30]: 429
+        [31]: 236
+        [32]: 138
+        [33]: 60
+        [34]: 25
+        [35]: 9
+        [36]: 3
++++++++++++++++++++++++++++++++++++
+Avg depth of nodes: 19.650786666666665
+The alphabetically first word is: abactinally
+The alphabetically last word is: darndests
+==========================================

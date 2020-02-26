@@ -1,0 +1,31 @@
+n = 10000000:
+VenstreRadix: 305.836937 ms
+QuickSort: 918.900479 ms
+Speedup: 3,00 x faster
+n = 1000000:
+VenstreRadix: 14.178454 ms
+QuickSort: 79.516662 ms
+Speedup: 5,61 x faster
+n = 100000: 
+VenstreRadix: 1.599421 ms
+QuickSort: 5.865375 ms
+Speedup: 3,67 x faster
+n = 10000:
+VenstreRadix: 0.203071 ms
+QuickSort: 0.484313 ms
+Speedup: 2,38 x faster
+n = 1000: 
+VenstreRadix: 0.00398 ms
+QuickSort: 0.042568 ms
+Speedup: 10,70 x faster
+n = 100: 
+VenstreRadix: 0.001131 ms
+QuickSort: 0.002755 ms
+Speedup: 2,44 x faster
+The avg time-multiplier is: 3.2130826307368023
+
+Denne algoritmen er raskere fordi det skjer færre rekursive kall, og den ser på de forskjellige tallene færre ganger (siden den kun ser på ett og ett tall, ikke sammenlikner flere tall med hverandre).
+
+Jeg vil si at det er en stabil algoritme siden to like tall ikke får ny rekkefælge. Det første tallet i arrayen a blir alltid flyttet til den første mulige indeksen i b. Insertion sort gjør heller ikke dette, så den er derfor også stabil.
+Det er noen tilfeller hvor du heller vil bruke insertion sort, og det er hvis du ikke vil se på fiksede integers(siden den er vanskelig å generalisere) eller har en lite kraftig pc(minne/cache). Det er da derfor det oftest er innebygget insertion sort i stedet for radix, som i teorien alltid skal være raskere.
+

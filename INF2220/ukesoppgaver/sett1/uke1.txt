@@ -1,0 +1,38 @@
+Exercise 1
+What if the root?
+- a
+Which are the leaved?
+- k, h, i, l m
+What´s the tree´s height?
+- 4
+Give the result of preorder, postorder and inorder traversal
+- preorder: (a (b (d (g (k)) (h))) (c (e (i)) (f (j (l) (m) ))))  
+- postorder: K - G - H - D - B - I - E - L - M - J - F - C - A
+- inorder: B - G - K - D - H - A - I - E - C - L - J - M - F 
+
+For all the nodes of the tree:
+ - name the parent
+ - list the children
+ - list the siblings
+ - compute the height, depth and size (number of nodes in the subtree)
+
+A: null(noone), B and C, null(noone), 4, 0, 12
+B: A, D, C, 3, 1, 4
+C: A, E and F, B, 3, 1, 6
+D: B, G and H, null, 2, 2, 3
+E: C, I, F, 1, 2, 1
+F: C, J, E, 2, 2, 3
+G: D, K, H, 1, 3, 1
+H: D, null, G, 0, 3, 0
+I: E, null, null, 0, 3, 0
+J: F, L and M, null, 1, 3, 2
+K: G, null, null, 0, 4, 0
+L: J, null, M, 0, 4, 0
+M: J, null, L, 0, 4, 0
+
+
+Exercise 2 (binary search tree - insertion and deletion)
+
+ - Show the result of inserting 6, 4, 8, 5, 1, 9, 7, 11, 2 into an initially empty binary search tree.
+ (on the ark)
+

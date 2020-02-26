@@ -1,0 +1,117 @@
+(display "=== 1a ===\n")
+(define (make-counter)
+  (let ((count 0))
+    (lambda ()
+      (set! count (+ 1 count))
+      count)))
+
+; ; Tester metoden:
+(define count 42)
+(define c1 (make-counter))
+(define c2 (make-counter))
+(c1)
+(c1)
+(c1)
+count
+(c2)
+
+(display "=== 1b ===\n")
+; ; Dette er nok lettest å tegne for hånd, eller på pc, og legge det ved i innleveringen.
+
+(display "=== 2a ===\n")
+; ; skal lage stacker som kan pushes eller poppes
+; ; LIFO-stakk
+
+; ; tre beskjeder vi kan gi:
+; ; 'push! - vilkårlig antall elementer/argumenter
+; ; 'pop! - ingen argumenter
+; ; 'stack - returner lista
+
+(define (make-stack items)
+  (define (choose-action msg . args)
+    (cond ((equal? 'stack msg) (stack))
+          ((equal? 'pop! msg) (pop!))
+          ((equal? 'push! msg) (push! args))
+          (else (display "Invalid message!"))))
+  
+  (define (stack) items)
+  
+  (define (pop!)
+    (if (not (null? items))
+        (set! items (cdr items))))
+
+  (define (push! args)
+    (if (not (null? args))
+        (begin
+          (set! items (cons (car args) items))
+          (push! (cdr args)))))
+
+  choose-action)
+
+; ; Tester metoden:
+(define s1 (make-stack (list 'foo 'bar)))
+(define s2 (make-stack '()))
+(s1 'pop!)
+(s1 'stack) ; ; (bar)
+(s2 'pop!)  ; ; skal ikke få feilmelding
+(s2 'push! 1 2 3 4)
+(s2 'stack) ; ; (4 3 2 1)
+(s1 'push! 'bah)
+(s1 'push! 'zap 'zip 'baz)
+(s1 'stack) ; ; (baz zip zap bah bar)
+
+
+
+(display "=== 2b ===\n")
+(define (pop! stack)
+  (stack 'pop!))
+
+(define (stack stack)
+  (stack 'stack))
+
+(define (push! stack . args)
+    (stack 'push! args))
+
+(pop! s1)
+(stack s1) ; ; (zip zap bah bar)
+(push! s1 'foo 'faa)
+(stack s1) ; ; ((foo faa) zip zap bah bar)
+
+(display "=== 3a ===\n")
+#|
+Etter set-cdr! vil bar være en syklisk liste hvor elementet etter 'd peker på 'b.
+Dette vil da si at vi får listen '('a 'b 'c 'd 'b 'c 'd ...) hvor '('b 'c 'd) er syklen.
+Grunnen til at vi får verdiene vi får ved kallene på list-ref er fordi tallet man sender med
+er antall ganger cdr kjøres rekursivt før man kaller på car.
+|#
+
+(display "=== 2b ===\n")
+#|
+Grunnen til at bah evaluerer til verdien den gjør etter det siste kallet på set-car! er fordi
+(caar bah) peker på samme sted som (cdar bah). Hvis man endrer på den ene, endres den andre også.
+(Teknisk sett så endres bare en, siden de peker på det samme, men man kan si det på den måten)
+|#
+
+(display "=== 3c ===\n")
+#|
+For at en liste skal være en liste må den ha et endepunkt. Det må gå an å gå gjennom listen og
+ende et sted. Bar er egentlig en sti, ikke en liste.
+Data skal kunne bli lagret og prosesseres i en bestem rekkefølge for at en liste skal være en liste.
+|#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

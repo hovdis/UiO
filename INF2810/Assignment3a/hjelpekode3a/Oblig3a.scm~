@@ -1,0 +1,111 @@
+; ; Author: Rune Hovde
+; ; Oppgave 1
+
+; ; a)
+(load "prekode3a.scm")
+(define (list-to-stream list)
+  (if (null? list) the-empty-stream
+      (cons-stream (car list) (list-to-stream (cdr list)))))
+
+
+(define (stream-to-list stream . args)
+  (cond ((eq? the-empty-stream stream) '())
+        ((null? args)
+         (cons (stream-car stream) (stream-to-list (stream-cdr stream))))
+        (else
+         (if (> (car args) 0)
+             (cons (stream-car stream)
+                   (stream-to-list (stream-cdr stream) (- (car args) 1)))
+             '()))))
+
+; ; Tester ut
+(list-to-stream '(1 2 3 4 5))
+(stream-to-list (stream-interval 10 20))
+(show-stream nats 15)
+(stream-to-list nats 10)
+
+
+; ; b)
+(define (stream-map proc . argstreams)
+  
+  (define (stream-iter argstreams)
+    (cond ((null? argstreams) #f)
+          ((stream-null? (car argstreams)) #t)
+          (else (stream-iter (cdr argstreams)))))
+
+  (if (stream-iter argstreams)
+      the-empty-stream
+      (cons-stream
+       (apply proc (map stream-car argstreams))
+              (apply stream-map (cons proc (map stream-cdr argstreams))))))
+
+; ; Tester ut
+(define bla1 (list-to-stream '(1 2 3)))
+(define bla2 (list-to-stream '(1 2 3 4 5 6)))
+(define bla3 (list-to-stream '(1 2 2)))
+(display "Tester 1b \n")
+(stream-to-list (stream-map + bla1 bla2 bla3))
+
+; ; c)
+
+; ; Et potensielt problem med Petter Smarts forslag, om å tilpasse
+; ; remove-duplicates til å fungere med strømmer, kan være om strømmene
+; ; er uendelig lange. Prosedyren memq stopper ikke å itere gjennom listen
+; ; før et gitt symbol forekommer, og om det ikke finnes i en uendelig liste
+; ; vil den ikke stoppe (før den går tom for minne).
+; ; En mulig quick-fix ville vært å gi med enda et argument til memq, en teller,
+; ; som begrenser hvor mange plasser memq skal gå gjennom.
+
+; ; d)
+(define (show x)
+  (display x)
+  (newline)
+  x)
+
+(define x
+  (stream-map show
+              (stream-interval 0 10)))
+; ; Output: 0
+; ; Reason: Grunnen til at outputten blir 0 er fordi cons-stream (som blir kalt i stream-map) setter en delay på cdr av strømmen.
+; ;         Show blir da altså bare kalt på en gang, med det første elementet i strømmen (når den defineres).
+
+
+(stream-ref x 5)
+; ; Output: 1-5 (med newline for hvert tall) (display-kall), så returneres 5
+; ; Reason: For å finne det 5. elementet i strømmen (tellende fra 0) må det bli evaluert først.
+; ;         Dette er grunnen til at 1, 2, 3, 4 og 5 blir skrevet ut. 0 er allerede evaluert (i definisjonen av x).
+
+
+
+(stream-ref x 7)
+; ; Output: 6-7 (med newline for hvert tall) (display-kall), så returneres 7.
+; ; Reason: Samme grunn som over, bare med 6 og 7 i stedet for 1, 2, 3, 4, 5
+
+
+
+; ; Oppgave 2
+
+; ; a)
+
+
+(define (make-lm)
+  (list (*model*)))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+; ; Magnus og nico var vitner til Runes vidunderliggjøring av en oppgave.

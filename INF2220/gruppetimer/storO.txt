@@ -1,0 +1,12 @@
+1. Hvis T(n) = c * f(n) for en konstant og en funksjon f, så er T(n) = O(f(n)) (altså n)
+
+2. Hvis T(n)=f(n)+g(n) så vil funksjonen som er mest dominerenede være o-notasjonen.
+(Eks. Hvis du har en funksjon n^2 og en funksjon n vil o-notasjonen være n^2.)
+
+O(1) = konstant
+O(n) = lineær
+O(n^2) = kvadratisk
+O(n^3) = kubisk
+O(2^n) = eksponensielt
+
+

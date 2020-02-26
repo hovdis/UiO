@@ -1,0 +1,85 @@
+På eksamne er alle hjelpemidler tillatt!! 
+
+Generelt om trær:
+Trær brukes gjerne for å representere data som er organisert hierarkisk.
+Typiske eksempler er:
+-folorganisering
+-slektstrær
+...
+
+Terminologi:
+Et tre er en samling noder. Et ikke-tomt tre består av en rot-node og null eller flere ikke-tomme subtrær.
+Fra roten går det en rettet kant til roten i hvert subtre.
+(denne definisjonen er rekursiv!)
+
+
+Å traversere et tre vil si å besøke alle (eller noen av) nodene i treet, for eksempoel for å:
+- Lete etter en bestemt node(element)
+- Sette inn en ny node (met et nytt element)
+- Fjerne en node/element
+- Gjøre en beregning(eller utrskrift) på nodene i treet.
+
+Problemet som skal løses avgjør traverserings-rekkefølgen.
+
+To traverseringsmåter:
+- Prefils (preorder): behandle noden FØR vi går videre til barna.
+- Postfiks(postorder): begandle noden ETTER at vi har besøkt ALLE barna til noden.
+
+
+Dybden til en node er definert av (den unike) veien fra roten til noden.
+Roten har altså dybde 0.
+
+Rekursiv metode for å beregne dybden til alle nodene i et tre:
+
+//kall: rot.beregnDybde(0);
+a
+void beregnDybde(int d){
+    this.dybde = d;
+    for(<hvert barn b>){
+        b.beregnDybde(d+1);
+    }
+}
+Høyden til en node er definert som lengden av den lengste veien fra noden til en løvnode.
+Alle løvnoder har dermed høyde 0.
+Høyden til et tre er lik høyden til roten.
+
+//kall:rot.beregnHoyde();
+
+int beregnHoyde(){
+    int tmp;
+    this.hoyde = 0;
+    for(<hvert barn b>){
+        tmp = b.beregnHoyde()+1;
+        if(tmp > this.hoyde){
+            this.hoyde = tmp;
+        }
+    }
+    return this.hoyde;
+}
+
+
+
+
+BINÆRTRÆR
+
+Alt over gjelder for binærtrær, men det er noen ting som er spesielt for binærtrær.
+
+En binærtre har MAKS to barn. (0-1-2)
+
+Angir alltid om det er høyre eller venstre subtre.
+
+reverse polish notation
+
+
+
+BINÆRE SØKETRÆR
+
+Binære søketrær er en variant av binærtrær hvor følgende for hver node i treet:
+- Alle verdiene i venstre subtre er mindre enn verdien i noden selv.
+- Alle verdiene i høyre subtre er større enn verdien i noden selv.
+
+
+
+O-notasjon
+GEnerelt er vi ikke interessert i nøyaktig hvor mye tid et program bruker, men vil heller prøve å angi hvilken størrelsesorden løsningen ligger.
+
